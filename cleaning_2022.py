@@ -5,11 +5,10 @@ url = 'https://worldcupjson.net/matches'
 
 response = requests.get(url)
 data = pd.json_normalize(response.json())
-print(data.stage_name.unique())
 
 def clean_2022(data) :
     # Normalisation de datetime au format YYYYMMDD :
-    data['datetime'] = pd.to_datetime(data['datetime']).dt.strftime("%Y%m%d")
+    data['datetime'] = pd.to_datetime(data['datetime']).dt.strftime("%Y-%m-%d")
 
     # Création de result :
     data.loc[data['winner'] == 'Draw', 'result'] = 'draw'
@@ -23,8 +22,8 @@ def clean_2022(data) :
     data.loc[data['stage_name'] == 'Semi-final','stage_name'] = 'Demi-finales'
     data.loc[data['stage_name'] == 'Play-off for third place','stage_name'] = 'Troisième place'
     data.loc[data['stage_name'] == 'Final','stage_name'] = 'Finale'
+    
     return pd.DataFrame({
-        'id_match':data['id'],
         'home_team': data['home_team.name'],
         'away_team': data['away_team.name'],
         'home_result': data['home_team.goals'],
@@ -33,5 +32,5 @@ def clean_2022(data) :
         'date': data['datetime'],
         'round': data['stage_name'],
         'city': data['location'],
-        'edition': 2024
-    }).sort_values(['date','id_match'])
+        'edition': 2022
+    }).sort_values('date')

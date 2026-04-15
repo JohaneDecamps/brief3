@@ -1,773 +1,773 @@
 edition,round,home_team,away_team,date,home_result,away_result,result,city
-1930,Poules,France,Mexico ,1930,4,1,home_team,Montevideo
-1930,Poules,USA,Belgium ,1930,3,0,home_team,Montevideo
-1930,Poules,Yugoslavia ,Brazil ,1930,2,1,home_team,Montevideo
-1930,Poules,Romania ,Peru ,1930,3,1,home_team,Montevideo
-1930,Poules,Argentina,France,1930,1,0,home_team,Montevideo
-1930,Poules,Chile,Mexico ,1930,3,0,home_team,Montevideo
-1930,Poules,Yugoslavia ,Bolivia,1930,4,0,home_team,Montevideo
-1930,Poules,USA,Paraguay,1930,3,0,home_team,Montevideo
-1930,Poules,Uruguay,Peru ,1930,1,0,home_team,Montevideo
-1930,Poules,Chile,France,1930,1,0,home_team,Montevideo
-1930,Poules,Argentina,Mexico ,1930,6,3,home_team,Montevideo
-1930,Poules,Brazil ,Bolivia,1930,4,0,home_team,Montevideo
-1930,Poules,Paraguay,Belgium ,1930,1,0,home_team,Montevideo
-1930,Poules,Uruguay,Romania ,1930,4,0,home_team,Montevideo
-1930,Poules,Argentina,Chile,1930,3,1,home_team,Montevideo
-1930,Demi-finales,Argentina,USA,1930,6,1,home_team,Montevideo
-1930,Demi-finales,Uruguay,Yugoslavia ,1930,6,1,home_team,Montevideo
-1930,Finale,Uruguay,Argentina,1930,4,2,home_team,Montevideo
-1934,Huitièmes de finale,Italy ,USA,1934,7,1,home_team,Roma
-1934,Huitièmes de finale,Austria ,France,1934,3,2,home_team,Torino
-1934,Huitièmes de finale,Germany ,Belgium ,1934,5,2,home_team,Firenze
-1934,Huitièmes de finale,Czechoslovakia ,Romania ,1934,2,1,home_team,Trieste
-1934,Huitièmes de finale,Switzerland ,Netherlands ,1934,3,2,home_team,Milano
-1934,Huitièmes de finale,Sweden ,Argentina,1934,3,2,home_team,Bologna
-1934,Huitièmes de finale,Spain ,Brazil ,1934,3,1,home_team,Genova
-1934,Huitièmes de finale,Hungary ,Egypt ,1934,4,2,home_team,Napoli
-1934,Quarts de finale,Austria ,Hungary ,1934,2,1,home_team,Bologna
-1934,Quarts de finale,Czechoslovakia ,Switzerland ,1934,3,2,home_team,Torino
-1934,Quarts de finale,Germany ,Sweden ,1934,2,1,home_team,Milano
-1934,Quarts de finale,Italy ,Spain ,1934,1,1,draw,Firenze
-1934,Quarts de finale,Italy ,Spain ,1934,1,0,home_team,Firenze
-1934,Demi-finales,Italy ,Austria ,1934,1,0,home_team,Milano
-1934,Demi-finales,Czechoslovakia ,Germany ,1934,3,1,home_team,Roma
-1934,Troisième place,Germany ,Austria ,1934,3,2,home_team,Napoli
-1934,Finale,Italy ,Czechoslovakia ,1934,2,1,home_team,Roma
-1938,Huitièmes de finale,Switzerland ,Germany ,1938,1,1,draw,Paris
-1938,Huitièmes de finale,Italy ,Norway ,1938,2,1,home_team,Marseille
-1938,Huitièmes de finale,France,Belgium ,1938,3,1,home_team,Paris
-1938,Huitièmes de finale,Hungary ,Dutch East Indies ,1938,6,0,home_team,Reims
-1938,Huitièmes de finale,Cuba,Romania ,1938,3,3,draw,Toulouse
-1938,Huitièmes de finale,Brazil ,Poland ,1938,6,5,home_team,Strasbourg
-1938,Huitièmes de finale,Czechoslovakia ,Netherlands ,1938,3,0,home_team,Le_Havre
-1938,Huitièmes de finale,Switzerland ,Germany ,1938,4,2,home_team,Paris
-1938,Huitièmes de finale,Cuba,Romania ,1938,2,1,home_team,Toulouse
-1938,Quarts de finale,Italy ,France,1938,3,1,home_team,Paris
-1938,Quarts de finale,Brazil ,Czechoslovakia ,1938,1,1,draw,Bordeaux
-1938,Quarts de finale,Hungary ,Switzerland ,1938,2,0,home_team,Lille
-1938,Quarts de finale,Sweden ,Cuba,1938,8,0,home_team,Antibes
-1938,Quarts de finale,Brazil ,Czechoslovakia ,1938,2,1,home_team,Bordeaux
-1938,Demi-finales,Italy ,Brazil ,1938,2,1,home_team,Marseille
-1938,Demi-finales,Hungary ,Sweden ,1938,5,1,home_team,Paris
-1938,Troisième place,Brazil ,Sweden ,1938,4,2,home_team,Bordeaux
-1938,Finale,Italy ,Hungary ,1938,4,2,home_team,Paris
-1950,Poules,Brazil ,Mexico ,1950,4,0,home_team,Rio De Janeiro
-1950,Poules,England,Chile,1950,2,0,home_team,Rio De Janeiro
-1950,Poules,Spain ,USA,1950,3,1,home_team,Curitiba
-1950,Poules,Sweden ,Italy ,1950,3,2,home_team,São_Paulo
-1950,Poules,Yugoslavia ,Switzerland ,1950,3,0,home_team,Belo Horizonte
-1950,Poules,Brazil ,Switzerland ,1950,2,2,draw,São_Paulo
-1950,Poules,Yugoslavia ,Mexico ,1950,4,1,home_team,Porto_Alegre
-1950,Poules,Spain ,Chile,1950,2,0,home_team,Rio De Janeiro
-1950,Poules,Sweden ,Paraguay,1950,2,2,draw,Curitiba
-1950,Poules,USA,England,1950,1,0,home_team,Belo Horizonte
-1950,Poules,Brazil ,Yugoslavia ,1950,2,0,home_team,Rio De Janeiro
-1950,Poules,Spain ,England,1950,1,0,home_team,Rio De Janeiro
-1950,Poules,Italy ,Paraguay,1950,2,0,home_team,São_Paulo
-1950,Poules,Uruguay,Bolivia,1950,8,0,home_team,Belo Horizonte
-1950,Poules,Switzerland ,Mexico ,1950,2,1,home_team,Porto_Alegre
-1950,Poules,Chile,USA,1950,5,2,home_team,Recife
-1950,Finale,Brazil ,Sweden ,1950,7,1,home_team,Rio De Janeiro
-1950,Finale,Uruguay,Spain ,1950,2,2,draw,São_Paulo
-1950,Finale,Uruguay,Sweden ,1950,3,2,home_team,São_Paulo
-1950,Finale,Brazil ,Spain ,1950,6,1,home_team,Rio De Janeiro
-1950,Finale,Sweden ,Spain ,1950,3,1,home_team,São_Paulo
-1950,Finale,Uruguay,Brazil ,1950,2,1,home_team,Rio De Janeiro
-1954,Poules,Yugoslavia ,France,1954,1,0,home_team,Lausanne
-1954,Poules,Brazil ,Mexico ,1954,5,0,home_team,Genève
-1954,Poules,Austria ,Scotland,1954,1,0,home_team,Zürich
-1954,Poules,Uruguay,Czechoslovakia ,1954,2,0,home_team,Bern
-1954,Poules,Switzerland ,Italy ,1954,2,1,home_team,Lausanne
-1954,Poules,Hungary ,South Korea ,1954,9,0,home_team,Zürich
-1954,Poules,FRG ,Turkey ,1954,4,1,home_team,Bern
-1954,Poules,England,Belgium ,1954,4,4,draw,Basel
-1954,Poules,Uruguay,Scotland,1954,7,0,home_team,Basel
-1954,Poules,Brazil ,Yugoslavia ,1954,1,1,draw,Lausanne
-1954,Poules,Austria ,Czechoslovakia ,1954,5,0,home_team,Zürich
-1954,Poules,France,Mexico ,1954,3,2,home_team,Genève
-1954,Poules,Hungary ,FRG ,1954,8,3,home_team,Basel
-1954,Poules,Turkey ,South Korea ,1954,7,0,home_team,Genève
-1954,Poules,Italy ,Belgium ,1954,4,1,home_team,Lugano
-1954,Poules,England,Switzerland ,1954,2,0,home_team,Bern
-1954,Poules,FRG ,Turkey ,1954,7,2,home_team,Zürich
-1954,Poules,Switzerland ,Italy ,1954,4,1,home_team,Basel
-1954,Quarts de finale,Uruguay,England,1954,4,2,home_team,Basel
-1954,Quarts de finale,Austria ,Switzerland ,1954,7,5,home_team,Lausanne
-1954,Quarts de finale,Hungary ,Brazil ,1954,4,2,home_team,Bern
-1954,Quarts de finale,FRG ,Yugoslavia ,1954,2,0,home_team,Genève
-1954,Demi-finales,Hungary ,Uruguay,1954,4,2,home_team,Lausanne
-1954,Demi-finales,FRG ,Austria ,1954,6,1,home_team,Basel
-1954,Troisième place,Austria ,Uruguay,1954,3,1,home_team,Zürich
-1954,Finale,FRG ,Hungary ,1954,3,2,home_team,Bern
-1958,Poules,Sweden ,Mexico ,1958,3,0,home_team,Stockholm
-1958,Poules,FRG ,Argentina,1958,3,1,home_team,Malmö
-1958,Poules,Northern Ireland ,Czechoslovakia ,1958,1,0,home_team,Halmstad
-1958,Poules,France,Paraguay,1958,7,3,home_team,Norrköping
-1958,Poules,Yugoslavia ,Scotland,1958,1,1,draw,Västerås
-1958,Poules,Hungary ,Wales ,1958,1,1,draw,Sandviken
-1958,Poules,England,Soviet Union ,1958,2,2,draw,Göteborg
-1958,Poules,Brazil ,Austria ,1958,3,0,home_team,Uddevalla
-1958,Poules,FRG ,Czechoslovakia ,1958,2,2,draw,Helsingborg
-1958,Poules,Argentina,Northern Ireland ,1958,3,1,home_team,Halmstad
-1958,Poules,Paraguay,Scotland,1958,3,2,home_team,Norrköping
-1958,Poules,Yugoslavia ,France,1958,3,2,home_team,Västerås
-1958,Poules,Wales ,Mexico ,1958,1,1,draw,Stockholm
-1958,Poules,Brazil ,England,1958,0,0,draw,Göteborg
-1958,Poules,Soviet Union ,Austria ,1958,2,0,home_team,Borås
-1958,Poules,Sweden ,Hungary ,1958,2,1,home_team,Stockholm
-1958,Poules,Sweden ,Wales ,1958,0,0,draw,Stockholm
-1958,Poules,FRG ,Northern Ireland ,1958,2,2,draw,Malmö
-1958,Poules,Czechoslovakia ,Argentina,1958,6,1,home_team,Helsingborg
-1958,Poules,France,Scotland,1958,2,1,home_team,Örebro
-1958,Poules,Yugoslavia ,Paraguay,1958,3,3,draw,Eskilstuna
-1958,Poules,Hungary ,Mexico ,1958,4,0,home_team,Sandviken
-1958,Poules,Brazil ,Soviet Union ,1958,2,0,home_team,Göteborg
-1958,Poules,England,Austria ,1958,2,2,draw,Borås
-1958,Poules,Northern Ireland ,Czechoslovakia ,1958,2,1,home_team,Malmö
-1958,Poules,Wales ,Hungary ,1958,2,1,home_team,Stockholm
-1958,Poules,Soviet Union ,England,1958,1,0,home_team,Göteborg
-1958,Quarts de finale,Sweden ,Soviet Union ,1958,2,0,home_team,Stockholm
-1958,Quarts de finale,FRG ,Yugoslavia ,1958,1,0,home_team,Malmö
-1958,Quarts de finale,France,Northern Ireland ,1958,4,0,home_team,Norrköping
-1958,Quarts de finale,Brazil ,Wales ,1958,1,0,home_team,Göteborg
-1958,Demi-finales,Sweden ,FRG ,1958,3,1,home_team,Göteborg
-1958,Demi-finales,Brazil ,France,1958,5,2,home_team,Stockholm
-1958,Troisième place,France,FRG ,1958,6,3,home_team,Göteborg
-1958,Finale,Brazil ,Sweden ,1958,5,2,home_team,Stockholm
-1962,Poules,Uruguay,Colombia,1962,2,1,home_team,Arica
-1962,Poules,Chile,Switzerland ,1962,3,1,home_team,Santiago
-1962,Poules,Brazil ,Mexico ,1962,2,0,home_team,Viña Del Mar
-1962,Poules,Argentina,Bulgaria ,1962,1,0,home_team,Rancagua
-1962,Poules,Soviet Union ,Yugoslavia ,1962,2,0,home_team,Arica
-1962,Poules,FRG ,Italy ,1962,0,0,draw,Santiago
-1962,Poules,Czechoslovakia ,Spain ,1962,1,0,home_team,Viña Del Mar
-1962,Poules,Hungary ,England,1962,2,1,home_team,Rancagua
-1962,Poules,Yugoslavia ,Uruguay,1962,3,1,home_team,Santiago
-1962,Poules,Chile,Italy ,1962,2,0,home_team,Viña Del Mar
-1962,Poules,Brazil ,Czechoslovakia ,1962,0,0,draw,Rancagua
-1962,Poules,England,Argentina,1962,3,1,home_team,Arica
-1962,Poules,Soviet Union ,Colombia,1962,4,4,draw,Arica
-1962,Poules,FRG ,Switzerland ,1962,2,1,home_team,Santiago
-1962,Poules,Spain ,Mexico ,1962,1,0,home_team,Viña Del Mar
-1962,Poules,Hungary ,Bulgaria ,1962,6,1,home_team,Rancagua
-1962,Poules,Soviet Union ,Uruguay,1962,2,1,home_team,Arica
-1962,Poules,FRG ,Chile,1962,2,0,home_team,Santiago
-1962,Poules,Brazil ,Spain ,1962,2,1,home_team,Viña Del Mar
-1962,Poules,Hungary ,Argentina,1962,0,0,draw,Rancagua
-1962,Poules,Yugoslavia ,Colombia,1962,5,0,home_team,Arica
-1962,Poules,Italy ,Switzerland ,1962,3,0,home_team,Santiago
-1962,Poules,Mexico ,Czechoslovakia ,1962,3,1,home_team,Viña Del Mar
-1962,Poules,England,Bulgaria ,1962,0,0,draw,Rancagua
-1962,Quarts de finale,Chile,Soviet Union ,1962,2,1,home_team,Arica
-1962,Quarts de finale,Yugoslavia ,FRG ,1962,1,0,home_team,Santiago
-1962,Quarts de finale,Brazil ,England,1962,3,1,home_team,Viña Del Mar
-1962,Quarts de finale,Czechoslovakia ,Hungary ,1962,1,0,home_team,Rancagua
-1962,Demi-finales,Brazil ,Chile,1962,4,2,home_team,Santiago
-1962,Demi-finales,Czechoslovakia ,Yugoslavia ,1962,3,1,home_team,Viña Del Mar
-1962,Troisième place,Chile,Yugoslavia ,1962,1,0,home_team,Santiago
-1962,Finale,Brazil ,Czechoslovakia ,1962,3,1,home_team,Santiago
-1966,Poules,England,Uruguay,1966,0,0,draw,London
-1966,Poules,FRG ,Switzerland ,1966,5,0,home_team,Sheffield
-1966,Poules,Brazil ,Bulgaria ,1966,2,0,home_team,Liverpool
-1966,Poules,Soviet Union ,North Korea ,1966,3,0,home_team,Middlesbrough
-1966,Poules,France,Mexico ,1966,1,1,draw,London
-1966,Poules,Argentina,Spain ,1966,2,1,home_team,Birmingham
-1966,Poules,Portugal,Hungary ,1966,3,1,home_team,Manchester
-1966,Poules,Italy ,Chile,1966,2,0,home_team,Sunderland
-1966,Poules,Uruguay,France,1966,2,1,home_team,London
-1966,Poules,Spain ,Switzerland ,1966,2,1,home_team,Sheffield
-1966,Poules,Hungary ,Brazil ,1966,3,1,home_team,Liverpool
-1966,Poules,North Korea ,Chile,1966,1,1,draw,Middlesbrough
-1966,Poules,FRG ,Argentina,1966,0,0,draw,Birmingham
-1966,Poules,Portugal,Bulgaria ,1966,3,0,home_team,Manchester
-1966,Poules,Soviet Union ,Italy ,1966,1,0,home_team,Sunderland
-1966,Poules,England,Mexico ,1966,2,0,home_team,London
-1966,Poules,Mexico ,Uruguay,1966,0,0,draw,London
-1966,Poules,Argentina,Switzerland ,1966,2,0,home_team,Sheffield
-1966,Poules,Portugal,Brazil ,1966,3,1,home_team,Liverpool
-1966,Poules,North Korea ,Italy ,1966,1,0,home_team,Middlesbrough
-1966,Poules,England,France,1966,2,0,home_team,London
-1966,Poules,FRG ,Spain ,1966,2,1,home_team,Birmingham
-1966,Poules,Hungary ,Bulgaria ,1966,3,1,home_team,Manchester
-1966,Poules,Soviet Union ,Chile,1966,2,1,home_team,Sunderland
-1966,Quarts de finale,FRG ,Uruguay,1966,4,0,home_team,Sheffield
-1966,Quarts de finale,Portugal,North Korea ,1966,5,3,home_team,Liverpool
-1966,Quarts de finale,Soviet Union ,Hungary ,1966,2,1,home_team,Sunderland
-1966,Quarts de finale,England,Argentina,1966,1,0,home_team,London
-1966,Demi-finales,FRG ,Soviet Union ,1966,2,1,home_team,Liverpool
-1966,Demi-finales,England,Portugal,1966,2,1,home_team,London
-1966,Troisième place,Portugal,Soviet Union ,1966,2,1,home_team,London
-1966,Finale,England,FRG ,1966,4,2,home_team,London
-1970,Poules,Soviet Union ,Mexico ,1970,0,0,draw,México Df
-1970,Poules,Uruguay,Israel ,1970,2,0,home_team,Puebla
-1970,Poules,England,Romania ,1970,1,0,home_team,Guadalajara
-1970,Poules,Peru ,Bulgaria ,1970,3,2,home_team,León
-1970,Poules,Belgium ,El Salvador,1970,3,0,home_team,México Df
-1970,Poules,Italy ,Sweden ,1970,1,0,home_team,Toluca
-1970,Poules,Brazil ,Czechoslovakia ,1970,4,1,home_team,Guadalajara
-1970,Poules,FRG ,Morocco ,1970,2,1,home_team,León
-1970,Poules,Soviet Union ,Belgium ,1970,4,1,home_team,México Df
-1970,Poules,Italy ,Uruguay,1970,0,0,draw,Puebla
-1970,Poules,Romania ,Czechoslovakia ,1970,2,1,home_team,Guadalajara
-1970,Poules,Peru ,Morocco ,1970,3,0,home_team,León
-1970,Poules,Mexico ,El Salvador,1970,4,0,home_team,México Df
-1970,Poules,Sweden ,Israel ,1970,1,1,draw,Toluca
-1970,Poules,Brazil ,England,1970,1,0,home_team,Guadalajara
-1970,Poules,FRG ,Bulgaria ,1970,5,2,home_team,León
-1970,Poules,Soviet Union ,El Salvador,1970,2,0,home_team,México Df
-1970,Poules,Sweden ,Uruguay,1970,1,0,home_team,Puebla
-1970,Poules,Brazil ,Romania ,1970,3,2,home_team,Guadalajara
-1970,Poules,FRG ,Peru ,1970,3,1,home_team,León
-1970,Poules,Mexico ,Belgium ,1970,1,0,home_team,México Df
-1970,Poules,Italy ,Israel ,1970,0,0,draw,Toluca
-1970,Poules,England,Czechoslovakia ,1970,1,0,home_team,Guadalajara
-1970,Poules,Bulgaria ,Morocco ,1970,1,1,draw,León
-1970,Quarts de finale,Uruguay,Soviet Union ,1970,1,0,home_team,México Df
-1970,Quarts de finale,Italy ,Mexico ,1970,4,1,home_team,Toluca
-1970,Quarts de finale,Brazil ,Peru ,1970,4,2,home_team,Guadalajara
-1970,Quarts de finale,FRG ,England,1970,3,2,home_team,León
-1970,Demi-finales,Brazil ,Uruguay,1970,3,1,home_team,Guadalajara
-1970,Demi-finales,Italy ,FRG ,1970,4,3,home_team,México Df
-1970,Troisième place,FRG ,Uruguay,1970,1,0,home_team,México Df
-1970,Finale,Brazil ,Italy ,1970,4,1,home_team,México Df
-1974,Poules,Brazil ,Yugoslavia ,1974,0,0,draw,Frankfurt Am Main
-1974,Poules,FRG ,Chile,1974,1,0,home_team,West-Berlin
-1974,Poules,GDR ,Australia,1974,2,0,home_team,Hamburg
-1974,Poules,Zaire ,Scotland,1974,0,2,away_home,Dortmund
-1974,Poules,Sweden ,Bulgaria ,1974,0,0,draw,Düsseldorf
-1974,Poules,Uruguay,Netherlands ,1974,0,2,away_home,Hannover
-1974,Poules,Italy ,Haiti ,1974,3,1,home_team,München
-1974,Poules,Poland ,Argentina,1974,3,2,home_team,Stuttgart
-1974,Poules,Australia,FRG ,1974,0,3,away_home,Hamburg
-1974,Poules,Chile,GDR ,1974,1,1,draw,West-Berlin
-1974,Poules,Yugoslavia ,Zaire ,1974,9,0,home_team,Gelsenkirchen
-1974,Poules,Scotland,Brazil ,1974,0,0,draw,Frankfurt Am Main
-1974,Poules,Netherlands ,Sweden ,1974,0,0,draw,Dortmund
-1974,Poules,Bulgaria ,Uruguay,1974,1,1,draw,Hannover
-1974,Poules,Haiti ,Poland ,1974,0,7,away_home,München
-1974,Poules,Argentina,Italy ,1974,1,1,draw,Stuttgart
-1974,Poules,Australia,Chile,1974,0,0,draw,West-Berlin
-1974,Poules,Zaire ,Brazil ,1974,0,3,away_home,Gelsenkirchen
-1974,Poules,Scotland,Yugoslavia ,1974,1,1,draw,Frankfurt Am Main
-1974,Poules,GDR ,FRG ,1974,1,0,home_team,Hamburg
-1974,Poules,Bulgaria ,Netherlands ,1974,1,4,away_home,Dortmund
-1974,Poules,Sweden ,Uruguay,1974,3,0,home_team,Düsseldorf
-1974,Poules,Argentina,Haiti ,1974,4,1,home_team,München
-1974,Poules,Poland ,Italy ,1974,2,1,home_team,Stuttgart
-1974,Demi-finales,Yugoslavia ,FRG ,1974,0,2,away_home,Düsseldorf
-1974,Demi-finales,Netherlands ,Argentina,1974,4,0,home_team,Gelsenkirchen
-1974,Demi-finales,Brazil ,GDR ,1974,1,0,home_team,Hannover
-1974,Demi-finales,Sweden ,Poland ,1974,0,1,away_home,Stuttgart
-1974,Demi-finales,GDR ,Netherlands ,1974,0,2,away_home,Gelsenkirchen
-1974,Demi-finales,Argentina,Brazil ,1974,1,2,away_home,Hannover
-1974,Demi-finales,Poland ,Yugoslavia ,1974,2,1,home_team,Frankfurt Am Main
-1974,Demi-finales,FRG ,Sweden ,1974,4,2,home_team,Düsseldorf
-1974,Demi-finales,Poland ,FRG ,1974,0,1,away_home,Frankfurt Am Main
-1974,Demi-finales,Netherlands ,Brazil ,1974,2,0,home_team,Dortmund
-1974,Demi-finales,Argentina,GDR ,1974,1,1,draw,Gelsenkirchen
-1974,Demi-finales,Sweden ,Yugoslavia ,1974,2,1,home_team,Düsseldorf
-1974,Troisième place,Poland ,Brazil ,1974,1,0,home_team,München
-1974,Finale,FRG ,Netherlands ,1974,2,1,home_team,München
-1978,Poules,FRG ,Poland ,1978,0,0,draw,Buenos Aires
-1978,Poules,Italy ,France,1978,2,1,home_team,Mar_Del_Plata
-1978,Poules,Tunisia ,Mexico ,1978,3,1,home_team,Rosario
-1978,Poules,Argentina,Hungary ,1978,2,1,home_team,Buenos Aires
-1978,Poules,Austria ,Spain ,1978,2,1,home_team,Buenos Aires
-1978,Poules,Sweden ,Brazil ,1978,1,1,draw,Mar_Del_Plata
-1978,Poules,Peru ,Scotland,1978,3,1,home_team,Córdoba
-1978,Poules,Netherlands ,Iran ,1978,3,0,home_team,Mendoza
-1978,Poules,Italy ,Hungary ,1978,3,1,home_team,Mar_Del_Plata
-1978,Poules,FRG ,Mexico ,1978,6,0,home_team,Córdoba
-1978,Poules,Poland ,Tunisia ,1978,1,0,home_team,Rosario
-1978,Poules,Argentina,France,1978,2,1,home_team,Buenos Aires
-1978,Poules,Austria ,Sweden ,1978,1,0,home_team,Buenos Aires
-1978,Poules,Brazil ,Spain ,1978,0,0,draw,Mar_Del_Plata
-1978,Poules,Scotland,Iran ,1978,1,1,draw,Córdoba
-1978,Poules,Netherlands ,Peru ,1978,0,0,draw,Mendoza
-1978,Poules,France,Hungary ,1978,3,1,home_team,Mar_Del_Plata
-1978,Poules,FRG ,Tunisia ,1978,0,0,draw,Córdoba
-1978,Poules,Poland ,Mexico ,1978,3,1,home_team,Rosario
-1978,Poules,Italy ,Argentina,1978,1,0,home_team,Buenos Aires
-1978,Poules,Spain ,Sweden ,1978,1,0,home_team,Buenos Aires
-1978,Poules,Brazil ,Austria ,1978,1,0,home_team,Mar_Del_Plata
-1978,Poules,Peru ,Iran ,1978,4,1,home_team,Córdoba
-1978,Poules,Scotland,Netherlands ,1978,3,2,home_team,Mendoza
-1978,Demi-finales,Netherlands ,Austria ,1978,5,1,home_team,Córdoba
-1978,Demi-finales,FRG ,Italy ,1978,0,0,draw,Buenos Aires
-1978,Demi-finales,Brazil ,Peru ,1978,3,0,home_team,Mendoza
-1978,Demi-finales,Argentina,Poland ,1978,2,0,home_team,Rosario
-1978,Demi-finales,Poland ,Peru ,1978,1,0,home_team,Mendoza
-1978,Demi-finales,FRG ,Netherlands ,1978,2,2,draw,Córdoba
-1978,Demi-finales,Italy ,Austria ,1978,1,0,home_team,Buenos Aires
-1978,Demi-finales,Argentina,Brazil ,1978,0,0,draw,Rosario
-1978,Demi-finales,Austria ,FRG ,1978,3,2,home_team,Córdoba
-1978,Demi-finales,Netherlands ,Italy ,1978,2,1,home_team,Buenos Aires
-1978,Demi-finales,Brazil ,Poland ,1978,3,1,home_team,Mendoza
-1978,Demi-finales,Argentina,Peru ,1978,6,0,home_team,Rosario
-1978,Troisième place,Brazil ,Italy ,1978,2,1,home_team,Buenos Aires
-1978,Finale,Argentina,Netherlands ,1978,3,1,home_team,Buenos Aires
-1982,Poules,Argentina,Belgium ,1982,0,1,away_home,Barcelona
-1982,Poules,Italy ,Poland ,1982,0,0,draw,Vigo
-1982,Poules,Brazil ,Soviet Union ,1982,2,1,home_team,Sevilla
-1982,Poules,Peru ,Cameroon ,1982,0,0,draw,La_Coruña
-1982,Poules,Hungary ,El Salvador,1982,10,1,home_team,Elche
-1982,Poules,Scotland,New Zealand ,1982,5,2,home_team,Málaga
-1982,Poules,FRG ,Algeria ,1982,1,2,away_home,Gijón
-1982,Poules,England,France,1982,3,1,home_team,Bilbao
-1982,Poules,Spain ,Honduras,1982,1,1,draw,Valencia
-1982,Poules,Chile,Austria ,1982,0,1,away_home,Oviedo
-1982,Poules,Czechoslovakia ,Kuwait ,1982,1,1,draw,Valladolid
-1982,Poules,Yugoslavia ,Northern Ireland ,1982,0,0,draw,Zaragoza
-1982,Poules,Italy ,Peru ,1982,1,1,draw,Vigo
-1982,Poules,Argentina,Hungary ,1982,4,1,home_team,Alicante
-1982,Poules,Brazil ,Scotland,1982,4,1,home_team,Sevilla
-1982,Poules,Poland ,Cameroon ,1982,0,0,draw,La_Coruña
-1982,Poules,Belgium ,El Salvador,1982,1,0,home_team,Elche
-1982,Poules,Soviet Union ,New Zealand ,1982,3,0,home_team,Málaga
-1982,Poules,FRG ,Chile,1982,4,1,home_team,Gijón
-1982,Poules,England,Czechoslovakia ,1982,2,0,home_team,Bilbao
-1982,Poules,Spain ,Yugoslavia ,1982,2,1,home_team,Valencia
-1982,Poules,Algeria ,Austria ,1982,0,2,away_home,Oviedo
-1982,Poules,France,Kuwait ,1982,4,1,home_team,Valladolid
-1982,Poules,Honduras,Northern Ireland ,1982,1,1,draw,Zaragoza
-1982,Poules,Poland ,Peru ,1982,5,1,home_team,La_Coruña
-1982,Poules,Belgium ,Hungary ,1982,1,1,draw,Elche
-1982,Poules,Soviet Union ,Scotland,1982,2,2,draw,Málaga
-1982,Poules,Italy ,Cameroon ,1982,1,1,draw,Vigo
-1982,Poules,Argentina,El Salvador,1982,2,0,home_team,Alicante
-1982,Poules,Brazil ,New Zealand ,1982,4,0,home_team,Sevilla
-1982,Poules,Algeria ,Chile,1982,3,2,home_team,Oviedo
-1982,Poules,France,Czechoslovakia ,1982,1,1,draw,Valladolid
-1982,Poules,Honduras,Yugoslavia ,1982,0,1,away_home,Zaragoza
-1982,Poules,FRG ,Austria ,1982,1,0,home_team,Gijón
-1982,Poules,England,Kuwait ,1982,1,0,home_team,Bilbao
-1982,Poules,Northern Ireland ,Spain ,1982,1,0,home_team,Valencia
-1982,Quarts de finale,Austria ,France,1982,0,1,away_home,Madrid
-1982,Quarts de finale,Poland ,Belgium ,1982,3,0,home_team,Barcelona
-1982,Quarts de finale,Italy ,Argentina,1982,2,1,home_team,Barcelona
-1982,Quarts de finale,FRG ,England,1982,0,0,draw,Madrid
-1982,Quarts de finale,Austria ,Northern Ireland ,1982,2,2,draw,Madrid
-1982,Quarts de finale,Belgium ,Soviet Union ,1982,0,1,away_home,Barcelona
-1982,Quarts de finale,Argentina,Brazil ,1982,1,3,away_home,Barcelona
-1982,Quarts de finale,FRG ,Spain ,1982,2,1,home_team,Madrid
-1982,Quarts de finale,France,Northern Ireland ,1982,4,1,home_team,Madrid
-1982,Quarts de finale,Poland ,Soviet Union ,1982,0,0,draw,Barcelona
-1982,Quarts de finale,Italy ,Brazil ,1982,3,2,home_team,Barcelona
-1982,Quarts de finale,Spain ,England,1982,0,0,draw,Madrid
-1982,Demi-finales,Poland ,Italy ,1982,0,2,away_home,Barcelona
-1982,Demi-finales,FRG ,France,1982,3,3,draw,Sevilla
-1982,Troisième place,Poland ,France,1982,3,2,home_team,Alicante
-1982,Finale,Italy ,FRG ,1982,3,1,home_team,Madrid
-1986,Poules,Bulgaria ,Italy ,1986,1,1,draw,México Df
-1986,Poules,Spain ,Brazil ,1986,0,1,away_home,Guadalajara
-1986,Poules,Canada,France,1986,0,1,away_home,León
-1986,Poules,Argentina,South Korea ,1986,3,1,home_team,México Df
-1986,Poules,Soviet Union ,Hungary ,1986,6,0,home_team,Irapuato
-1986,Poules,Morocco ,Poland ,1986,0,0,draw,Monterrey
-1986,Poules,Belgium ,Mexico ,1986,1,2,away_home,México Df
-1986,Poules,Algeria ,Northern Ireland ,1986,1,1,draw,Guadalajara
-1986,Poules,Portugal,England,1986,1,0,home_team,Monterrey
-1986,Poules,Paraguay,Iraq ,1986,1,0,home_team,Toluca
-1986,Poules,Uruguay,FRG ,1986,1,1,draw,Querétaro
-1986,Poules,Scotland,Denmark ,1986,0,1,away_home,Nezahualcóyotl
-1986,Poules,Italy ,Argentina,1986,1,1,draw,Puebla
-1986,Poules,France,Soviet Union ,1986,1,1,draw,León
-1986,Poules,South Korea ,Bulgaria ,1986,1,1,draw,México Df
-1986,Poules,Hungary ,Canada,1986,2,0,home_team,Irapuato
-1986,Poules,Brazil ,Algeria ,1986,1,0,home_team,Guadalajara
-1986,Poules,England,Morocco ,1986,0,0,draw,Monterrey
-1986,Poules,Mexico ,Paraguay,1986,1,1,draw,México Df
-1986,Poules,Northern Ireland ,Spain ,1986,1,2,away_home,Guadalajara
-1986,Poules,Poland ,Portugal,1986,1,0,home_team,Monterrey
-1986,Poules,Iraq ,Belgium ,1986,1,2,away_home,Toluca
-1986,Poules,FRG ,Scotland,1986,2,1,home_team,Querétaro
-1986,Poules,Denmark ,Uruguay,1986,6,1,home_team,Nezahualcóyotl
-1986,Poules,Hungary ,France,1986,0,3,away_home,León
-1986,Poules,Soviet Union ,Canada,1986,2,0,home_team,Irapuato
-1986,Poules,South Korea ,Italy ,1986,2,3,away_home,Puebla
-1986,Poules,Argentina,Bulgaria ,1986,2,0,home_team,México Df
-1986,Poules,Paraguay,Belgium ,1986,2,2,draw,Toluca
-1986,Poules,Iraq ,Mexico ,1986,0,1,away_home,México Df
-1986,Poules,England,Poland ,1986,3,0,home_team,Monterrey
-1986,Poules,Portugal,Morocco ,1986,1,3,away_home,Guadalajara
-1986,Poules,Northern Ireland ,Brazil ,1986,0,3,away_home,Guadalajara
-1986,Poules,Algeria ,Spain ,1986,0,3,away_home,Monterrey
-1986,Poules,Denmark ,FRG ,1986,2,0,home_team,Querétaro
-1986,Poules,Scotland,Uruguay,1986,0,0,draw,Nezahualcóyotl
-1986,Huitièmes de finale,Mexico ,Bulgaria ,1986,2,0,home_team,México Df
-1986,Huitièmes de finale,Soviet Union ,Belgium ,1986,3,4,away_home,León
-1986,Huitièmes de finale,Brazil ,Poland ,1986,4,0,home_team,Guadalajara
-1986,Huitièmes de finale,Argentina,Uruguay,1986,1,0,home_team,Puebla
-1986,Huitièmes de finale,Italy ,France,1986,0,2,away_home,México Df
-1986,Huitièmes de finale,Morocco ,FRG ,1986,0,1,away_home,Monterrey
-1986,Huitièmes de finale,England,Paraguay,1986,3,0,home_team,México Df
-1986,Huitièmes de finale,Denmark ,Spain ,1986,1,5,away_home,Querétaro
-1986,Quarts de finale,Brazil ,France,1986,1,1,draw,Guadalajara
-1986,Quarts de finale,FRG ,Mexico ,1986,0,0,draw,Monterrey
-1986,Quarts de finale,Argentina,England,1986,2,1,home_team,México Df
-1986,Quarts de finale,Spain ,Belgium ,1986,1,1,draw,Puebla
-1986,Demi-finales,France,FRG ,1986,0,2,away_home,Guadalajara
-1986,Demi-finales,Argentina,Belgium ,1986,2,0,home_team,México Df
-1986,Troisième place,France,Belgium ,1986,4,2,home_team,Puebla
-1986,Finale,Argentina,FRG ,1986,3,2,home_team,México Df
-1990,Poules,Argentina,Cameroon ,1990,0,1,away_home,Milano
-1990,Poules,Soviet Union ,Romania ,1990,0,2,away_home,Bari
-1990,Poules,United Arab Emirates ,Colombia,1990,0,2,away_home,Bologna
-1990,Poules,Italy ,Austria ,1990,1,0,home_team,Roma
-1990,Poules,USA,Czechoslovakia ,1990,1,5,away_home,Firenze
-1990,Poules,Brazil ,Sweden ,1990,2,1,home_team,Torino
-1990,Poules,FRG ,Yugoslavia ,1990,4,1,home_team,Milano
-1990,Poules,Costa Rica,Scotland,1990,1,0,home_team,Genova
-1990,Poules,England,Ireland ,1990,1,1,draw,Cagliari
-1990,Poules,Belgium ,South Korea ,1990,2,0,home_team,Verona
-1990,Poules,Netherlands ,Egypt ,1990,1,1,draw,Palermo
-1990,Poules,Uruguay,Spain ,1990,0,0,draw,Udine
-1990,Poules,Argentina,Soviet Union ,1990,2,0,home_team,Napoli
-1990,Poules,Cameroon ,Romania ,1990,2,1,home_team,Bari
-1990,Poules,Yugoslavia ,Colombia,1990,1,0,home_team,Bologna
-1990,Poules,Italy ,USA,1990,1,0,home_team,Roma
-1990,Poules,Austria ,Czechoslovakia ,1990,0,1,away_home,Firenze
-1990,Poules,FRG ,United Arab Emirates ,1990,5,1,home_team,Milano
-1990,Poules,Brazil ,Costa Rica,1990,1,0,home_team,Torino
-1990,Poules,England,Netherlands ,1990,0,0,draw,Cagliari
-1990,Poules,Sweden ,Scotland,1990,1,2,away_home,Genova
-1990,Poules,South Korea ,Spain ,1990,1,3,away_home,Udine
-1990,Poules,Belgium ,Uruguay,1990,3,1,home_team,Verona
-1990,Poules,Ireland ,Egypt ,1990,0,0,draw,Palermo
-1990,Poules,Cameroon ,Soviet Union ,1990,0,4,away_home,Bari
-1990,Poules,Argentina,Romania ,1990,1,1,draw,Napoli
-1990,Poules,FRG ,Colombia,1990,1,1,draw,Milano
-1990,Poules,Yugoslavia ,United Arab Emirates ,1990,4,1,home_team,Bologna
-1990,Poules,Austria ,USA,1990,2,1,home_team,Firenze
-1990,Poules,Italy ,Czechoslovakia ,1990,2,0,home_team,Roma
-1990,Poules,Brazil ,Scotland,1990,1,0,home_team,Torino
-1990,Poules,Sweden ,Costa Rica,1990,1,2,away_home,Genova
-1990,Poules,South Korea ,Uruguay,1990,0,1,away_home,Udine
-1990,Poules,Belgium ,Spain ,1990,1,2,away_home,Verona
-1990,Poules,England,Egypt ,1990,1,0,home_team,Cagliari
-1990,Poules,Ireland ,Netherlands ,1990,1,1,draw,Palermo
-1990,Huitièmes de finale,Cameroon ,Colombia,1990,2,1,home_team,Napoli
-1990,Huitièmes de finale,Czechoslovakia ,Costa Rica,1990,4,1,home_team,Bari
-1990,Huitièmes de finale,Brazil ,Argentina,1990,0,1,away_home,Torino
-1990,Huitièmes de finale,FRG ,Netherlands ,1990,2,1,home_team,Milano
-1990,Huitièmes de finale,Ireland ,Romania ,1990,0,0,draw,Genova
-1990,Huitièmes de finale,Italy ,Uruguay,1990,2,0,home_team,Roma
-1990,Huitièmes de finale,Spain ,Yugoslavia ,1990,1,2,away_home,Verona
-1990,Huitièmes de finale,England,Belgium ,1990,1,0,home_team,Bologna
-1990,Quarts de finale,Yugoslavia ,Argentina,1990,0,0,draw,Firenze
-1990,Quarts de finale,Italy ,Ireland ,1990,1,0,home_team,Roma
-1990,Quarts de finale,FRG ,Czechoslovakia ,1990,1,0,home_team,Milano
-1990,Quarts de finale,England,Cameroon ,1990,3,2,home_team,Napoli
-1990,Demi-finales,Italy ,Argentina,1990,1,1,draw,Napoli
-1990,Demi-finales,FRG ,England,1990,1,1,draw,Torino
-1990,Troisième place,Italy ,England,1990,2,1,home_team,Bari
-1990,Finale,FRG ,Argentina,1990,1,0,home_team,Roma
-1994,Poules,Germany ,Bolivia,1994,1,0,home_team,Chicago
-1994,Poules,Spain ,South Korea ,1994,2,2,draw,Dallas
-1994,Poules,Italy ,Ireland ,1994,0,1,away_home,New_York
-1994,Poules,Colombia,Romania ,1994,1,3,away_home,Los Angeles
-1994,Poules,USA,Switzerland ,1994,1,1,draw,Detroit
-1994,Poules,Belgium ,Morocco ,1994,1,0,home_team,Orlando
-1994,Poules,Norway ,Mexico ,1994,1,0,home_team,Washington
-1994,Poules,Cameroon ,Sweden ,1994,2,2,draw,Los Angeles
-1994,Poules,Netherlands ,Saudi Arabia ,1994,2,1,home_team,Washington
-1994,Poules,Brazil ,Russia ,1994,2,0,home_team,San_Francisco
-1994,Poules,Argentina,Greece ,1994,4,0,home_team,Boston
-1994,Poules,Germany ,Spain ,1994,1,1,draw,Chicago
-1994,Poules,Nigeria,Bulgaria ,1994,3,0,home_team,Dallas
-1994,Poules,Romania ,Switzerland ,1994,1,4,away_home,Detroit
-1994,Poules,USA,Colombia,1994,2,1,home_team,Los Angeles
-1994,Poules,Italy ,Norway ,1994,1,0,home_team,New_York
-1994,Poules,South Korea ,Bolivia,1994,0,0,draw,Boston
-1994,Poules,Mexico ,Ireland ,1994,2,1,home_team,Orlando
-1994,Poules,Brazil ,Cameroon ,1994,3,0,home_team,San_Francisco
-1994,Poules,Sweden ,Russia ,1994,3,1,home_team,Detroit
-1994,Poules,Saudi Arabia ,Morocco ,1994,2,1,home_team,New_York
-1994,Poules,Belgium ,Netherlands ,1994,1,0,home_team,Orlando
-1994,Poules,Argentina,Nigeria,1994,2,1,home_team,Boston
-1994,Poules,Bulgaria ,Greece ,1994,4,0,home_team,Chicago
-1994,Poules,Switzerland ,Colombia,1994,0,2,away_home,San_Francisco
-1994,Poules,USA,Romania ,1994,0,1,away_home,Los Angeles
-1994,Poules,Bolivia,Spain ,1994,1,3,away_home,Chicago
-1994,Poules,Germany ,South Korea ,1994,3,2,home_team,Dallas
-1994,Poules,Italy ,Mexico ,1994,1,1,draw,Washington
-1994,Poules,Ireland ,Norway ,1994,0,0,draw,New_York
-1994,Poules,Russia ,Cameroon ,1994,6,1,home_team,San_Francisco
-1994,Poules,Brazil ,Sweden ,1994,1,1,draw,Detroit
-1994,Poules,Belgium ,Saudi Arabia ,1994,0,1,away_home,Washington
-1994,Poules,Morocco ,Netherlands ,1994,1,2,away_home,Orlando
-1994,Poules,Argentina,Bulgaria ,1994,0,2,away_home,Dallas
-1994,Poules,Greece ,Nigeria,1994,0,2,away_home,Boston
-1994,Huitièmes de finale,Germany ,Belgium ,1994,3,2,home_team,Chicago
-1994,Huitièmes de finale,Spain ,Switzerland ,1994,3,0,home_team,Washington
-1994,Huitièmes de finale,Saudi Arabia ,Sweden ,1994,1,3,away_home,Dallas
-1994,Huitièmes de finale,Romania ,Argentina,1994,3,2,home_team,Los Angeles
-1994,Huitièmes de finale,Netherlands ,Ireland ,1994,2,0,home_team,Orlando
-1994,Huitièmes de finale,Brazil ,USA,1994,1,0,home_team,San_Francisco
-1994,Huitièmes de finale,Nigeria,Italy ,1994,1,2,away_home,Boston
-1994,Huitièmes de finale,Mexico ,Bulgaria ,1994,1,1,draw,New_York
-1994,Quarts de finale,Italy ,Spain ,1994,2,1,home_team,Boston
-1994,Quarts de finale,Netherlands ,Brazil ,1994,2,3,away_home,Dallas
-1994,Quarts de finale,Bulgaria ,Germany ,1994,2,1,home_team,New_York
-1994,Quarts de finale,Romania ,Sweden ,1994,2,2,draw,San_Francisco
-1994,Demi-finales,Bulgaria ,Italy ,1994,1,2,away_home,New_York
-1994,Demi-finales,Sweden ,Brazil ,1994,0,1,away_home,Los Angeles
-1994,Troisième place,Sweden ,Bulgaria ,1994,4,0,home_team,Los Angeles
-1994,Finale,Brazil ,Italy ,1994,0,0,draw,Los Angeles
-1998,Poules,Brazil ,Scotland,1998,2,1,home_team,Paris
-1998,Poules,Morocco ,Norway ,1998,2,2,draw,Montpellier
-1998,Poules,Italy ,Chile,1998,2,2,draw,Bordeaux
-1998,Poules,Cameroon ,Austria ,1998,1,1,draw,Toulouse
-1998,Poules,Paraguay,Bulgaria ,1998,0,0,draw,Montpellier
-1998,Poules,Saudi Arabia ,Denmark ,1998,0,1,away_home,Lens
-1998,Poules,France,South Africa ,1998,3,0,home_team,Marseille
-1998,Poules,Spain ,Nigeria,1998,2,3,away_home,Nantes
-1998,Poules,South Korea ,Mexico ,1998,1,3,away_home,Lyon
-1998,Poules,Netherlands ,Belgium ,1998,0,0,draw,Paris
-1998,Poules,Argentina,Japan ,1998,1,0,home_team,Toulouse
-1998,Poules,Yugoslavia ,Iran ,1998,1,0,home_team,Saint-Étienne
-1998,Poules,Jamaica,Croatia ,1998,1,3,away_home,Lens
-1998,Poules,England,Tunisia ,1998,2,0,home_team,Marseille
-1998,Poules,Romania ,Colombia,1998,1,0,home_team,Lyon
-1998,Poules,Germany ,USA,1998,2,0,home_team,Paris
-1998,Poules,Scotland,Norway ,1998,1,1,draw,Bordeaux
-1998,Poules,Brazil ,Morocco ,1998,3,0,home_team,Nantes
-1998,Poules,Chile,Austria ,1998,1,1,draw,Saint-Étienne
-1998,Poules,Italy ,Cameroon ,1998,3,0,home_team,Montpellier
-1998,Poules,South Africa ,Denmark ,1998,1,1,draw,Toulouse
-1998,Poules,France,Saudi Arabia ,1998,4,0,home_team,Paris
-1998,Poules,Nigeria,Bulgaria ,1998,1,0,home_team,Paris
-1998,Poules,Spain ,Paraguay,1998,0,0,draw,Saint-Étienne
-1998,Poules,Japan ,Croatia ,1998,0,1,away_home,Nantes
-1998,Poules,Belgium ,Mexico ,1998,2,2,draw,Bordeaux
-1998,Poules,Netherlands ,South Korea ,1998,5,0,home_team,Marseille
-1998,Poules,Germany ,Yugoslavia ,1998,2,2,draw,Lens
-1998,Poules,Argentina,Jamaica,1998,5,0,home_team,Paris
-1998,Poules,USA,Iran ,1998,1,2,away_home,Lyon
-1998,Poules,Colombia,Tunisia ,1998,1,0,home_team,Montpellier
-1998,Poules,Romania ,England,1998,2,1,home_team,Toulouse
-1998,Poules,Chile,Cameroon ,1998,1,1,draw,Nantes
-1998,Poules,Italy ,Austria ,1998,2,1,home_team,Paris
-1998,Poules,Brazil ,Norway ,1998,1,2,away_home,Marseille
-1998,Poules,Scotland,Morocco ,1998,0,3,away_home,Saint-Étienne
-1998,Poules,France,Denmark ,1998,2,1,home_team,Lyon
-1998,Poules,South Africa ,Saudi Arabia ,1998,2,2,draw,Bordeaux
-1998,Poules,Nigeria,Paraguay,1998,1,3,away_home,Toulouse
-1998,Poules,Spain ,Bulgaria ,1998,6,1,home_team,Lens
-1998,Poules,Netherlands ,Mexico ,1998,2,2,draw,Saint-Étienne
-1998,Poules,Belgium ,South Korea ,1998,1,1,draw,Paris
-1998,Poules,USA,Yugoslavia ,1998,0,1,away_home,Nantes
-1998,Poules,Germany ,Iran ,1998,2,0,home_team,Montpellier
-1998,Poules,Argentina,Croatia ,1998,1,0,home_team,Bordeaux
-1998,Poules,Japan ,Jamaica,1998,1,2,away_home,Lyon
-1998,Poules,Colombia,England,1998,0,2,away_home,Lens
-1998,Poules,Romania ,Tunisia ,1998,1,1,draw,Paris
-1998,Huitièmes de finale,Italy ,Norway ,1998,1,0,home_team,Marseille
-1998,Huitièmes de finale,Brazil ,Chile,1998,4,1,home_team,Paris
-1998,Huitièmes de finale,France,Paraguay,1998,1,0,home_team,Lens
-1998,Huitièmes de finale,Nigeria,Denmark ,1998,1,4,away_home,Paris
-1998,Huitièmes de finale,Germany ,Mexico ,1998,2,1,home_team,Montpellier
-1998,Huitièmes de finale,Netherlands ,Yugoslavia ,1998,2,1,home_team,Toulouse
-1998,Huitièmes de finale,Romania ,Croatia ,1998,0,1,away_home,Bordeaux
-1998,Huitièmes de finale,Argentina,England,1998,2,2,draw,Saint-Étienne
-1998,Quarts de finale,Italy ,France,1998,0,0,draw,Paris
-1998,Quarts de finale,Brazil ,Denmark ,1998,3,2,home_team,Nantes
-1998,Quarts de finale,Netherlands ,Argentina,1998,2,1,home_team,Marseille
-1998,Quarts de finale,Germany ,Croatia ,1998,0,3,away_home,Lyon
-1998,Demi-finales,Brazil ,Netherlands ,1998,1,1,draw,Marseille
-1998,Demi-finales,France,Croatia ,1998,2,1,home_team,Paris
-1998,Troisième place,Croatia ,Netherlands ,1998,2,1,home_team,Paris
-1998,Finale,France,Brazil ,1998,3,0,home_team,Paris
-2002,Poules,France,Senegal ,2002,0,1,away_home,Seoul
-2002,Poules,Ireland ,Cameroon ,2002,1,1,draw,Niigata
-2002,Poules,Uruguay,Denmark ,2002,1,2,away_home,Ulsan
-2002,Poules,Germany ,Saudi Arabia ,2002,8,0,home_team,Sapporo
-2002,Poules,Argentina,Nigeria,2002,1,0,home_team,Ibaraki
-2002,Poules,Paraguay,South Africa ,2002,2,2,draw,Busan
-2002,Poules,England,Sweden ,2002,1,1,draw,Saitama
-2002,Poules,Spain ,Slovakia ,2002,3,1,home_team,Gwangju
-2002,Poules,Croatia ,Mexico ,2002,0,1,away_home,Niigata
-2002,Poules,Brazil ,Turkey ,2002,2,1,home_team,Ulsan
-2002,Poules,Italy ,Ecuador,2002,2,0,home_team,Sapporo
-2002,Poules,China ,Costa Rica,2002,0,2,away_home,Gwangju
-2002,Poules,Japan ,Belgium ,2002,2,2,draw,Saitama
-2002,Poules,South Korea ,Poland ,2002,2,0,home_team,Busan
-2002,Poules,Russia ,Tunisia ,2002,2,0,home_team,Kobe
-2002,Poules,USA,Portugal,2002,3,2,home_team,Suwon
-2002,Poules,Germany ,Ireland ,2002,1,1,draw,Ibaraki
-2002,Poules,Denmark ,Senegal ,2002,1,1,draw,Daegu
-2002,Poules,Cameroon ,Saudi Arabia ,2002,1,0,home_team,Saitama
-2002,Poules,France,Uruguay,2002,0,0,draw,Busan
-2002,Poules,Sweden ,Nigeria,2002,2,1,home_team,Kobe
-2002,Poules,Spain ,Paraguay,2002,3,1,home_team,Jeonju
-2002,Poules,Argentina,England,2002,0,1,away_home,Sapporo
-2002,Poules,South Africa ,Slovakia ,2002,1,0,home_team,Daegu
-2002,Poules,Italy ,Croatia ,2002,1,2,away_home,Ibaraki
-2002,Poules,Brazil ,China ,2002,4,0,home_team,Seogwipo
-2002,Poules,Mexico ,Ecuador,2002,2,1,home_team,Miyagi
-2002,Poules,Costa Rica,Turkey ,2002,1,1,draw,Incheon
-2002,Poules,Japan ,Russia ,2002,1,0,home_team,Yokohama
-2002,Poules,South Korea ,USA,2002,1,1,draw,Daegu
-2002,Poules,Tunisia ,Belgium ,2002,1,1,draw,Oita
-2002,Poules,Portugal,Poland ,2002,4,0,home_team,Jeonju
-2002,Poules,Denmark ,France,2002,2,0,home_team,Incheon
-2002,Poules,Senegal ,Uruguay,2002,3,3,draw,Suwon
-2002,Poules,Cameroon ,Germany ,2002,0,2,away_home,Shizuoka
-2002,Poules,Saudi Arabia ,Ireland ,2002,0,3,away_home,Yokohama
-2002,Poules,Sweden ,Argentina,2002,1,1,draw,Miyagi
-2002,Poules,Nigeria,England,2002,0,0,draw,Osaka
-2002,Poules,South Africa ,Spain ,2002,2,3,away_home,Daejeon
-2002,Poules,Slovenia ,Paraguay,2002,1,3,away_home,Seogwipo
-2002,Poules,Costa Rica,Brazil ,2002,2,5,away_home,Suwon
-2002,Poules,Turkey ,China ,2002,3,0,home_team,Seoul
-2002,Poules,Ecuador,Croatia ,2002,1,0,home_team,Yokohama
-2002,Poules,Mexico ,Italy ,2002,1,1,draw,Oita
-2002,Poules,Belgium ,Russia ,2002,3,2,home_team,Shizuoka
-2002,Poules,Tunisia ,Japan ,2002,0,2,away_home,Osaka
-2002,Poules,Poland ,USA,2002,3,1,home_team,Daejeon
-2002,Poules,Portugal,South Korea ,2002,0,1,away_home,Incheon
-2002,Huitièmes de finale,Germany ,Paraguay,2002,1,0,home_team,Seogwipo
-2002,Huitièmes de finale,Denmark ,England,2002,0,3,away_home,Niigata
-2002,Huitièmes de finale,Sweden ,Senegal ,2002,1,2,away_home,Oita
-2002,Huitièmes de finale,Spain ,Ireland ,2002,1,1,draw,Suwon
-2002,Huitièmes de finale,Mexico ,USA,2002,0,2,away_home,Jeonju
-2002,Huitièmes de finale,Brazil ,Belgium ,2002,2,0,home_team,Kobe
-2002,Huitièmes de finale,Japan ,Turkey ,2002,0,1,away_home,Miyagi
-2002,Huitièmes de finale,South Korea ,Italy ,2002,2,1,home_team,Daejeon
-2002,Quarts de finale,England,Brazil ,2002,1,2,away_home,Shizuoka
-2002,Quarts de finale,Germany ,USA,2002,1,0,home_team,Ulsan
-2002,Quarts de finale,Spain ,South Korea ,2002,0,0,draw,Gwangju
-2002,Quarts de finale,Senegal ,Turkey ,2002,0,1,away_home,Osaka
-2002,Demi-finales,Germany ,South Korea ,2002,1,0,home_team,Seoul
-2002,Demi-finales,Brazil ,Turkey ,2002,1,0,home_team,Saitama
-2002,Troisième place,Turkey ,South Korea ,2002,3,2,home_team,Daegu
-2002,Finale,Brazil ,Germany ,2002,2,0,home_team,Yokohama
-2006,Poules,Germany ,Costa Rica,2006,4,2,home_team,München
-2006,Poules,Poland ,Ecuador,2006,0,2,away_home,Gelsenkirchen
-2006,Poules,England,Paraguay,2006,1,0,home_team,Frankfurt Am Main
-2006,Poules,Trinidad and Tobago,Sweden ,2006,0,0,draw,Dortmund
-2006,Poules,Argentina,Ivory Coast ,2006,2,1,home_team,Hamburg
-2006,Poules,Serbia-Montenegro ,Netherlands ,2006,0,1,away_home,Leipzig
-2006,Poules,Mexico ,Iran ,2006,3,1,home_team,Nürnberg
-2006,Poules,Angola,Portugal,2006,0,1,away_home,Köln
-2006,Poules,Australia,Japan ,2006,3,1,home_team,Kaiserslautern
-2006,Poules,USA,Czech Republic ,2006,0,3,away_home,Gelsenkirchen
-2006,Poules,Italy ,Ghana,2006,2,0,home_team,Hannover
-2006,Poules,South Korea ,Togo,2006,2,1,home_team,Frankfurt Am Main
-2006,Poules,France,Switzerland ,2006,0,0,draw,Stuttgart
-2006,Poules,Brazil ,Croatia ,2006,1,0,home_team,Berlin
-2006,Poules,Spain ,Ukraine ,2006,4,0,home_team,Leipzig
-2006,Poules,Tunisia ,Saudi Arabia ,2006,2,2,draw,München
-2006,Poules,Germany ,Poland ,2006,1,0,home_team,Dortmund
-2006,Poules,Ecuador,Costa Rica,2006,3,0,home_team,Hamburg
-2006,Poules,England,Trinidad and Tobago,2006,2,0,home_team,Nürnberg
-2006,Poules,Sweden ,Paraguay,2006,1,0,home_team,Berlin
-2006,Poules,Argentina,Serbia-Montenegro ,2006,6,0,home_team,Gelsenkirchen
-2006,Poules,Netherlands ,Ivory Coast ,2006,2,1,home_team,Stuttgart
-2006,Poules,Mexico ,Angola,2006,0,0,draw,Hannover
-2006,Poules,Portugal,Iran ,2006,2,0,home_team,Frankfurt Am Main
-2006,Poules,Czech Republic ,Ghana,2006,0,2,away_home,Köln
-2006,Poules,Italy ,USA,2006,1,1,draw,Kaiserslautern
-2006,Poules,Japan ,Croatia ,2006,0,0,draw,Nürnberg
-2006,Poules,Brazil ,Australia,2006,2,0,home_team,München
-2006,Poules,France,South Korea ,2006,1,1,draw,Leipzig
-2006,Poules,Togo,Switzerland ,2006,0,2,away_home,Dortmund
-2006,Poules,Saudi Arabia ,Ukraine ,2006,0,4,away_home,Hamburg
-2006,Poules,Spain ,Tunisia ,2006,3,1,home_team,Stuttgart
-2006,Poules,Ecuador,Germany ,2006,0,3,away_home,Berlin
-2006,Poules,Costa Rica,Poland ,2006,1,2,away_home,Hannover
-2006,Poules,Sweden ,England,2006,2,2,draw,Köln
-2006,Poules,Paraguay,Trinidad and Tobago,2006,2,0,home_team,Kaiserslautern
-2006,Poules,Portugal,Mexico ,2006,2,1,home_team,Gelsenkirchen
-2006,Poules,Iran ,Angola,2006,1,1,draw,Leipzig
-2006,Poules,Netherlands ,Argentina,2006,0,0,draw,Frankfurt Am Main
-2006,Poules,Ivory Coast ,Serbia-Montenegro ,2006,3,2,home_team,München
-2006,Poules,Czech Republic ,Italy ,2006,0,2,away_home,Hamburg
-2006,Poules,Ghana,USA,2006,2,1,home_team,Nürnberg
-2006,Poules,Japan ,Brazil ,2006,1,4,away_home,Dortmund
-2006,Poules,Croatia ,Australia,2006,2,2,draw,Stuttgart
-2006,Poules,Saudi Arabia ,Spain ,2006,0,1,away_home,Kaiserslautern
-2006,Poules,Ukraine ,Tunisia ,2006,1,0,home_team,Berlin
-2006,Poules,Togo,France,2006,0,2,away_home,Köln
-2006,Poules,Switzerland ,South Korea ,2006,2,0,home_team,Hannover
-2006,Huitièmes de finale,Germany ,Sweden ,2006,2,0,home_team,München
-2006,Huitièmes de finale,Argentina,Mexico ,2006,2,1,home_team,Leipzig
-2006,Huitièmes de finale,England,Ecuador,2006,1,0,home_team,Stuttgart
-2006,Huitièmes de finale,Portugal,Netherlands ,2006,1,0,home_team,Nürnberg
-2006,Huitièmes de finale,Italy ,Australia,2006,1,0,home_team,Kaiserslautern
-2006,Huitièmes de finale,Switzerland ,Ukraine ,2006,0,0,draw,Köln
-2006,Huitièmes de finale,Brazil ,Ghana,2006,3,0,home_team,Dortmund
-2006,Huitièmes de finale,Spain ,France,2006,1,3,away_home,Hannover
-2006,Quarts de finale,Germany ,Argentina,2006,1,1,draw,Berlin
-2006,Quarts de finale,Italy ,Ukraine ,2006,3,0,home_team,Hamburg
-2006,Quarts de finale,England,Portugal,2006,0,0,draw,Gelsenkirchen
-2006,Quarts de finale,Brazil ,France,2006,0,1,away_home,Frankfurt Am Main
-2006,Demi-finales,Germany ,Italy ,2006,0,2,away_home,Dortmund
-2006,Demi-finales,Portugal,France,2006,0,1,away_home,München
-2006,Troisième place,Germany ,Portugal,2006,3,1,home_team,Stuttgart
-2006,Finale,Italy ,France,2006,1,1,draw,Berlin
-2010,Poules,South Africa ,Mexico ,2010,1,1,draw,Johannesburg
-2010,Poules,Uruguay,France,2010,0,0,draw,Cape Town
-2010,Poules,South Korea ,Greece ,2010,2,0,home_team,Port_Elizabeth
-2010,Poules,Argentina,Nigeria,2010,1,0,home_team,Johannesburg
-2010,Poules,England,USA,2010,1,1,draw,Rustenburg
-2010,Poules,Algeria ,Slovenia ,2010,0,1,away_home,Polokwane
-2010,Poules,Serbia ,Ghana,2010,0,1,away_home,Pretoria
-2010,Poules,Germany ,Australia,2010,4,0,home_team,Durban
-2010,Poules,Netherlands ,Denmark ,2010,2,0,home_team,Johannesburg
-2010,Poules,Japan ,Cameroon ,2010,1,0,home_team,Bloemfontein
-2010,Poules,Italy ,Paraguay,2010,1,1,draw,Cape Town
-2010,Poules,New Zealand ,Slovakia ,2010,1,1,draw,Rustenburg
-2010,Poules,Ivory Coast ,Portugal,2010,0,0,draw,Port_Elizabeth
-2010,Poules,Brazil ,North Korea ,2010,2,1,home_team,Johannesburg
-2010,Poules,Honduras,Chile,2010,0,1,away_home,Nelspruit
-2010,Poules,Spain ,Switzerland ,2010,0,1,away_home,Durban
-2010,Poules,South Africa ,Uruguay,2010,0,3,away_home,Pretoria
-2010,Poules,Argentina,South Korea ,2010,4,1,home_team,Johannesburg
-2010,Poules,Greece ,Nigeria,2010,2,1,home_team,Bloemfontein
-2010,Poules,France,Mexico ,2010,0,2,away_home,Polokwane
-2010,Poules,Germany ,Serbia ,2010,0,1,away_home,Port_Elizabeth
-2010,Poules,Slovenia ,USA,2010,2,2,draw,Johannesburg
-2010,Poules,England,Algeria ,2010,0,0,draw,Cape Town
-2010,Poules,Netherlands ,Japan ,2010,1,0,home_team,Durban
-2010,Poules,Ghana,Australia,2010,1,1,draw,Rustenburg
-2010,Poules,Cameroon ,Denmark ,2010,1,2,away_home,Pretoria
-2010,Poules,Slovakia ,Paraguay,2010,0,2,away_home,Bloemfontein
-2010,Poules,Italy ,New Zealand ,2010,1,1,draw,Nelspruit
-2010,Poules,Brazil ,Ivory Coast ,2010,3,1,home_team,Johannesburg
-2010,Poules,Portugal,North Korea ,2010,7,0,home_team,Cape Town
-2010,Poules,Chile,Switzerland ,2010,1,0,home_team,Port_Elizabeth
-2010,Poules,Spain ,Honduras,2010,2,0,home_team,Johannesburg
-2010,Poules,Mexico ,Uruguay,2010,0,1,away_home,Rustenburg
-2010,Poules,France,South Africa ,2010,1,2,away_home,Bloemfontein
-2010,Poules,Nigeria,South Korea ,2010,2,2,draw,Durban
-2010,Poules,Greece ,Argentina,2010,0,2,away_home,Polokwane
-2010,Poules,Slovenia ,England,2010,0,1,away_home,Port_Elizabeth
-2010,Poules,USA,Algeria ,2010,1,0,home_team,Pretoria
-2010,Poules,Ghana,Germany ,2010,0,1,away_home,Johannesburg
-2010,Poules,Australia,Serbia ,2010,2,1,home_team,Nelspruit
-2010,Poules,Slovakia ,Italy ,2010,3,2,home_team,Johannesburg
-2010,Poules,Paraguay,New Zealand ,2010,0,0,draw,Polokwane
-2010,Poules,Denmark ,Japan ,2010,1,3,away_home,Rustenburg
-2010,Poules,Cameroon ,Netherlands ,2010,1,2,away_home,Cape Town
-2010,Poules,Portugal,Brazil ,2010,0,0,draw,Durban
-2010,Poules,North Korea ,Ivory Coast ,2010,0,3,away_home,Nelspruit
-2010,Poules,Chile,Spain ,2010,1,2,away_home,Pretoria
-2010,Poules,Switzerland ,Honduras,2010,0,0,draw,Bloemfontein
-2010,Huitièmes de finale,Uruguay,South Korea ,2010,2,1,home_team,Port_Elizabeth
-2010,Huitièmes de finale,USA,Ghana,2010,1,2,away_home,Rustenburg
-2010,Huitièmes de finale,Germany ,England,2010,4,1,home_team,Bloemfontein
-2010,Huitièmes de finale,Argentina,Mexico ,2010,3,1,home_team,Johannesburg
-2010,Huitièmes de finale,Netherlands ,Slovakia ,2010,2,1,home_team,Durban
-2010,Huitièmes de finale,Brazil ,Chile,2010,3,0,home_team,Johannesburg
-2010,Huitièmes de finale,Paraguay,Japan ,2010,0,0,draw,Pretoria
-2010,Huitièmes de finale,Spain ,Portugal,2010,1,0,home_team,Cape Town
-2010,Quarts de finale,Netherlands ,Brazil ,2010,2,1,home_team,Port_Elizabeth
-2010,Quarts de finale,Uruguay,Ghana,2010,1,1,draw,Johannesburg
-2010,Quarts de finale,Argentina,Germany ,2010,0,4,away_home,Cape Town
-2010,Quarts de finale,Paraguay,Spain ,2010,0,1,away_home,Johannesburg
-2010,Demi-finales,Uruguay,Netherlands ,2010,2,3,away_home,Cape Town
-2010,Demi-finales,Germany ,Spain ,2010,0,1,away_home,Durban
-2010,Troisième place,Uruguay,Germany ,2010,2,3,away_home,Port_Elizabeth
-2010,Finale,Netherlands ,Spain ,2010,0,1,away_home,Johannesburg
+1930,Poules,France,Mexico ,1930-01-01,4,1,home_team,Montevideo
+1930,Poules,USA,Belgium ,1930-01-01,3,0,home_team,Montevideo
+1930,Poules,Yugoslavia ,Brazil ,1930-01-01,2,1,home_team,Montevideo
+1930,Poules,Romania ,Peru ,1930-01-01,3,1,home_team,Montevideo
+1930,Poules,Argentina,France,1930-01-01,1,0,home_team,Montevideo
+1930,Poules,Chile,Mexico ,1930-01-01,3,0,home_team,Montevideo
+1930,Poules,Yugoslavia ,Bolivia,1930-01-01,4,0,home_team,Montevideo
+1930,Poules,USA,Paraguay,1930-01-01,3,0,home_team,Montevideo
+1930,Poules,Uruguay,Peru ,1930-01-01,1,0,home_team,Montevideo
+1930,Poules,Chile,France,1930-01-01,1,0,home_team,Montevideo
+1930,Poules,Argentina,Mexico ,1930-01-01,6,3,home_team,Montevideo
+1930,Poules,Brazil ,Bolivia,1930-01-01,4,0,home_team,Montevideo
+1930,Poules,Paraguay,Belgium ,1930-01-01,1,0,home_team,Montevideo
+1930,Poules,Uruguay,Romania ,1930-01-01,4,0,home_team,Montevideo
+1930,Poules,Argentina,Chile,1930-01-01,3,1,home_team,Montevideo
+1930,Demi-finales,Argentina,USA,1930-01-01,6,1,home_team,Montevideo
+1930,Demi-finales,Uruguay,Yugoslavia ,1930-01-01,6,1,home_team,Montevideo
+1930,Finale,Uruguay,Argentina,1930-01-01,4,2,home_team,Montevideo
+1934,Huitièmes de finale,Italy ,USA,1934-01-01,7,1,home_team,Roma
+1934,Huitièmes de finale,Austria ,France,1934-01-01,3,2,home_team,Torino
+1934,Huitièmes de finale,Germany ,Belgium ,1934-01-01,5,2,home_team,Firenze
+1934,Huitièmes de finale,Czechoslovakia ,Romania ,1934-01-01,2,1,home_team,Trieste
+1934,Huitièmes de finale,Switzerland ,Netherlands ,1934-01-01,3,2,home_team,Milano
+1934,Huitièmes de finale,Sweden ,Argentina,1934-01-01,3,2,home_team,Bologna
+1934,Huitièmes de finale,Spain ,Brazil ,1934-01-01,3,1,home_team,Genova
+1934,Huitièmes de finale,Hungary ,Egypt ,1934-01-01,4,2,home_team,Napoli
+1934,Quarts de finale,Austria ,Hungary ,1934-01-01,2,1,home_team,Bologna
+1934,Quarts de finale,Czechoslovakia ,Switzerland ,1934-01-01,3,2,home_team,Torino
+1934,Quarts de finale,Germany ,Sweden ,1934-01-01,2,1,home_team,Milano
+1934,Quarts de finale,Italy ,Spain ,1934-01-01,1,1,draw,Firenze
+1934,Quarts de finale,Italy ,Spain ,1934-01-01,1,0,home_team,Firenze
+1934,Demi-finales,Italy ,Austria ,1934-01-01,1,0,home_team,Milano
+1934,Demi-finales,Czechoslovakia ,Germany ,1934-01-01,3,1,home_team,Roma
+1934,Troisième place,Germany ,Austria ,1934-01-01,3,2,home_team,Napoli
+1934,Finale,Italy ,Czechoslovakia ,1934-01-01,2,1,home_team,Roma
+1938,Huitièmes de finale,Switzerland ,Germany ,1938-01-01,1,1,draw,Paris
+1938,Huitièmes de finale,Italy ,Norway ,1938-01-01,2,1,home_team,Marseille
+1938,Huitièmes de finale,France,Belgium ,1938-01-01,3,1,home_team,Paris
+1938,Huitièmes de finale,Hungary ,Dutch East Indies ,1938-01-01,6,0,home_team,Reims
+1938,Huitièmes de finale,Cuba,Romania ,1938-01-01,3,3,draw,Toulouse
+1938,Huitièmes de finale,Brazil ,Poland ,1938-01-01,6,5,home_team,Strasbourg
+1938,Huitièmes de finale,Czechoslovakia ,Netherlands ,1938-01-01,3,0,home_team,Le_Havre
+1938,Huitièmes de finale,Switzerland ,Germany ,1938-01-01,4,2,home_team,Paris
+1938,Huitièmes de finale,Cuba,Romania ,1938-01-01,2,1,home_team,Toulouse
+1938,Quarts de finale,Italy ,France,1938-01-01,3,1,home_team,Paris
+1938,Quarts de finale,Brazil ,Czechoslovakia ,1938-01-01,1,1,draw,Bordeaux
+1938,Quarts de finale,Hungary ,Switzerland ,1938-01-01,2,0,home_team,Lille
+1938,Quarts de finale,Sweden ,Cuba,1938-01-01,8,0,home_team,Antibes
+1938,Quarts de finale,Brazil ,Czechoslovakia ,1938-01-01,2,1,home_team,Bordeaux
+1938,Demi-finales,Italy ,Brazil ,1938-01-01,2,1,home_team,Marseille
+1938,Demi-finales,Hungary ,Sweden ,1938-01-01,5,1,home_team,Paris
+1938,Troisième place,Brazil ,Sweden ,1938-01-01,4,2,home_team,Bordeaux
+1938,Finale,Italy ,Hungary ,1938-01-01,4,2,home_team,Paris
+1950,Poules,Brazil ,Mexico ,1950-01-01,4,0,home_team,Rio De Janeiro
+1950,Poules,England,Chile,1950-01-01,2,0,home_team,Rio De Janeiro
+1950,Poules,Spain ,USA,1950-01-01,3,1,home_team,Curitiba
+1950,Poules,Sweden ,Italy ,1950-01-01,3,2,home_team,São_Paulo
+1950,Poules,Yugoslavia ,Switzerland ,1950-01-01,3,0,home_team,Belo Horizonte
+1950,Poules,Brazil ,Switzerland ,1950-01-01,2,2,draw,São_Paulo
+1950,Poules,Yugoslavia ,Mexico ,1950-01-01,4,1,home_team,Porto_Alegre
+1950,Poules,Spain ,Chile,1950-01-01,2,0,home_team,Rio De Janeiro
+1950,Poules,Sweden ,Paraguay,1950-01-01,2,2,draw,Curitiba
+1950,Poules,USA,England,1950-01-01,1,0,home_team,Belo Horizonte
+1950,Poules,Brazil ,Yugoslavia ,1950-01-01,2,0,home_team,Rio De Janeiro
+1950,Poules,Spain ,England,1950-01-01,1,0,home_team,Rio De Janeiro
+1950,Poules,Italy ,Paraguay,1950-01-01,2,0,home_team,São_Paulo
+1950,Poules,Uruguay,Bolivia,1950-01-01,8,0,home_team,Belo Horizonte
+1950,Poules,Switzerland ,Mexico ,1950-01-01,2,1,home_team,Porto_Alegre
+1950,Poules,Chile,USA,1950-01-01,5,2,home_team,Recife
+1950,Finale,Brazil ,Sweden ,1950-01-01,7,1,home_team,Rio De Janeiro
+1950,Finale,Uruguay,Spain ,1950-01-01,2,2,draw,São_Paulo
+1950,Finale,Uruguay,Sweden ,1950-01-01,3,2,home_team,São_Paulo
+1950,Finale,Brazil ,Spain ,1950-01-01,6,1,home_team,Rio De Janeiro
+1950,Finale,Sweden ,Spain ,1950-01-01,3,1,home_team,São_Paulo
+1950,Finale,Uruguay,Brazil ,1950-01-01,2,1,home_team,Rio De Janeiro
+1954,Poules,Yugoslavia ,France,1954-01-01,1,0,home_team,Lausanne
+1954,Poules,Brazil ,Mexico ,1954-01-01,5,0,home_team,Genève
+1954,Poules,Austria ,Scotland,1954-01-01,1,0,home_team,Zürich
+1954,Poules,Uruguay,Czechoslovakia ,1954-01-01,2,0,home_team,Bern
+1954,Poules,Switzerland ,Italy ,1954-01-01,2,1,home_team,Lausanne
+1954,Poules,Hungary ,South Korea ,1954-01-01,9,0,home_team,Zürich
+1954,Poules,FRG ,Turkey ,1954-01-01,4,1,home_team,Bern
+1954,Poules,England,Belgium ,1954-01-01,4,4,draw,Basel
+1954,Poules,Uruguay,Scotland,1954-01-01,7,0,home_team,Basel
+1954,Poules,Brazil ,Yugoslavia ,1954-01-01,1,1,draw,Lausanne
+1954,Poules,Austria ,Czechoslovakia ,1954-01-01,5,0,home_team,Zürich
+1954,Poules,France,Mexico ,1954-01-01,3,2,home_team,Genève
+1954,Poules,Hungary ,FRG ,1954-01-01,8,3,home_team,Basel
+1954,Poules,Turkey ,South Korea ,1954-01-01,7,0,home_team,Genève
+1954,Poules,Italy ,Belgium ,1954-01-01,4,1,home_team,Lugano
+1954,Poules,England,Switzerland ,1954-01-01,2,0,home_team,Bern
+1954,Poules,FRG ,Turkey ,1954-01-01,7,2,home_team,Zürich
+1954,Poules,Switzerland ,Italy ,1954-01-01,4,1,home_team,Basel
+1954,Quarts de finale,Uruguay,England,1954-01-01,4,2,home_team,Basel
+1954,Quarts de finale,Austria ,Switzerland ,1954-01-01,7,5,home_team,Lausanne
+1954,Quarts de finale,Hungary ,Brazil ,1954-01-01,4,2,home_team,Bern
+1954,Quarts de finale,FRG ,Yugoslavia ,1954-01-01,2,0,home_team,Genève
+1954,Demi-finales,Hungary ,Uruguay,1954-01-01,4,2,home_team,Lausanne
+1954,Demi-finales,FRG ,Austria ,1954-01-01,6,1,home_team,Basel
+1954,Troisième place,Austria ,Uruguay,1954-01-01,3,1,home_team,Zürich
+1954,Finale,FRG ,Hungary ,1954-01-01,3,2,home_team,Bern
+1958,Poules,Sweden ,Mexico ,1958-01-01,3,0,home_team,Stockholm
+1958,Poules,FRG ,Argentina,1958-01-01,3,1,home_team,Malmö
+1958,Poules,Northern Ireland ,Czechoslovakia ,1958-01-01,1,0,home_team,Halmstad
+1958,Poules,France,Paraguay,1958-01-01,7,3,home_team,Norrköping
+1958,Poules,Yugoslavia ,Scotland,1958-01-01,1,1,draw,Västerås
+1958,Poules,Hungary ,Wales ,1958-01-01,1,1,draw,Sandviken
+1958,Poules,England,Soviet Union ,1958-01-01,2,2,draw,Göteborg
+1958,Poules,Brazil ,Austria ,1958-01-01,3,0,home_team,Uddevalla
+1958,Poules,FRG ,Czechoslovakia ,1958-01-01,2,2,draw,Helsingborg
+1958,Poules,Argentina,Northern Ireland ,1958-01-01,3,1,home_team,Halmstad
+1958,Poules,Paraguay,Scotland,1958-01-01,3,2,home_team,Norrköping
+1958,Poules,Yugoslavia ,France,1958-01-01,3,2,home_team,Västerås
+1958,Poules,Wales ,Mexico ,1958-01-01,1,1,draw,Stockholm
+1958,Poules,Brazil ,England,1958-01-01,0,0,draw,Göteborg
+1958,Poules,Soviet Union ,Austria ,1958-01-01,2,0,home_team,Borås
+1958,Poules,Sweden ,Hungary ,1958-01-01,2,1,home_team,Stockholm
+1958,Poules,Sweden ,Wales ,1958-01-01,0,0,draw,Stockholm
+1958,Poules,FRG ,Northern Ireland ,1958-01-01,2,2,draw,Malmö
+1958,Poules,Czechoslovakia ,Argentina,1958-01-01,6,1,home_team,Helsingborg
+1958,Poules,France,Scotland,1958-01-01,2,1,home_team,Örebro
+1958,Poules,Yugoslavia ,Paraguay,1958-01-01,3,3,draw,Eskilstuna
+1958,Poules,Hungary ,Mexico ,1958-01-01,4,0,home_team,Sandviken
+1958,Poules,Brazil ,Soviet Union ,1958-01-01,2,0,home_team,Göteborg
+1958,Poules,England,Austria ,1958-01-01,2,2,draw,Borås
+1958,Poules,Northern Ireland ,Czechoslovakia ,1958-01-01,2,1,home_team,Malmö
+1958,Poules,Wales ,Hungary ,1958-01-01,2,1,home_team,Stockholm
+1958,Poules,Soviet Union ,England,1958-01-01,1,0,home_team,Göteborg
+1958,Quarts de finale,Sweden ,Soviet Union ,1958-01-01,2,0,home_team,Stockholm
+1958,Quarts de finale,FRG ,Yugoslavia ,1958-01-01,1,0,home_team,Malmö
+1958,Quarts de finale,France,Northern Ireland ,1958-01-01,4,0,home_team,Norrköping
+1958,Quarts de finale,Brazil ,Wales ,1958-01-01,1,0,home_team,Göteborg
+1958,Demi-finales,Sweden ,FRG ,1958-01-01,3,1,home_team,Göteborg
+1958,Demi-finales,Brazil ,France,1958-01-01,5,2,home_team,Stockholm
+1958,Troisième place,France,FRG ,1958-01-01,6,3,home_team,Göteborg
+1958,Finale,Brazil ,Sweden ,1958-01-01,5,2,home_team,Stockholm
+1962,Poules,Uruguay,Colombia,1962-01-01,2,1,home_team,Arica
+1962,Poules,Chile,Switzerland ,1962-01-01,3,1,home_team,Santiago
+1962,Poules,Brazil ,Mexico ,1962-01-01,2,0,home_team,Viña Del Mar
+1962,Poules,Argentina,Bulgaria ,1962-01-01,1,0,home_team,Rancagua
+1962,Poules,Soviet Union ,Yugoslavia ,1962-01-01,2,0,home_team,Arica
+1962,Poules,FRG ,Italy ,1962-01-01,0,0,draw,Santiago
+1962,Poules,Czechoslovakia ,Spain ,1962-01-01,1,0,home_team,Viña Del Mar
+1962,Poules,Hungary ,England,1962-01-01,2,1,home_team,Rancagua
+1962,Poules,Yugoslavia ,Uruguay,1962-01-01,3,1,home_team,Santiago
+1962,Poules,Chile,Italy ,1962-01-01,2,0,home_team,Viña Del Mar
+1962,Poules,Brazil ,Czechoslovakia ,1962-01-01,0,0,draw,Rancagua
+1962,Poules,England,Argentina,1962-01-01,3,1,home_team,Arica
+1962,Poules,Soviet Union ,Colombia,1962-01-01,4,4,draw,Arica
+1962,Poules,FRG ,Switzerland ,1962-01-01,2,1,home_team,Santiago
+1962,Poules,Spain ,Mexico ,1962-01-01,1,0,home_team,Viña Del Mar
+1962,Poules,Hungary ,Bulgaria ,1962-01-01,6,1,home_team,Rancagua
+1962,Poules,Soviet Union ,Uruguay,1962-01-01,2,1,home_team,Arica
+1962,Poules,FRG ,Chile,1962-01-01,2,0,home_team,Santiago
+1962,Poules,Brazil ,Spain ,1962-01-01,2,1,home_team,Viña Del Mar
+1962,Poules,Hungary ,Argentina,1962-01-01,0,0,draw,Rancagua
+1962,Poules,Yugoslavia ,Colombia,1962-01-01,5,0,home_team,Arica
+1962,Poules,Italy ,Switzerland ,1962-01-01,3,0,home_team,Santiago
+1962,Poules,Mexico ,Czechoslovakia ,1962-01-01,3,1,home_team,Viña Del Mar
+1962,Poules,England,Bulgaria ,1962-01-01,0,0,draw,Rancagua
+1962,Quarts de finale,Chile,Soviet Union ,1962-01-01,2,1,home_team,Arica
+1962,Quarts de finale,Yugoslavia ,FRG ,1962-01-01,1,0,home_team,Santiago
+1962,Quarts de finale,Brazil ,England,1962-01-01,3,1,home_team,Viña Del Mar
+1962,Quarts de finale,Czechoslovakia ,Hungary ,1962-01-01,1,0,home_team,Rancagua
+1962,Demi-finales,Brazil ,Chile,1962-01-01,4,2,home_team,Santiago
+1962,Demi-finales,Czechoslovakia ,Yugoslavia ,1962-01-01,3,1,home_team,Viña Del Mar
+1962,Troisième place,Chile,Yugoslavia ,1962-01-01,1,0,home_team,Santiago
+1962,Finale,Brazil ,Czechoslovakia ,1962-01-01,3,1,home_team,Santiago
+1966,Poules,England,Uruguay,1966-01-01,0,0,draw,London
+1966,Poules,FRG ,Switzerland ,1966-01-01,5,0,home_team,Sheffield
+1966,Poules,Brazil ,Bulgaria ,1966-01-01,2,0,home_team,Liverpool
+1966,Poules,Soviet Union ,North Korea ,1966-01-01,3,0,home_team,Middlesbrough
+1966,Poules,France,Mexico ,1966-01-01,1,1,draw,London
+1966,Poules,Argentina,Spain ,1966-01-01,2,1,home_team,Birmingham
+1966,Poules,Portugal,Hungary ,1966-01-01,3,1,home_team,Manchester
+1966,Poules,Italy ,Chile,1966-01-01,2,0,home_team,Sunderland
+1966,Poules,Uruguay,France,1966-01-01,2,1,home_team,London
+1966,Poules,Spain ,Switzerland ,1966-01-01,2,1,home_team,Sheffield
+1966,Poules,Hungary ,Brazil ,1966-01-01,3,1,home_team,Liverpool
+1966,Poules,North Korea ,Chile,1966-01-01,1,1,draw,Middlesbrough
+1966,Poules,FRG ,Argentina,1966-01-01,0,0,draw,Birmingham
+1966,Poules,Portugal,Bulgaria ,1966-01-01,3,0,home_team,Manchester
+1966,Poules,Soviet Union ,Italy ,1966-01-01,1,0,home_team,Sunderland
+1966,Poules,England,Mexico ,1966-01-01,2,0,home_team,London
+1966,Poules,Mexico ,Uruguay,1966-01-01,0,0,draw,London
+1966,Poules,Argentina,Switzerland ,1966-01-01,2,0,home_team,Sheffield
+1966,Poules,Portugal,Brazil ,1966-01-01,3,1,home_team,Liverpool
+1966,Poules,North Korea ,Italy ,1966-01-01,1,0,home_team,Middlesbrough
+1966,Poules,England,France,1966-01-01,2,0,home_team,London
+1966,Poules,FRG ,Spain ,1966-01-01,2,1,home_team,Birmingham
+1966,Poules,Hungary ,Bulgaria ,1966-01-01,3,1,home_team,Manchester
+1966,Poules,Soviet Union ,Chile,1966-01-01,2,1,home_team,Sunderland
+1966,Quarts de finale,FRG ,Uruguay,1966-01-01,4,0,home_team,Sheffield
+1966,Quarts de finale,Portugal,North Korea ,1966-01-01,5,3,home_team,Liverpool
+1966,Quarts de finale,Soviet Union ,Hungary ,1966-01-01,2,1,home_team,Sunderland
+1966,Quarts de finale,England,Argentina,1966-01-01,1,0,home_team,London
+1966,Demi-finales,FRG ,Soviet Union ,1966-01-01,2,1,home_team,Liverpool
+1966,Demi-finales,England,Portugal,1966-01-01,2,1,home_team,London
+1966,Troisième place,Portugal,Soviet Union ,1966-01-01,2,1,home_team,London
+1966,Finale,England,FRG ,1966-01-01,4,2,home_team,London
+1970,Poules,Soviet Union ,Mexico ,1970-01-01,0,0,draw,México Df
+1970,Poules,Uruguay,Israel ,1970-01-01,2,0,home_team,Puebla
+1970,Poules,England,Romania ,1970-01-01,1,0,home_team,Guadalajara
+1970,Poules,Peru ,Bulgaria ,1970-01-01,3,2,home_team,León
+1970,Poules,Belgium ,El Salvador,1970-01-01,3,0,home_team,México Df
+1970,Poules,Italy ,Sweden ,1970-01-01,1,0,home_team,Toluca
+1970,Poules,Brazil ,Czechoslovakia ,1970-01-01,4,1,home_team,Guadalajara
+1970,Poules,FRG ,Morocco ,1970-01-01,2,1,home_team,León
+1970,Poules,Soviet Union ,Belgium ,1970-01-01,4,1,home_team,México Df
+1970,Poules,Italy ,Uruguay,1970-01-01,0,0,draw,Puebla
+1970,Poules,Romania ,Czechoslovakia ,1970-01-01,2,1,home_team,Guadalajara
+1970,Poules,Peru ,Morocco ,1970-01-01,3,0,home_team,León
+1970,Poules,Mexico ,El Salvador,1970-01-01,4,0,home_team,México Df
+1970,Poules,Sweden ,Israel ,1970-01-01,1,1,draw,Toluca
+1970,Poules,Brazil ,England,1970-01-01,1,0,home_team,Guadalajara
+1970,Poules,FRG ,Bulgaria ,1970-01-01,5,2,home_team,León
+1970,Poules,Soviet Union ,El Salvador,1970-01-01,2,0,home_team,México Df
+1970,Poules,Sweden ,Uruguay,1970-01-01,1,0,home_team,Puebla
+1970,Poules,Brazil ,Romania ,1970-01-01,3,2,home_team,Guadalajara
+1970,Poules,FRG ,Peru ,1970-01-01,3,1,home_team,León
+1970,Poules,Mexico ,Belgium ,1970-01-01,1,0,home_team,México Df
+1970,Poules,Italy ,Israel ,1970-01-01,0,0,draw,Toluca
+1970,Poules,England,Czechoslovakia ,1970-01-01,1,0,home_team,Guadalajara
+1970,Poules,Bulgaria ,Morocco ,1970-01-01,1,1,draw,León
+1970,Quarts de finale,Uruguay,Soviet Union ,1970-01-01,1,0,home_team,México Df
+1970,Quarts de finale,Italy ,Mexico ,1970-01-01,4,1,home_team,Toluca
+1970,Quarts de finale,Brazil ,Peru ,1970-01-01,4,2,home_team,Guadalajara
+1970,Quarts de finale,FRG ,England,1970-01-01,3,2,home_team,León
+1970,Demi-finales,Brazil ,Uruguay,1970-01-01,3,1,home_team,Guadalajara
+1970,Demi-finales,Italy ,FRG ,1970-01-01,4,3,home_team,México Df
+1970,Troisième place,FRG ,Uruguay,1970-01-01,1,0,home_team,México Df
+1970,Finale,Brazil ,Italy ,1970-01-01,4,1,home_team,México Df
+1974,Poules,Brazil ,Yugoslavia ,1974-01-01,0,0,draw,Frankfurt Am Main
+1974,Poules,FRG ,Chile,1974-01-01,1,0,home_team,West-Berlin
+1974,Poules,GDR ,Australia,1974-01-01,2,0,home_team,Hamburg
+1974,Poules,Zaire ,Scotland,1974-01-01,0,2,away_home,Dortmund
+1974,Poules,Sweden ,Bulgaria ,1974-01-01,0,0,draw,Düsseldorf
+1974,Poules,Uruguay,Netherlands ,1974-01-01,0,2,away_home,Hannover
+1974,Poules,Italy ,Haiti ,1974-01-01,3,1,home_team,München
+1974,Poules,Poland ,Argentina,1974-01-01,3,2,home_team,Stuttgart
+1974,Poules,Australia,FRG ,1974-01-01,0,3,away_home,Hamburg
+1974,Poules,Chile,GDR ,1974-01-01,1,1,draw,West-Berlin
+1974,Poules,Yugoslavia ,Zaire ,1974-01-01,9,0,home_team,Gelsenkirchen
+1974,Poules,Scotland,Brazil ,1974-01-01,0,0,draw,Frankfurt Am Main
+1974,Poules,Netherlands ,Sweden ,1974-01-01,0,0,draw,Dortmund
+1974,Poules,Bulgaria ,Uruguay,1974-01-01,1,1,draw,Hannover
+1974,Poules,Haiti ,Poland ,1974-01-01,0,7,away_home,München
+1974,Poules,Argentina,Italy ,1974-01-01,1,1,draw,Stuttgart
+1974,Poules,Australia,Chile,1974-01-01,0,0,draw,West-Berlin
+1974,Poules,Zaire ,Brazil ,1974-01-01,0,3,away_home,Gelsenkirchen
+1974,Poules,Scotland,Yugoslavia ,1974-01-01,1,1,draw,Frankfurt Am Main
+1974,Poules,GDR ,FRG ,1974-01-01,1,0,home_team,Hamburg
+1974,Poules,Bulgaria ,Netherlands ,1974-01-01,1,4,away_home,Dortmund
+1974,Poules,Sweden ,Uruguay,1974-01-01,3,0,home_team,Düsseldorf
+1974,Poules,Argentina,Haiti ,1974-01-01,4,1,home_team,München
+1974,Poules,Poland ,Italy ,1974-01-01,2,1,home_team,Stuttgart
+1974,Demi-finales,Yugoslavia ,FRG ,1974-01-01,0,2,away_home,Düsseldorf
+1974,Demi-finales,Netherlands ,Argentina,1974-01-01,4,0,home_team,Gelsenkirchen
+1974,Demi-finales,Brazil ,GDR ,1974-01-01,1,0,home_team,Hannover
+1974,Demi-finales,Sweden ,Poland ,1974-01-01,0,1,away_home,Stuttgart
+1974,Demi-finales,GDR ,Netherlands ,1974-01-01,0,2,away_home,Gelsenkirchen
+1974,Demi-finales,Argentina,Brazil ,1974-01-01,1,2,away_home,Hannover
+1974,Demi-finales,Poland ,Yugoslavia ,1974-01-01,2,1,home_team,Frankfurt Am Main
+1974,Demi-finales,FRG ,Sweden ,1974-01-01,4,2,home_team,Düsseldorf
+1974,Demi-finales,Poland ,FRG ,1974-01-01,0,1,away_home,Frankfurt Am Main
+1974,Demi-finales,Netherlands ,Brazil ,1974-01-01,2,0,home_team,Dortmund
+1974,Demi-finales,Argentina,GDR ,1974-01-01,1,1,draw,Gelsenkirchen
+1974,Demi-finales,Sweden ,Yugoslavia ,1974-01-01,2,1,home_team,Düsseldorf
+1974,Troisième place,Poland ,Brazil ,1974-01-01,1,0,home_team,München
+1974,Finale,FRG ,Netherlands ,1974-01-01,2,1,home_team,München
+1978,Poules,FRG ,Poland ,1978-01-01,0,0,draw,Buenos Aires
+1978,Poules,Italy ,France,1978-01-01,2,1,home_team,Mar_Del_Plata
+1978,Poules,Tunisia ,Mexico ,1978-01-01,3,1,home_team,Rosario
+1978,Poules,Argentina,Hungary ,1978-01-01,2,1,home_team,Buenos Aires
+1978,Poules,Austria ,Spain ,1978-01-01,2,1,home_team,Buenos Aires
+1978,Poules,Sweden ,Brazil ,1978-01-01,1,1,draw,Mar_Del_Plata
+1978,Poules,Peru ,Scotland,1978-01-01,3,1,home_team,Córdoba
+1978,Poules,Netherlands ,Iran ,1978-01-01,3,0,home_team,Mendoza
+1978,Poules,Italy ,Hungary ,1978-01-01,3,1,home_team,Mar_Del_Plata
+1978,Poules,FRG ,Mexico ,1978-01-01,6,0,home_team,Córdoba
+1978,Poules,Poland ,Tunisia ,1978-01-01,1,0,home_team,Rosario
+1978,Poules,Argentina,France,1978-01-01,2,1,home_team,Buenos Aires
+1978,Poules,Austria ,Sweden ,1978-01-01,1,0,home_team,Buenos Aires
+1978,Poules,Brazil ,Spain ,1978-01-01,0,0,draw,Mar_Del_Plata
+1978,Poules,Scotland,Iran ,1978-01-01,1,1,draw,Córdoba
+1978,Poules,Netherlands ,Peru ,1978-01-01,0,0,draw,Mendoza
+1978,Poules,France,Hungary ,1978-01-01,3,1,home_team,Mar_Del_Plata
+1978,Poules,FRG ,Tunisia ,1978-01-01,0,0,draw,Córdoba
+1978,Poules,Poland ,Mexico ,1978-01-01,3,1,home_team,Rosario
+1978,Poules,Italy ,Argentina,1978-01-01,1,0,home_team,Buenos Aires
+1978,Poules,Spain ,Sweden ,1978-01-01,1,0,home_team,Buenos Aires
+1978,Poules,Brazil ,Austria ,1978-01-01,1,0,home_team,Mar_Del_Plata
+1978,Poules,Peru ,Iran ,1978-01-01,4,1,home_team,Córdoba
+1978,Poules,Scotland,Netherlands ,1978-01-01,3,2,home_team,Mendoza
+1978,Demi-finales,Netherlands ,Austria ,1978-01-01,5,1,home_team,Córdoba
+1978,Demi-finales,FRG ,Italy ,1978-01-01,0,0,draw,Buenos Aires
+1978,Demi-finales,Brazil ,Peru ,1978-01-01,3,0,home_team,Mendoza
+1978,Demi-finales,Argentina,Poland ,1978-01-01,2,0,home_team,Rosario
+1978,Demi-finales,Poland ,Peru ,1978-01-01,1,0,home_team,Mendoza
+1978,Demi-finales,FRG ,Netherlands ,1978-01-01,2,2,draw,Córdoba
+1978,Demi-finales,Italy ,Austria ,1978-01-01,1,0,home_team,Buenos Aires
+1978,Demi-finales,Argentina,Brazil ,1978-01-01,0,0,draw,Rosario
+1978,Demi-finales,Austria ,FRG ,1978-01-01,3,2,home_team,Córdoba
+1978,Demi-finales,Netherlands ,Italy ,1978-01-01,2,1,home_team,Buenos Aires
+1978,Demi-finales,Brazil ,Poland ,1978-01-01,3,1,home_team,Mendoza
+1978,Demi-finales,Argentina,Peru ,1978-01-01,6,0,home_team,Rosario
+1978,Troisième place,Brazil ,Italy ,1978-01-01,2,1,home_team,Buenos Aires
+1978,Finale,Argentina,Netherlands ,1978-01-01,3,1,home_team,Buenos Aires
+1982,Poules,Argentina,Belgium ,1982-01-01,0,1,away_home,Barcelona
+1982,Poules,Italy ,Poland ,1982-01-01,0,0,draw,Vigo
+1982,Poules,Brazil ,Soviet Union ,1982-01-01,2,1,home_team,Sevilla
+1982,Poules,Peru ,Cameroon ,1982-01-01,0,0,draw,La_Coruña
+1982,Poules,Hungary ,El Salvador,1982-01-01,10,1,home_team,Elche
+1982,Poules,Scotland,New Zealand ,1982-01-01,5,2,home_team,Málaga
+1982,Poules,FRG ,Algeria ,1982-01-01,1,2,away_home,Gijón
+1982,Poules,England,France,1982-01-01,3,1,home_team,Bilbao
+1982,Poules,Spain ,Honduras,1982-01-01,1,1,draw,Valencia
+1982,Poules,Chile,Austria ,1982-01-01,0,1,away_home,Oviedo
+1982,Poules,Czechoslovakia ,Kuwait ,1982-01-01,1,1,draw,Valladolid
+1982,Poules,Yugoslavia ,Northern Ireland ,1982-01-01,0,0,draw,Zaragoza
+1982,Poules,Italy ,Peru ,1982-01-01,1,1,draw,Vigo
+1982,Poules,Argentina,Hungary ,1982-01-01,4,1,home_team,Alicante
+1982,Poules,Brazil ,Scotland,1982-01-01,4,1,home_team,Sevilla
+1982,Poules,Poland ,Cameroon ,1982-01-01,0,0,draw,La_Coruña
+1982,Poules,Belgium ,El Salvador,1982-01-01,1,0,home_team,Elche
+1982,Poules,Soviet Union ,New Zealand ,1982-01-01,3,0,home_team,Málaga
+1982,Poules,FRG ,Chile,1982-01-01,4,1,home_team,Gijón
+1982,Poules,England,Czechoslovakia ,1982-01-01,2,0,home_team,Bilbao
+1982,Poules,Spain ,Yugoslavia ,1982-01-01,2,1,home_team,Valencia
+1982,Poules,Algeria ,Austria ,1982-01-01,0,2,away_home,Oviedo
+1982,Poules,France,Kuwait ,1982-01-01,4,1,home_team,Valladolid
+1982,Poules,Honduras,Northern Ireland ,1982-01-01,1,1,draw,Zaragoza
+1982,Poules,Poland ,Peru ,1982-01-01,5,1,home_team,La_Coruña
+1982,Poules,Belgium ,Hungary ,1982-01-01,1,1,draw,Elche
+1982,Poules,Soviet Union ,Scotland,1982-01-01,2,2,draw,Málaga
+1982,Poules,Italy ,Cameroon ,1982-01-01,1,1,draw,Vigo
+1982,Poules,Argentina,El Salvador,1982-01-01,2,0,home_team,Alicante
+1982,Poules,Brazil ,New Zealand ,1982-01-01,4,0,home_team,Sevilla
+1982,Poules,Algeria ,Chile,1982-01-01,3,2,home_team,Oviedo
+1982,Poules,France,Czechoslovakia ,1982-01-01,1,1,draw,Valladolid
+1982,Poules,Honduras,Yugoslavia ,1982-01-01,0,1,away_home,Zaragoza
+1982,Poules,FRG ,Austria ,1982-01-01,1,0,home_team,Gijón
+1982,Poules,England,Kuwait ,1982-01-01,1,0,home_team,Bilbao
+1982,Poules,Northern Ireland ,Spain ,1982-01-01,1,0,home_team,Valencia
+1982,Quarts de finale,Austria ,France,1982-01-01,0,1,away_home,Madrid
+1982,Quarts de finale,Poland ,Belgium ,1982-01-01,3,0,home_team,Barcelona
+1982,Quarts de finale,Italy ,Argentina,1982-01-01,2,1,home_team,Barcelona
+1982,Quarts de finale,FRG ,England,1982-01-01,0,0,draw,Madrid
+1982,Quarts de finale,Austria ,Northern Ireland ,1982-01-01,2,2,draw,Madrid
+1982,Quarts de finale,Belgium ,Soviet Union ,1982-01-01,0,1,away_home,Barcelona
+1982,Quarts de finale,Argentina,Brazil ,1982-01-01,1,3,away_home,Barcelona
+1982,Quarts de finale,FRG ,Spain ,1982-01-01,2,1,home_team,Madrid
+1982,Quarts de finale,France,Northern Ireland ,1982-01-01,4,1,home_team,Madrid
+1982,Quarts de finale,Poland ,Soviet Union ,1982-01-01,0,0,draw,Barcelona
+1982,Quarts de finale,Italy ,Brazil ,1982-01-01,3,2,home_team,Barcelona
+1982,Quarts de finale,Spain ,England,1982-01-01,0,0,draw,Madrid
+1982,Demi-finales,Poland ,Italy ,1982-01-01,0,2,away_home,Barcelona
+1982,Demi-finales,FRG ,France,1982-01-01,3,3,draw,Sevilla
+1982,Troisième place,Poland ,France,1982-01-01,3,2,home_team,Alicante
+1982,Finale,Italy ,FRG ,1982-01-01,3,1,home_team,Madrid
+1986,Poules,Bulgaria ,Italy ,1986-01-01,1,1,draw,México Df
+1986,Poules,Spain ,Brazil ,1986-01-01,0,1,away_home,Guadalajara
+1986,Poules,Canada,France,1986-01-01,0,1,away_home,León
+1986,Poules,Argentina,South Korea ,1986-01-01,3,1,home_team,México Df
+1986,Poules,Soviet Union ,Hungary ,1986-01-01,6,0,home_team,Irapuato
+1986,Poules,Morocco ,Poland ,1986-01-01,0,0,draw,Monterrey
+1986,Poules,Belgium ,Mexico ,1986-01-01,1,2,away_home,México Df
+1986,Poules,Algeria ,Northern Ireland ,1986-01-01,1,1,draw,Guadalajara
+1986,Poules,Portugal,England,1986-01-01,1,0,home_team,Monterrey
+1986,Poules,Paraguay,Iraq ,1986-01-01,1,0,home_team,Toluca
+1986,Poules,Uruguay,FRG ,1986-01-01,1,1,draw,Querétaro
+1986,Poules,Scotland,Denmark ,1986-01-01,0,1,away_home,Nezahualcóyotl
+1986,Poules,Italy ,Argentina,1986-01-01,1,1,draw,Puebla
+1986,Poules,France,Soviet Union ,1986-01-01,1,1,draw,León
+1986,Poules,South Korea ,Bulgaria ,1986-01-01,1,1,draw,México Df
+1986,Poules,Hungary ,Canada,1986-01-01,2,0,home_team,Irapuato
+1986,Poules,Brazil ,Algeria ,1986-01-01,1,0,home_team,Guadalajara
+1986,Poules,England,Morocco ,1986-01-01,0,0,draw,Monterrey
+1986,Poules,Mexico ,Paraguay,1986-01-01,1,1,draw,México Df
+1986,Poules,Northern Ireland ,Spain ,1986-01-01,1,2,away_home,Guadalajara
+1986,Poules,Poland ,Portugal,1986-01-01,1,0,home_team,Monterrey
+1986,Poules,Iraq ,Belgium ,1986-01-01,1,2,away_home,Toluca
+1986,Poules,FRG ,Scotland,1986-01-01,2,1,home_team,Querétaro
+1986,Poules,Denmark ,Uruguay,1986-01-01,6,1,home_team,Nezahualcóyotl
+1986,Poules,Hungary ,France,1986-01-01,0,3,away_home,León
+1986,Poules,Soviet Union ,Canada,1986-01-01,2,0,home_team,Irapuato
+1986,Poules,South Korea ,Italy ,1986-01-01,2,3,away_home,Puebla
+1986,Poules,Argentina,Bulgaria ,1986-01-01,2,0,home_team,México Df
+1986,Poules,Paraguay,Belgium ,1986-01-01,2,2,draw,Toluca
+1986,Poules,Iraq ,Mexico ,1986-01-01,0,1,away_home,México Df
+1986,Poules,England,Poland ,1986-01-01,3,0,home_team,Monterrey
+1986,Poules,Portugal,Morocco ,1986-01-01,1,3,away_home,Guadalajara
+1986,Poules,Northern Ireland ,Brazil ,1986-01-01,0,3,away_home,Guadalajara
+1986,Poules,Algeria ,Spain ,1986-01-01,0,3,away_home,Monterrey
+1986,Poules,Denmark ,FRG ,1986-01-01,2,0,home_team,Querétaro
+1986,Poules,Scotland,Uruguay,1986-01-01,0,0,draw,Nezahualcóyotl
+1986,Huitièmes de finale,Mexico ,Bulgaria ,1986-01-01,2,0,home_team,México Df
+1986,Huitièmes de finale,Soviet Union ,Belgium ,1986-01-01,3,4,away_home,León
+1986,Huitièmes de finale,Brazil ,Poland ,1986-01-01,4,0,home_team,Guadalajara
+1986,Huitièmes de finale,Argentina,Uruguay,1986-01-01,1,0,home_team,Puebla
+1986,Huitièmes de finale,Italy ,France,1986-01-01,0,2,away_home,México Df
+1986,Huitièmes de finale,Morocco ,FRG ,1986-01-01,0,1,away_home,Monterrey
+1986,Huitièmes de finale,England,Paraguay,1986-01-01,3,0,home_team,México Df
+1986,Huitièmes de finale,Denmark ,Spain ,1986-01-01,1,5,away_home,Querétaro
+1986,Quarts de finale,Brazil ,France,1986-01-01,1,1,draw,Guadalajara
+1986,Quarts de finale,FRG ,Mexico ,1986-01-01,0,0,draw,Monterrey
+1986,Quarts de finale,Argentina,England,1986-01-01,2,1,home_team,México Df
+1986,Quarts de finale,Spain ,Belgium ,1986-01-01,1,1,draw,Puebla
+1986,Demi-finales,France,FRG ,1986-01-01,0,2,away_home,Guadalajara
+1986,Demi-finales,Argentina,Belgium ,1986-01-01,2,0,home_team,México Df
+1986,Troisième place,France,Belgium ,1986-01-01,4,2,home_team,Puebla
+1986,Finale,Argentina,FRG ,1986-01-01,3,2,home_team,México Df
+1990,Poules,Argentina,Cameroon ,1990-01-01,0,1,away_home,Milano
+1990,Poules,Soviet Union ,Romania ,1990-01-01,0,2,away_home,Bari
+1990,Poules,United Arab Emirates ,Colombia,1990-01-01,0,2,away_home,Bologna
+1990,Poules,Italy ,Austria ,1990-01-01,1,0,home_team,Roma
+1990,Poules,USA,Czechoslovakia ,1990-01-01,1,5,away_home,Firenze
+1990,Poules,Brazil ,Sweden ,1990-01-01,2,1,home_team,Torino
+1990,Poules,FRG ,Yugoslavia ,1990-01-01,4,1,home_team,Milano
+1990,Poules,Costa Rica,Scotland,1990-01-01,1,0,home_team,Genova
+1990,Poules,England,Ireland ,1990-01-01,1,1,draw,Cagliari
+1990,Poules,Belgium ,South Korea ,1990-01-01,2,0,home_team,Verona
+1990,Poules,Netherlands ,Egypt ,1990-01-01,1,1,draw,Palermo
+1990,Poules,Uruguay,Spain ,1990-01-01,0,0,draw,Udine
+1990,Poules,Argentina,Soviet Union ,1990-01-01,2,0,home_team,Napoli
+1990,Poules,Cameroon ,Romania ,1990-01-01,2,1,home_team,Bari
+1990,Poules,Yugoslavia ,Colombia,1990-01-01,1,0,home_team,Bologna
+1990,Poules,Italy ,USA,1990-01-01,1,0,home_team,Roma
+1990,Poules,Austria ,Czechoslovakia ,1990-01-01,0,1,away_home,Firenze
+1990,Poules,FRG ,United Arab Emirates ,1990-01-01,5,1,home_team,Milano
+1990,Poules,Brazil ,Costa Rica,1990-01-01,1,0,home_team,Torino
+1990,Poules,England,Netherlands ,1990-01-01,0,0,draw,Cagliari
+1990,Poules,Sweden ,Scotland,1990-01-01,1,2,away_home,Genova
+1990,Poules,South Korea ,Spain ,1990-01-01,1,3,away_home,Udine
+1990,Poules,Belgium ,Uruguay,1990-01-01,3,1,home_team,Verona
+1990,Poules,Ireland ,Egypt ,1990-01-01,0,0,draw,Palermo
+1990,Poules,Cameroon ,Soviet Union ,1990-01-01,0,4,away_home,Bari
+1990,Poules,Argentina,Romania ,1990-01-01,1,1,draw,Napoli
+1990,Poules,FRG ,Colombia,1990-01-01,1,1,draw,Milano
+1990,Poules,Yugoslavia ,United Arab Emirates ,1990-01-01,4,1,home_team,Bologna
+1990,Poules,Austria ,USA,1990-01-01,2,1,home_team,Firenze
+1990,Poules,Italy ,Czechoslovakia ,1990-01-01,2,0,home_team,Roma
+1990,Poules,Brazil ,Scotland,1990-01-01,1,0,home_team,Torino
+1990,Poules,Sweden ,Costa Rica,1990-01-01,1,2,away_home,Genova
+1990,Poules,South Korea ,Uruguay,1990-01-01,0,1,away_home,Udine
+1990,Poules,Belgium ,Spain ,1990-01-01,1,2,away_home,Verona
+1990,Poules,England,Egypt ,1990-01-01,1,0,home_team,Cagliari
+1990,Poules,Ireland ,Netherlands ,1990-01-01,1,1,draw,Palermo
+1990,Huitièmes de finale,Cameroon ,Colombia,1990-01-01,2,1,home_team,Napoli
+1990,Huitièmes de finale,Czechoslovakia ,Costa Rica,1990-01-01,4,1,home_team,Bari
+1990,Huitièmes de finale,Brazil ,Argentina,1990-01-01,0,1,away_home,Torino
+1990,Huitièmes de finale,FRG ,Netherlands ,1990-01-01,2,1,home_team,Milano
+1990,Huitièmes de finale,Ireland ,Romania ,1990-01-01,0,0,draw,Genova
+1990,Huitièmes de finale,Italy ,Uruguay,1990-01-01,2,0,home_team,Roma
+1990,Huitièmes de finale,Spain ,Yugoslavia ,1990-01-01,1,2,away_home,Verona
+1990,Huitièmes de finale,England,Belgium ,1990-01-01,1,0,home_team,Bologna
+1990,Quarts de finale,Yugoslavia ,Argentina,1990-01-01,0,0,draw,Firenze
+1990,Quarts de finale,Italy ,Ireland ,1990-01-01,1,0,home_team,Roma
+1990,Quarts de finale,FRG ,Czechoslovakia ,1990-01-01,1,0,home_team,Milano
+1990,Quarts de finale,England,Cameroon ,1990-01-01,3,2,home_team,Napoli
+1990,Demi-finales,Italy ,Argentina,1990-01-01,1,1,draw,Napoli
+1990,Demi-finales,FRG ,England,1990-01-01,1,1,draw,Torino
+1990,Troisième place,Italy ,England,1990-01-01,2,1,home_team,Bari
+1990,Finale,FRG ,Argentina,1990-01-01,1,0,home_team,Roma
+1994,Poules,Germany ,Bolivia,1994-01-01,1,0,home_team,Chicago
+1994,Poules,Spain ,South Korea ,1994-01-01,2,2,draw,Dallas
+1994,Poules,Italy ,Ireland ,1994-01-01,0,1,away_home,New_York
+1994,Poules,Colombia,Romania ,1994-01-01,1,3,away_home,Los Angeles
+1994,Poules,USA,Switzerland ,1994-01-01,1,1,draw,Detroit
+1994,Poules,Belgium ,Morocco ,1994-01-01,1,0,home_team,Orlando
+1994,Poules,Norway ,Mexico ,1994-01-01,1,0,home_team,Washington
+1994,Poules,Cameroon ,Sweden ,1994-01-01,2,2,draw,Los Angeles
+1994,Poules,Netherlands ,Saudi Arabia ,1994-01-01,2,1,home_team,Washington
+1994,Poules,Brazil ,Russia ,1994-01-01,2,0,home_team,San_Francisco
+1994,Poules,Argentina,Greece ,1994-01-01,4,0,home_team,Boston
+1994,Poules,Germany ,Spain ,1994-01-01,1,1,draw,Chicago
+1994,Poules,Nigeria,Bulgaria ,1994-01-01,3,0,home_team,Dallas
+1994,Poules,Romania ,Switzerland ,1994-01-01,1,4,away_home,Detroit
+1994,Poules,USA,Colombia,1994-01-01,2,1,home_team,Los Angeles
+1994,Poules,Italy ,Norway ,1994-01-01,1,0,home_team,New_York
+1994,Poules,South Korea ,Bolivia,1994-01-01,0,0,draw,Boston
+1994,Poules,Mexico ,Ireland ,1994-01-01,2,1,home_team,Orlando
+1994,Poules,Brazil ,Cameroon ,1994-01-01,3,0,home_team,San_Francisco
+1994,Poules,Sweden ,Russia ,1994-01-01,3,1,home_team,Detroit
+1994,Poules,Saudi Arabia ,Morocco ,1994-01-01,2,1,home_team,New_York
+1994,Poules,Belgium ,Netherlands ,1994-01-01,1,0,home_team,Orlando
+1994,Poules,Argentina,Nigeria,1994-01-01,2,1,home_team,Boston
+1994,Poules,Bulgaria ,Greece ,1994-01-01,4,0,home_team,Chicago
+1994,Poules,Switzerland ,Colombia,1994-01-01,0,2,away_home,San_Francisco
+1994,Poules,USA,Romania ,1994-01-01,0,1,away_home,Los Angeles
+1994,Poules,Bolivia,Spain ,1994-01-01,1,3,away_home,Chicago
+1994,Poules,Germany ,South Korea ,1994-01-01,3,2,home_team,Dallas
+1994,Poules,Italy ,Mexico ,1994-01-01,1,1,draw,Washington
+1994,Poules,Ireland ,Norway ,1994-01-01,0,0,draw,New_York
+1994,Poules,Russia ,Cameroon ,1994-01-01,6,1,home_team,San_Francisco
+1994,Poules,Brazil ,Sweden ,1994-01-01,1,1,draw,Detroit
+1994,Poules,Belgium ,Saudi Arabia ,1994-01-01,0,1,away_home,Washington
+1994,Poules,Morocco ,Netherlands ,1994-01-01,1,2,away_home,Orlando
+1994,Poules,Argentina,Bulgaria ,1994-01-01,0,2,away_home,Dallas
+1994,Poules,Greece ,Nigeria,1994-01-01,0,2,away_home,Boston
+1994,Huitièmes de finale,Germany ,Belgium ,1994-01-01,3,2,home_team,Chicago
+1994,Huitièmes de finale,Spain ,Switzerland ,1994-01-01,3,0,home_team,Washington
+1994,Huitièmes de finale,Saudi Arabia ,Sweden ,1994-01-01,1,3,away_home,Dallas
+1994,Huitièmes de finale,Romania ,Argentina,1994-01-01,3,2,home_team,Los Angeles
+1994,Huitièmes de finale,Netherlands ,Ireland ,1994-01-01,2,0,home_team,Orlando
+1994,Huitièmes de finale,Brazil ,USA,1994-01-01,1,0,home_team,San_Francisco
+1994,Huitièmes de finale,Nigeria,Italy ,1994-01-01,1,2,away_home,Boston
+1994,Huitièmes de finale,Mexico ,Bulgaria ,1994-01-01,1,1,draw,New_York
+1994,Quarts de finale,Italy ,Spain ,1994-01-01,2,1,home_team,Boston
+1994,Quarts de finale,Netherlands ,Brazil ,1994-01-01,2,3,away_home,Dallas
+1994,Quarts de finale,Bulgaria ,Germany ,1994-01-01,2,1,home_team,New_York
+1994,Quarts de finale,Romania ,Sweden ,1994-01-01,2,2,draw,San_Francisco
+1994,Demi-finales,Bulgaria ,Italy ,1994-01-01,1,2,away_home,New_York
+1994,Demi-finales,Sweden ,Brazil ,1994-01-01,0,1,away_home,Los Angeles
+1994,Troisième place,Sweden ,Bulgaria ,1994-01-01,4,0,home_team,Los Angeles
+1994,Finale,Brazil ,Italy ,1994-01-01,0,0,draw,Los Angeles
+1998,Poules,Brazil ,Scotland,1998-01-01,2,1,home_team,Paris
+1998,Poules,Morocco ,Norway ,1998-01-01,2,2,draw,Montpellier
+1998,Poules,Italy ,Chile,1998-01-01,2,2,draw,Bordeaux
+1998,Poules,Cameroon ,Austria ,1998-01-01,1,1,draw,Toulouse
+1998,Poules,Paraguay,Bulgaria ,1998-01-01,0,0,draw,Montpellier
+1998,Poules,Saudi Arabia ,Denmark ,1998-01-01,0,1,away_home,Lens
+1998,Poules,France,South Africa ,1998-01-01,3,0,home_team,Marseille
+1998,Poules,Spain ,Nigeria,1998-01-01,2,3,away_home,Nantes
+1998,Poules,South Korea ,Mexico ,1998-01-01,1,3,away_home,Lyon
+1998,Poules,Netherlands ,Belgium ,1998-01-01,0,0,draw,Paris
+1998,Poules,Argentina,Japan ,1998-01-01,1,0,home_team,Toulouse
+1998,Poules,Yugoslavia ,Iran ,1998-01-01,1,0,home_team,Saint-Étienne
+1998,Poules,Jamaica,Croatia ,1998-01-01,1,3,away_home,Lens
+1998,Poules,England,Tunisia ,1998-01-01,2,0,home_team,Marseille
+1998,Poules,Romania ,Colombia,1998-01-01,1,0,home_team,Lyon
+1998,Poules,Germany ,USA,1998-01-01,2,0,home_team,Paris
+1998,Poules,Scotland,Norway ,1998-01-01,1,1,draw,Bordeaux
+1998,Poules,Brazil ,Morocco ,1998-01-01,3,0,home_team,Nantes
+1998,Poules,Chile,Austria ,1998-01-01,1,1,draw,Saint-Étienne
+1998,Poules,Italy ,Cameroon ,1998-01-01,3,0,home_team,Montpellier
+1998,Poules,South Africa ,Denmark ,1998-01-01,1,1,draw,Toulouse
+1998,Poules,France,Saudi Arabia ,1998-01-01,4,0,home_team,Paris
+1998,Poules,Nigeria,Bulgaria ,1998-01-01,1,0,home_team,Paris
+1998,Poules,Spain ,Paraguay,1998-01-01,0,0,draw,Saint-Étienne
+1998,Poules,Japan ,Croatia ,1998-01-01,0,1,away_home,Nantes
+1998,Poules,Belgium ,Mexico ,1998-01-01,2,2,draw,Bordeaux
+1998,Poules,Netherlands ,South Korea ,1998-01-01,5,0,home_team,Marseille
+1998,Poules,Germany ,Yugoslavia ,1998-01-01,2,2,draw,Lens
+1998,Poules,Argentina,Jamaica,1998-01-01,5,0,home_team,Paris
+1998,Poules,USA,Iran ,1998-01-01,1,2,away_home,Lyon
+1998,Poules,Colombia,Tunisia ,1998-01-01,1,0,home_team,Montpellier
+1998,Poules,Romania ,England,1998-01-01,2,1,home_team,Toulouse
+1998,Poules,Chile,Cameroon ,1998-01-01,1,1,draw,Nantes
+1998,Poules,Italy ,Austria ,1998-01-01,2,1,home_team,Paris
+1998,Poules,Brazil ,Norway ,1998-01-01,1,2,away_home,Marseille
+1998,Poules,Scotland,Morocco ,1998-01-01,0,3,away_home,Saint-Étienne
+1998,Poules,France,Denmark ,1998-01-01,2,1,home_team,Lyon
+1998,Poules,South Africa ,Saudi Arabia ,1998-01-01,2,2,draw,Bordeaux
+1998,Poules,Nigeria,Paraguay,1998-01-01,1,3,away_home,Toulouse
+1998,Poules,Spain ,Bulgaria ,1998-01-01,6,1,home_team,Lens
+1998,Poules,Netherlands ,Mexico ,1998-01-01,2,2,draw,Saint-Étienne
+1998,Poules,Belgium ,South Korea ,1998-01-01,1,1,draw,Paris
+1998,Poules,USA,Yugoslavia ,1998-01-01,0,1,away_home,Nantes
+1998,Poules,Germany ,Iran ,1998-01-01,2,0,home_team,Montpellier
+1998,Poules,Argentina,Croatia ,1998-01-01,1,0,home_team,Bordeaux
+1998,Poules,Japan ,Jamaica,1998-01-01,1,2,away_home,Lyon
+1998,Poules,Colombia,England,1998-01-01,0,2,away_home,Lens
+1998,Poules,Romania ,Tunisia ,1998-01-01,1,1,draw,Paris
+1998,Huitièmes de finale,Italy ,Norway ,1998-01-01,1,0,home_team,Marseille
+1998,Huitièmes de finale,Brazil ,Chile,1998-01-01,4,1,home_team,Paris
+1998,Huitièmes de finale,France,Paraguay,1998-01-01,1,0,home_team,Lens
+1998,Huitièmes de finale,Nigeria,Denmark ,1998-01-01,1,4,away_home,Paris
+1998,Huitièmes de finale,Germany ,Mexico ,1998-01-01,2,1,home_team,Montpellier
+1998,Huitièmes de finale,Netherlands ,Yugoslavia ,1998-01-01,2,1,home_team,Toulouse
+1998,Huitièmes de finale,Romania ,Croatia ,1998-01-01,0,1,away_home,Bordeaux
+1998,Huitièmes de finale,Argentina,England,1998-01-01,2,2,draw,Saint-Étienne
+1998,Quarts de finale,Italy ,France,1998-01-01,0,0,draw,Paris
+1998,Quarts de finale,Brazil ,Denmark ,1998-01-01,3,2,home_team,Nantes
+1998,Quarts de finale,Netherlands ,Argentina,1998-01-01,2,1,home_team,Marseille
+1998,Quarts de finale,Germany ,Croatia ,1998-01-01,0,3,away_home,Lyon
+1998,Demi-finales,Brazil ,Netherlands ,1998-01-01,1,1,draw,Marseille
+1998,Demi-finales,France,Croatia ,1998-01-01,2,1,home_team,Paris
+1998,Troisième place,Croatia ,Netherlands ,1998-01-01,2,1,home_team,Paris
+1998,Finale,France,Brazil ,1998-01-01,3,0,home_team,Paris
+2002,Poules,France,Senegal ,2002-01-01,0,1,away_home,Seoul
+2002,Poules,Ireland ,Cameroon ,2002-01-01,1,1,draw,Niigata
+2002,Poules,Uruguay,Denmark ,2002-01-01,1,2,away_home,Ulsan
+2002,Poules,Germany ,Saudi Arabia ,2002-01-01,8,0,home_team,Sapporo
+2002,Poules,Argentina,Nigeria,2002-01-01,1,0,home_team,Ibaraki
+2002,Poules,Paraguay,South Africa ,2002-01-01,2,2,draw,Busan
+2002,Poules,England,Sweden ,2002-01-01,1,1,draw,Saitama
+2002,Poules,Spain ,Slovakia ,2002-01-01,3,1,home_team,Gwangju
+2002,Poules,Croatia ,Mexico ,2002-01-01,0,1,away_home,Niigata
+2002,Poules,Brazil ,Turkey ,2002-01-01,2,1,home_team,Ulsan
+2002,Poules,Italy ,Ecuador,2002-01-01,2,0,home_team,Sapporo
+2002,Poules,China ,Costa Rica,2002-01-01,0,2,away_home,Gwangju
+2002,Poules,Japan ,Belgium ,2002-01-01,2,2,draw,Saitama
+2002,Poules,South Korea ,Poland ,2002-01-01,2,0,home_team,Busan
+2002,Poules,Russia ,Tunisia ,2002-01-01,2,0,home_team,Kobe
+2002,Poules,USA,Portugal,2002-01-01,3,2,home_team,Suwon
+2002,Poules,Germany ,Ireland ,2002-01-01,1,1,draw,Ibaraki
+2002,Poules,Denmark ,Senegal ,2002-01-01,1,1,draw,Daegu
+2002,Poules,Cameroon ,Saudi Arabia ,2002-01-01,1,0,home_team,Saitama
+2002,Poules,France,Uruguay,2002-01-01,0,0,draw,Busan
+2002,Poules,Sweden ,Nigeria,2002-01-01,2,1,home_team,Kobe
+2002,Poules,Spain ,Paraguay,2002-01-01,3,1,home_team,Jeonju
+2002,Poules,Argentina,England,2002-01-01,0,1,away_home,Sapporo
+2002,Poules,South Africa ,Slovakia ,2002-01-01,1,0,home_team,Daegu
+2002,Poules,Italy ,Croatia ,2002-01-01,1,2,away_home,Ibaraki
+2002,Poules,Brazil ,China ,2002-01-01,4,0,home_team,Seogwipo
+2002,Poules,Mexico ,Ecuador,2002-01-01,2,1,home_team,Miyagi
+2002,Poules,Costa Rica,Turkey ,2002-01-01,1,1,draw,Incheon
+2002,Poules,Japan ,Russia ,2002-01-01,1,0,home_team,Yokohama
+2002,Poules,South Korea ,USA,2002-01-01,1,1,draw,Daegu
+2002,Poules,Tunisia ,Belgium ,2002-01-01,1,1,draw,Oita
+2002,Poules,Portugal,Poland ,2002-01-01,4,0,home_team,Jeonju
+2002,Poules,Denmark ,France,2002-01-01,2,0,home_team,Incheon
+2002,Poules,Senegal ,Uruguay,2002-01-01,3,3,draw,Suwon
+2002,Poules,Cameroon ,Germany ,2002-01-01,0,2,away_home,Shizuoka
+2002,Poules,Saudi Arabia ,Ireland ,2002-01-01,0,3,away_home,Yokohama
+2002,Poules,Sweden ,Argentina,2002-01-01,1,1,draw,Miyagi
+2002,Poules,Nigeria,England,2002-01-01,0,0,draw,Osaka
+2002,Poules,South Africa ,Spain ,2002-01-01,2,3,away_home,Daejeon
+2002,Poules,Slovenia ,Paraguay,2002-01-01,1,3,away_home,Seogwipo
+2002,Poules,Costa Rica,Brazil ,2002-01-01,2,5,away_home,Suwon
+2002,Poules,Turkey ,China ,2002-01-01,3,0,home_team,Seoul
+2002,Poules,Ecuador,Croatia ,2002-01-01,1,0,home_team,Yokohama
+2002,Poules,Mexico ,Italy ,2002-01-01,1,1,draw,Oita
+2002,Poules,Belgium ,Russia ,2002-01-01,3,2,home_team,Shizuoka
+2002,Poules,Tunisia ,Japan ,2002-01-01,0,2,away_home,Osaka
+2002,Poules,Poland ,USA,2002-01-01,3,1,home_team,Daejeon
+2002,Poules,Portugal,South Korea ,2002-01-01,0,1,away_home,Incheon
+2002,Huitièmes de finale,Germany ,Paraguay,2002-01-01,1,0,home_team,Seogwipo
+2002,Huitièmes de finale,Denmark ,England,2002-01-01,0,3,away_home,Niigata
+2002,Huitièmes de finale,Sweden ,Senegal ,2002-01-01,1,2,away_home,Oita
+2002,Huitièmes de finale,Spain ,Ireland ,2002-01-01,1,1,draw,Suwon
+2002,Huitièmes de finale,Mexico ,USA,2002-01-01,0,2,away_home,Jeonju
+2002,Huitièmes de finale,Brazil ,Belgium ,2002-01-01,2,0,home_team,Kobe
+2002,Huitièmes de finale,Japan ,Turkey ,2002-01-01,0,1,away_home,Miyagi
+2002,Huitièmes de finale,South Korea ,Italy ,2002-01-01,2,1,home_team,Daejeon
+2002,Quarts de finale,England,Brazil ,2002-01-01,1,2,away_home,Shizuoka
+2002,Quarts de finale,Germany ,USA,2002-01-01,1,0,home_team,Ulsan
+2002,Quarts de finale,Spain ,South Korea ,2002-01-01,0,0,draw,Gwangju
+2002,Quarts de finale,Senegal ,Turkey ,2002-01-01,0,1,away_home,Osaka
+2002,Demi-finales,Germany ,South Korea ,2002-01-01,1,0,home_team,Seoul
+2002,Demi-finales,Brazil ,Turkey ,2002-01-01,1,0,home_team,Saitama
+2002,Troisième place,Turkey ,South Korea ,2002-01-01,3,2,home_team,Daegu
+2002,Finale,Brazil ,Germany ,2002-01-01,2,0,home_team,Yokohama
+2006,Poules,Germany ,Costa Rica,2006-01-01,4,2,home_team,München
+2006,Poules,Poland ,Ecuador,2006-01-01,0,2,away_home,Gelsenkirchen
+2006,Poules,England,Paraguay,2006-01-01,1,0,home_team,Frankfurt Am Main
+2006,Poules,Trinidad and Tobago,Sweden ,2006-01-01,0,0,draw,Dortmund
+2006,Poules,Argentina,Ivory Coast ,2006-01-01,2,1,home_team,Hamburg
+2006,Poules,Serbia-Montenegro ,Netherlands ,2006-01-01,0,1,away_home,Leipzig
+2006,Poules,Mexico ,Iran ,2006-01-01,3,1,home_team,Nürnberg
+2006,Poules,Angola,Portugal,2006-01-01,0,1,away_home,Köln
+2006,Poules,Australia,Japan ,2006-01-01,3,1,home_team,Kaiserslautern
+2006,Poules,USA,Czech Republic ,2006-01-01,0,3,away_home,Gelsenkirchen
+2006,Poules,Italy ,Ghana,2006-01-01,2,0,home_team,Hannover
+2006,Poules,South Korea ,Togo,2006-01-01,2,1,home_team,Frankfurt Am Main
+2006,Poules,France,Switzerland ,2006-01-01,0,0,draw,Stuttgart
+2006,Poules,Brazil ,Croatia ,2006-01-01,1,0,home_team,Berlin
+2006,Poules,Spain ,Ukraine ,2006-01-01,4,0,home_team,Leipzig
+2006,Poules,Tunisia ,Saudi Arabia ,2006-01-01,2,2,draw,München
+2006,Poules,Germany ,Poland ,2006-01-01,1,0,home_team,Dortmund
+2006,Poules,Ecuador,Costa Rica,2006-01-01,3,0,home_team,Hamburg
+2006,Poules,England,Trinidad and Tobago,2006-01-01,2,0,home_team,Nürnberg
+2006,Poules,Sweden ,Paraguay,2006-01-01,1,0,home_team,Berlin
+2006,Poules,Argentina,Serbia-Montenegro ,2006-01-01,6,0,home_team,Gelsenkirchen
+2006,Poules,Netherlands ,Ivory Coast ,2006-01-01,2,1,home_team,Stuttgart
+2006,Poules,Mexico ,Angola,2006-01-01,0,0,draw,Hannover
+2006,Poules,Portugal,Iran ,2006-01-01,2,0,home_team,Frankfurt Am Main
+2006,Poules,Czech Republic ,Ghana,2006-01-01,0,2,away_home,Köln
+2006,Poules,Italy ,USA,2006-01-01,1,1,draw,Kaiserslautern
+2006,Poules,Japan ,Croatia ,2006-01-01,0,0,draw,Nürnberg
+2006,Poules,Brazil ,Australia,2006-01-01,2,0,home_team,München
+2006,Poules,France,South Korea ,2006-01-01,1,1,draw,Leipzig
+2006,Poules,Togo,Switzerland ,2006-01-01,0,2,away_home,Dortmund
+2006,Poules,Saudi Arabia ,Ukraine ,2006-01-01,0,4,away_home,Hamburg
+2006,Poules,Spain ,Tunisia ,2006-01-01,3,1,home_team,Stuttgart
+2006,Poules,Ecuador,Germany ,2006-01-01,0,3,away_home,Berlin
+2006,Poules,Costa Rica,Poland ,2006-01-01,1,2,away_home,Hannover
+2006,Poules,Sweden ,England,2006-01-01,2,2,draw,Köln
+2006,Poules,Paraguay,Trinidad and Tobago,2006-01-01,2,0,home_team,Kaiserslautern
+2006,Poules,Portugal,Mexico ,2006-01-01,2,1,home_team,Gelsenkirchen
+2006,Poules,Iran ,Angola,2006-01-01,1,1,draw,Leipzig
+2006,Poules,Netherlands ,Argentina,2006-01-01,0,0,draw,Frankfurt Am Main
+2006,Poules,Ivory Coast ,Serbia-Montenegro ,2006-01-01,3,2,home_team,München
+2006,Poules,Czech Republic ,Italy ,2006-01-01,0,2,away_home,Hamburg
+2006,Poules,Ghana,USA,2006-01-01,2,1,home_team,Nürnberg
+2006,Poules,Japan ,Brazil ,2006-01-01,1,4,away_home,Dortmund
+2006,Poules,Croatia ,Australia,2006-01-01,2,2,draw,Stuttgart
+2006,Poules,Saudi Arabia ,Spain ,2006-01-01,0,1,away_home,Kaiserslautern
+2006,Poules,Ukraine ,Tunisia ,2006-01-01,1,0,home_team,Berlin
+2006,Poules,Togo,France,2006-01-01,0,2,away_home,Köln
+2006,Poules,Switzerland ,South Korea ,2006-01-01,2,0,home_team,Hannover
+2006,Huitièmes de finale,Germany ,Sweden ,2006-01-01,2,0,home_team,München
+2006,Huitièmes de finale,Argentina,Mexico ,2006-01-01,2,1,home_team,Leipzig
+2006,Huitièmes de finale,England,Ecuador,2006-01-01,1,0,home_team,Stuttgart
+2006,Huitièmes de finale,Portugal,Netherlands ,2006-01-01,1,0,home_team,Nürnberg
+2006,Huitièmes de finale,Italy ,Australia,2006-01-01,1,0,home_team,Kaiserslautern
+2006,Huitièmes de finale,Switzerland ,Ukraine ,2006-01-01,0,0,draw,Köln
+2006,Huitièmes de finale,Brazil ,Ghana,2006-01-01,3,0,home_team,Dortmund
+2006,Huitièmes de finale,Spain ,France,2006-01-01,1,3,away_home,Hannover
+2006,Quarts de finale,Germany ,Argentina,2006-01-01,1,1,draw,Berlin
+2006,Quarts de finale,Italy ,Ukraine ,2006-01-01,3,0,home_team,Hamburg
+2006,Quarts de finale,England,Portugal,2006-01-01,0,0,draw,Gelsenkirchen
+2006,Quarts de finale,Brazil ,France,2006-01-01,0,1,away_home,Frankfurt Am Main
+2006,Demi-finales,Germany ,Italy ,2006-01-01,0,2,away_home,Dortmund
+2006,Demi-finales,Portugal,France,2006-01-01,0,1,away_home,München
+2006,Troisième place,Germany ,Portugal,2006-01-01,3,1,home_team,Stuttgart
+2006,Finale,Italy ,France,2006-01-01,1,1,draw,Berlin
+2010,Poules,South Africa ,Mexico ,2010-01-01,1,1,draw,Johannesburg
+2010,Poules,Uruguay,France,2010-01-01,0,0,draw,Cape Town
+2010,Poules,South Korea ,Greece ,2010-01-01,2,0,home_team,Port_Elizabeth
+2010,Poules,Argentina,Nigeria,2010-01-01,1,0,home_team,Johannesburg
+2010,Poules,England,USA,2010-01-01,1,1,draw,Rustenburg
+2010,Poules,Algeria ,Slovenia ,2010-01-01,0,1,away_home,Polokwane
+2010,Poules,Serbia ,Ghana,2010-01-01,0,1,away_home,Pretoria
+2010,Poules,Germany ,Australia,2010-01-01,4,0,home_team,Durban
+2010,Poules,Netherlands ,Denmark ,2010-01-01,2,0,home_team,Johannesburg
+2010,Poules,Japan ,Cameroon ,2010-01-01,1,0,home_team,Bloemfontein
+2010,Poules,Italy ,Paraguay,2010-01-01,1,1,draw,Cape Town
+2010,Poules,New Zealand ,Slovakia ,2010-01-01,1,1,draw,Rustenburg
+2010,Poules,Ivory Coast ,Portugal,2010-01-01,0,0,draw,Port_Elizabeth
+2010,Poules,Brazil ,North Korea ,2010-01-01,2,1,home_team,Johannesburg
+2010,Poules,Honduras,Chile,2010-01-01,0,1,away_home,Nelspruit
+2010,Poules,Spain ,Switzerland ,2010-01-01,0,1,away_home,Durban
+2010,Poules,South Africa ,Uruguay,2010-01-01,0,3,away_home,Pretoria
+2010,Poules,Argentina,South Korea ,2010-01-01,4,1,home_team,Johannesburg
+2010,Poules,Greece ,Nigeria,2010-01-01,2,1,home_team,Bloemfontein
+2010,Poules,France,Mexico ,2010-01-01,0,2,away_home,Polokwane
+2010,Poules,Germany ,Serbia ,2010-01-01,0,1,away_home,Port_Elizabeth
+2010,Poules,Slovenia ,USA,2010-01-01,2,2,draw,Johannesburg
+2010,Poules,England,Algeria ,2010-01-01,0,0,draw,Cape Town
+2010,Poules,Netherlands ,Japan ,2010-01-01,1,0,home_team,Durban
+2010,Poules,Ghana,Australia,2010-01-01,1,1,draw,Rustenburg
+2010,Poules,Cameroon ,Denmark ,2010-01-01,1,2,away_home,Pretoria
+2010,Poules,Slovakia ,Paraguay,2010-01-01,0,2,away_home,Bloemfontein
+2010,Poules,Italy ,New Zealand ,2010-01-01,1,1,draw,Nelspruit
+2010,Poules,Brazil ,Ivory Coast ,2010-01-01,3,1,home_team,Johannesburg
+2010,Poules,Portugal,North Korea ,2010-01-01,7,0,home_team,Cape Town
+2010,Poules,Chile,Switzerland ,2010-01-01,1,0,home_team,Port_Elizabeth
+2010,Poules,Spain ,Honduras,2010-01-01,2,0,home_team,Johannesburg
+2010,Poules,Mexico ,Uruguay,2010-01-01,0,1,away_home,Rustenburg
+2010,Poules,France,South Africa ,2010-01-01,1,2,away_home,Bloemfontein
+2010,Poules,Nigeria,South Korea ,2010-01-01,2,2,draw,Durban
+2010,Poules,Greece ,Argentina,2010-01-01,0,2,away_home,Polokwane
+2010,Poules,Slovenia ,England,2010-01-01,0,1,away_home,Port_Elizabeth
+2010,Poules,USA,Algeria ,2010-01-01,1,0,home_team,Pretoria
+2010,Poules,Ghana,Germany ,2010-01-01,0,1,away_home,Johannesburg
+2010,Poules,Australia,Serbia ,2010-01-01,2,1,home_team,Nelspruit
+2010,Poules,Slovakia ,Italy ,2010-01-01,3,2,home_team,Johannesburg
+2010,Poules,Paraguay,New Zealand ,2010-01-01,0,0,draw,Polokwane
+2010,Poules,Denmark ,Japan ,2010-01-01,1,3,away_home,Rustenburg
+2010,Poules,Cameroon ,Netherlands ,2010-01-01,1,2,away_home,Cape Town
+2010,Poules,Portugal,Brazil ,2010-01-01,0,0,draw,Durban
+2010,Poules,North Korea ,Ivory Coast ,2010-01-01,0,3,away_home,Nelspruit
+2010,Poules,Chile,Spain ,2010-01-01,1,2,away_home,Pretoria
+2010,Poules,Switzerland ,Honduras,2010-01-01,0,0,draw,Bloemfontein
+2010,Huitièmes de finale,Uruguay,South Korea ,2010-01-01,2,1,home_team,Port_Elizabeth
+2010,Huitièmes de finale,USA,Ghana,2010-01-01,1,2,away_home,Rustenburg
+2010,Huitièmes de finale,Germany ,England,2010-01-01,4,1,home_team,Bloemfontein
+2010,Huitièmes de finale,Argentina,Mexico ,2010-01-01,3,1,home_team,Johannesburg
+2010,Huitièmes de finale,Netherlands ,Slovakia ,2010-01-01,2,1,home_team,Durban
+2010,Huitièmes de finale,Brazil ,Chile,2010-01-01,3,0,home_team,Johannesburg
+2010,Huitièmes de finale,Paraguay,Japan ,2010-01-01,0,0,draw,Pretoria
+2010,Huitièmes de finale,Spain ,Portugal,2010-01-01,1,0,home_team,Cape Town
+2010,Quarts de finale,Netherlands ,Brazil ,2010-01-01,2,1,home_team,Port_Elizabeth
+2010,Quarts de finale,Uruguay,Ghana,2010-01-01,1,1,draw,Johannesburg
+2010,Quarts de finale,Argentina,Germany ,2010-01-01,0,4,away_home,Cape Town
+2010,Quarts de finale,Paraguay,Spain ,2010-01-01,0,1,away_home,Johannesburg
+2010,Demi-finales,Uruguay,Netherlands ,2010-01-01,2,3,away_home,Cape Town
+2010,Demi-finales,Germany ,Spain ,2010-01-01,0,1,away_home,Durban
+2010,Troisième place,Uruguay,Germany ,2010-01-01,2,3,away_home,Port_Elizabeth
+2010,Finale,Netherlands ,Spain ,2010-01-01,0,1,away_home,Johannesburg

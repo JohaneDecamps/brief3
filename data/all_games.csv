@@ -1,0 +1,965 @@
+edition,round,home_team,away_team,date,home_result,away_result,result,city,id_match
+1930,Poules,France,Mexico ,1930-01-01,4,1,home_team,Montevideo,711bab11-b0f2-4f82-a34e-7dc1933736e8
+1930,Finale,Uruguay,Argentina,1930-01-01,4,2,home_team,Montevideo,aca71cf0-6fad-4004-86ad-2a8842ebc1fd
+1930,Demi-finales,Uruguay,Yugoslavia ,1930-01-01,6,1,home_team,Montevideo,8485668f-2f49-4d15-b0eb-9197e2c8a817
+1930,Demi-finales,Argentina,USA,1930-01-01,6,1,home_team,Montevideo,3cd25da5-f5d2-42c9-8ca5-a58a758f0ed9
+1930,Poules,Argentina,Chile,1930-01-01,3,1,home_team,Montevideo,28aa75e9-59cb-415b-b155-d9966128afc8
+1930,Poules,Uruguay,Romania ,1930-01-01,4,0,home_team,Montevideo,71853219-2cee-4121-bf0b-ca9c68bd8213
+1930,Poules,Brazil ,Bolivia,1930-01-01,4,0,home_team,Montevideo,577cd87a-f7a7-4be0-a786-00ec48a1614c
+1930,Poules,Argentina,Mexico ,1930-01-01,6,3,home_team,Montevideo,007c4feb-856e-41eb-b42b-d97606d08bfa
+1930,Poules,Chile,France,1930-01-01,1,0,home_team,Montevideo,05f4fbf5-6527-4312-911c-45b308743074
+1930,Poules,Paraguay,Belgium ,1930-01-01,1,0,home_team,Montevideo,ea8c2301-a74a-4054-8464-7c53f458791d
+1930,Poules,USA,Paraguay,1930-01-01,3,0,home_team,Montevideo,bd624c02-69e9-4945-ab91-a73388ab8783
+1930,Poules,Yugoslavia ,Bolivia,1930-01-01,4,0,home_team,Montevideo,e414f373-ac30-420f-9e39-ce82acb69e29
+1930,Poules,Chile,Mexico ,1930-01-01,3,0,home_team,Montevideo,e6f5d3b2-18b3-4529-a94e-c327387f2816
+1930,Poules,Argentina,France,1930-01-01,1,0,home_team,Montevideo,122647b6-7a4a-4f98-8f4a-25497010baa7
+1930,Poules,Romania ,Peru ,1930-01-01,3,1,home_team,Montevideo,73ca2f59-616e-4591-b081-e798e6c9fb54
+1930,Poules,Yugoslavia ,Brazil ,1930-01-01,2,1,home_team,Montevideo,4a774b08-e510-44a0-9ef5-ffe044cbd780
+1930,Poules,USA,Belgium ,1930-01-01,3,0,home_team,Montevideo,7b7d4786-d913-4a1f-bb70-69f935ea9675
+1930,Poules,Uruguay,Peru ,1930-01-01,1,0,home_team,Montevideo,a80259bb-9a63-45b3-b2bf-8476c1012779
+1934,Quarts de finale,Czechoslovakia ,Switzerland ,1934-01-01,3,2,home_team,Torino,5d1a985c-d70f-4858-97fa-23940cf56aed
+1934,Finale,Italy ,Czechoslovakia ,1934-01-01,2,1,home_team,Roma,3ca1b21a-2398-4356-a183-bec75d2f44a6
+1934,Troisième place,Germany ,Austria ,1934-01-01,3,2,home_team,Napoli,1a58ea68-5991-4562-9938-f2fdd0f9490f
+1934,Demi-finales,Czechoslovakia ,Germany ,1934-01-01,3,1,home_team,Roma,a1590968-6ef3-4e53-b9c3-b08220b33f8c
+1934,Quarts de finale,Italy ,Spain ,1934-01-01,1,0,home_team,Firenze,fbb12ed2-5e53-443a-9210-68620baac4fe
+1934,Quarts de finale,Italy ,Spain ,1934-01-01,1,1,draw,Firenze,0931999c-1791-4094-924b-d80d0ef1c4ef
+1934,Quarts de finale,Germany ,Sweden ,1934-01-01,2,1,home_team,Milano,1ad2ab33-c0d1-4005-adb4-e5413c581635
+1934,Quarts de finale,Austria ,Hungary ,1934-01-01,2,1,home_team,Bologna,a3f1068b-7670-490d-a7cc-3333ca3a5867
+1934,Demi-finales,Italy ,Austria ,1934-01-01,1,0,home_team,Milano,f63ea8e0-7df0-4701-9b75-34c0cd81fff9
+1934,Huitièmes de finale,Spain ,Brazil ,1934-01-01,3,1,home_team,Genova,f77a38e8-1ff5-4ac0-bc8b-3a4e2dd2ca26
+1934,Huitièmes de finale,Sweden ,Argentina,1934-01-01,3,2,home_team,Bologna,83603234-cbaa-4054-8bc2-c6f3c0bafd12
+1934,Huitièmes de finale,Switzerland ,Netherlands ,1934-01-01,3,2,home_team,Milano,9b86a2b9-06df-4cc4-8aa5-371a711e2091
+1934,Huitièmes de finale,Czechoslovakia ,Romania ,1934-01-01,2,1,home_team,Trieste,8e8f05f1-718e-439b-bd67-fc4a9f2e9f56
+1934,Huitièmes de finale,Germany ,Belgium ,1934-01-01,5,2,home_team,Firenze,52eb0376-e05b-4ce9-89b7-75a608e16c88
+1934,Huitièmes de finale,Austria ,France,1934-01-01,3,2,home_team,Torino,e0ce213f-1800-44c2-bbe6-eeba24848142
+1934,Huitièmes de finale,Italy ,USA,1934-01-01,7,1,home_team,Roma,3c5b9a08-bf26-4c26-8df6-bb392daca111
+1934,Huitièmes de finale,Hungary ,Egypt ,1934-01-01,4,2,home_team,Napoli,543aca8a-29e0-4437-aa0f-5e843045366f
+1938,Finale,Italy ,Hungary ,1938-01-01,4,2,home_team,Paris,9abfe6f6-0012-4596-8c09-8c9d90dd7ca3
+1938,Troisième place,Brazil ,Sweden ,1938-01-01,4,2,home_team,Bordeaux,c2e9794e-c281-4673-988d-a9dc2a505d47
+1938,Demi-finales,Hungary ,Sweden ,1938-01-01,5,1,home_team,Paris,03f01f64-a1ae-4c66-a300-d91e0f375573
+1938,Demi-finales,Italy ,Brazil ,1938-01-01,2,1,home_team,Marseille,419c89f3-b71f-4adc-92ae-a5e8ae02b7d5
+1938,Quarts de finale,Brazil ,Czechoslovakia ,1938-01-01,2,1,home_team,Bordeaux,8016ff38-00f5-44a0-9a8b-4d8c18f1930d
+1938,Quarts de finale,Sweden ,Cuba,1938-01-01,8,0,home_team,Antibes,f23c044d-dca1-4597-9289-9d494323fa69
+1938,Quarts de finale,Hungary ,Switzerland ,1938-01-01,2,0,home_team,Lille,a61c3e41-3960-4c1c-b4d2-72abe2caf81d
+1938,Quarts de finale,Italy ,France,1938-01-01,3,1,home_team,Paris,170ade00-fc42-4a40-8255-936f6caa9801
+1938,Quarts de finale,Brazil ,Czechoslovakia ,1938-01-01,1,1,draw,Bordeaux,20de3fc5-7d70-4ef8-a63d-ddc73c38d2ad
+1938,Huitièmes de finale,Switzerland ,Germany ,1938-01-01,4,2,home_team,Paris,fa6da0ff-381b-431f-b890-981c2725370e
+1938,Huitièmes de finale,Czechoslovakia ,Netherlands ,1938-01-01,3,0,home_team,Le_Havre,41c29dd7-77b0-45f4-bdc7-1a5f234683fb
+1938,Huitièmes de finale,Brazil ,Poland ,1938-01-01,6,5,home_team,Strasbourg,3b417f43-a96c-42a9-a8ca-ee7c01ce7f5b
+1938,Huitièmes de finale,Cuba,Romania ,1938-01-01,3,3,draw,Toulouse,9d4a374d-1220-44ce-a084-7a0b6a117bfb
+1938,Huitièmes de finale,Hungary ,Dutch East Indies ,1938-01-01,6,0,home_team,Reims,af0b4b0d-6013-481d-8d1d-7151b7ae66db
+1938,Huitièmes de finale,France,Belgium ,1938-01-01,3,1,home_team,Paris,9cffa405-4f39-4e8d-9e32-ba2359032bfc
+1938,Huitièmes de finale,Italy ,Norway ,1938-01-01,2,1,home_team,Marseille,acce5f11-066f-4e37-ad69-c10f01847151
+1938,Huitièmes de finale,Switzerland ,Germany ,1938-01-01,1,1,draw,Paris,922126fd-fb0d-4ced-b79a-5c4d71cf33a8
+1938,Huitièmes de finale,Cuba,Romania ,1938-01-01,2,1,home_team,Toulouse,a4896333-ca74-4e72-8d42-0d0ef8f53ede
+1950,Poules,Uruguay,Bolivia,1950-01-01,8,0,home_team,Belo Horizonte,9763d1bc-01ea-4e9b-99d6-14dc908222c1
+1950,Poules,Switzerland ,Mexico ,1950-01-01,2,1,home_team,Porto_Alegre,24150ccd-b16b-4e0b-9642-103710330681
+1950,Poules,Chile,USA,1950-01-01,5,2,home_team,Recife,d50c53dd-f4d6-48d2-9fd9-7243c452410b
+1950,Finale,Brazil ,Sweden ,1950-01-01,7,1,home_team,Rio De Janeiro,79a11ad6-c8ca-4aa4-bc98-eab6851f83ee
+1950,Finale,Uruguay,Brazil ,1950-01-01,2,1,home_team,Rio De Janeiro,127301f8-f911-40eb-bd91-0eba1c9a3dd1
+1950,Finale,Uruguay,Sweden ,1950-01-01,3,2,home_team,São_Paulo,6d5e4ee1-791b-4a6e-b320-0d1d6f0d5fd5
+1950,Finale,Brazil ,Spain ,1950-01-01,6,1,home_team,Rio De Janeiro,c986d5d5-4d1e-4b4a-8fef-493fab7a1ed7
+1950,Finale,Sweden ,Spain ,1950-01-01,3,1,home_team,São_Paulo,9dff3a29-63b6-4799-92e7-7be98b12c769
+1950,Poules,Italy ,Paraguay,1950-01-01,2,0,home_team,São_Paulo,5b76fe21-a532-4b9d-9f13-6cdcde785f00
+1950,Finale,Uruguay,Spain ,1950-01-01,2,2,draw,São_Paulo,e1a08534-dea4-4e61-9b60-c7883ded0ca9
+1950,Poules,Spain ,England,1950-01-01,1,0,home_team,Rio De Janeiro,068cac2c-41ab-48b5-bd38-dcc12a39833e
+1950,Poules,Brazil ,Switzerland ,1950-01-01,2,2,draw,São_Paulo,f041b32f-5ea1-4966-93e5-aded29e479b4
+1950,Poules,USA,England,1950-01-01,1,0,home_team,Belo Horizonte,5e821278-5218-4582-9e8a-2c23d8890f07
+1950,Poules,Sweden ,Paraguay,1950-01-01,2,2,draw,Curitiba,8079e4a9-d5c1-4f2f-a82a-8e1a3706a4ac
+1950,Poules,Spain ,Chile,1950-01-01,2,0,home_team,Rio De Janeiro,594877a8-91ef-4c02-adf5-dbba1b331391
+1950,Poules,Yugoslavia ,Mexico ,1950-01-01,4,1,home_team,Porto_Alegre,4ffa8882-fd0a-4cc7-8727-81bff92c0ee7
+1950,Poules,Yugoslavia ,Switzerland ,1950-01-01,3,0,home_team,Belo Horizonte,4000b4d0-77d5-481e-b092-838d18d1337b
+1950,Poules,Sweden ,Italy ,1950-01-01,3,2,home_team,São_Paulo,fc457398-78a7-42e9-9871-1e56d27ad74c
+1950,Poules,Spain ,USA,1950-01-01,3,1,home_team,Curitiba,3e6d1068-a4f9-4543-80d8-1e3837031fcb
+1950,Poules,England,Chile,1950-01-01,2,0,home_team,Rio De Janeiro,11327ba6-867f-4d51-a274-8f35b6e21292
+1950,Poules,Brazil ,Mexico ,1950-01-01,4,0,home_team,Rio De Janeiro,29e04d02-0bc1-41d5-be74-08981143142b
+1950,Poules,Brazil ,Yugoslavia ,1950-01-01,2,0,home_team,Rio De Janeiro,c2ac2b7b-3043-4c62-9706-d1681ddd9f0e
+1954,Poules,England,Switzerland ,1954-01-01,2,0,home_team,Bern,b1e20ef9-883d-45ca-ab1a-3f8ea7f0b211
+1954,Poules,Switzerland ,Italy ,1954-01-01,4,1,home_team,Basel,ac0504e2-ffc5-4e3f-94e7-541a572c39d0
+1954,Quarts de finale,Uruguay,England,1954-01-01,4,2,home_team,Basel,e37a14d8-23f6-4c17-89ee-ecb59aa84d1f
+1954,Quarts de finale,Austria ,Switzerland ,1954-01-01,7,5,home_team,Lausanne,4e6f1556-e553-4c26-9e2b-0c06a462c26f
+1954,Troisième place,Austria ,Uruguay,1954-01-01,3,1,home_team,Zürich,03379099-b8b1-4a72-a1ac-17b1bc7a2a56
+1954,Quarts de finale,FRG ,Yugoslavia ,1954-01-01,2,0,home_team,Genève,ec0c1706-744c-4067-b147-776871b8351d
+1954,Demi-finales,Hungary ,Uruguay,1954-01-01,4,2,home_team,Lausanne,ea6e3083-baa1-4d2b-8d1c-da217b7b55d7
+1954,Demi-finales,FRG ,Austria ,1954-01-01,6,1,home_team,Basel,d5e72a4e-813e-411e-8ca4-5d75febc33e9
+1954,Poules,Italy ,Belgium ,1954-01-01,4,1,home_team,Lugano,8e691334-c487-464a-b2a8-1ec47f6dabc8
+1954,Finale,FRG ,Hungary ,1954-01-01,3,2,home_team,Bern,686f04df-e399-4340-a4fd-b53001075ae1
+1954,Quarts de finale,Hungary ,Brazil ,1954-01-01,4,2,home_team,Bern,acec9d0b-eedf-472c-8ec7-db5fc372a96f
+1954,Poules,Turkey ,South Korea ,1954-01-01,7,0,home_team,Genève,c74c93b4-c6ac-4835-9114-cda57c27f4e8
+1954,Poules,FRG ,Turkey ,1954-01-01,7,2,home_team,Zürich,5de373b7-2a5a-439a-bcb4-0d3c9167bc6c
+1954,Poules,France,Mexico ,1954-01-01,3,2,home_team,Genève,14943f91-eb26-4248-aaa8-9a7b3cefd5ae
+1954,Poules,Hungary ,FRG ,1954-01-01,8,3,home_team,Basel,b1f54f6c-8872-4c63-9222-93564b6397b1
+1954,Poules,Yugoslavia ,France,1954-01-01,1,0,home_team,Lausanne,0d2d0d9d-25a5-43d7-9310-a367eba3a6b2
+1954,Poules,Brazil ,Mexico ,1954-01-01,5,0,home_team,Genève,ddf997e4-d33d-4505-99d7-2d413b81ce2e
+1954,Poules,Uruguay,Czechoslovakia ,1954-01-01,2,0,home_team,Bern,32e598ba-6292-49a1-8fb7-0e646985e2e3
+1954,Poules,Switzerland ,Italy ,1954-01-01,2,1,home_team,Lausanne,7efe80c9-51cd-4e33-aeb6-24d7d9a2b1a7
+1954,Poules,Austria ,Scotland,1954-01-01,1,0,home_team,Zürich,2349bf47-062d-49fe-ba65-7adf83d15446
+1954,Poules,FRG ,Turkey ,1954-01-01,4,1,home_team,Bern,071ed889-f88e-4945-808a-18f3f7730f18
+1954,Poules,England,Belgium ,1954-01-01,4,4,draw,Basel,a9da731f-28cc-49f6-bbf7-5022adac453b
+1954,Poules,Uruguay,Scotland,1954-01-01,7,0,home_team,Basel,5d9b9369-28d2-4817-bb73-73798c15aca2
+1954,Poules,Brazil ,Yugoslavia ,1954-01-01,1,1,draw,Lausanne,4e00dc4a-32cb-4d18-8c89-1fd2ae6fedc6
+1954,Poules,Austria ,Czechoslovakia ,1954-01-01,5,0,home_team,Zürich,fa5b80c0-bd65-4cb4-b8d9-fb55cafa0cfe
+1954,Poules,Hungary ,South Korea ,1954-01-01,9,0,home_team,Zürich,058746dd-f395-4785-a54c-df0fdc933212
+1958,Poules,Wales ,Hungary ,1958-01-01,2,1,home_team,Stockholm,8e4ef161-134e-4a16-825b-238f35841b8e
+1958,Poules,France,Scotland,1958-01-01,2,1,home_team,Örebro,550e627c-9f7d-4b12-92a1-84684962410e
+1958,Poules,Yugoslavia ,Paraguay,1958-01-01,3,3,draw,Eskilstuna,af2da267-6c47-4b7d-a93b-cadc91d43d36
+1958,Poules,Hungary ,Mexico ,1958-01-01,4,0,home_team,Sandviken,e60433d8-061e-4e70-9d78-564e474aa68a
+1958,Poules,Brazil ,Soviet Union ,1958-01-01,2,0,home_team,Göteborg,51205ac0-a21d-43e4-9653-657e77c209b3
+1958,Poules,England,Austria ,1958-01-01,2,2,draw,Borås,c78128a4-aa53-4670-9931-321aa09d6d6b
+1958,Poules,Soviet Union ,England,1958-01-01,1,0,home_team,Göteborg,13ceaa73-f8fd-4c7f-af21-958f17c9225c
+1958,Troisième place,France,FRG ,1958-01-01,6,3,home_team,Göteborg,36412b4b-6be9-4f18-8beb-31c373435bf3
+1958,Quarts de finale,FRG ,Yugoslavia ,1958-01-01,1,0,home_team,Malmö,ef0de590-2c27-4f52-81dc-53eec89c4d90
+1958,Quarts de finale,France,Northern Ireland ,1958-01-01,4,0,home_team,Norrköping,4d6def09-1ca9-4ee2-b53e-955525d142de
+1958,Quarts de finale,Brazil ,Wales ,1958-01-01,1,0,home_team,Göteborg,a723922f-e99b-4809-900c-14f1485ae916
+1958,Demi-finales,Sweden ,FRG ,1958-01-01,3,1,home_team,Göteborg,a9639e16-d841-455b-99bc-f6ec844f3cce
+1958,Demi-finales,Brazil ,France,1958-01-01,5,2,home_team,Stockholm,a14688b8-e894-4d71-be43-6a76ed3b0105
+1958,Finale,Brazil ,Sweden ,1958-01-01,5,2,home_team,Stockholm,baa7db11-cb20-4a78-bb05-e5c55ecad210
+1958,Poules,Czechoslovakia ,Argentina,1958-01-01,6,1,home_team,Helsingborg,73633eee-3aad-48e6-b174-7a5d3032caf4
+1958,Quarts de finale,Sweden ,Soviet Union ,1958-01-01,2,0,home_team,Stockholm,d0334186-00d4-4c54-8302-d11cca36f1a7
+1958,Poules,FRG ,Northern Ireland ,1958-01-01,2,2,draw,Malmö,aecb3655-a50a-46fa-aab5-9e904b6eddb1
+1958,Poules,Northern Ireland ,Czechoslovakia ,1958-01-01,2,1,home_team,Malmö,2416cf09-2370-418e-95ee-2b8020614bdf
+1958,Poules,Sweden ,Hungary ,1958-01-01,2,1,home_team,Stockholm,bd2f0abb-29d4-4703-93b4-10618b171aa7
+1958,Poules,Sweden ,Mexico ,1958-01-01,3,0,home_team,Stockholm,04e82ae5-e509-476a-a248-2f573aa46b34
+1958,Poules,FRG ,Argentina,1958-01-01,3,1,home_team,Malmö,a6571908-93fa-49e9-8ac4-7a81e493144f
+1958,Poules,Northern Ireland ,Czechoslovakia ,1958-01-01,1,0,home_team,Halmstad,6a01ffd2-2524-48d7-b86e-b1dedaf8ffc1
+1958,Poules,France,Paraguay,1958-01-01,7,3,home_team,Norrköping,82c296c7-0a9a-4db4-8da6-21a558ce5ce0
+1958,Poules,Yugoslavia ,Scotland,1958-01-01,1,1,draw,Västerås,a8a9f2cf-a512-47aa-bd43-f73566315536
+1958,Poules,Hungary ,Wales ,1958-01-01,1,1,draw,Sandviken,dd71493e-b70f-43c8-b8f1-eb45d55842cf
+1958,Poules,England,Soviet Union ,1958-01-01,2,2,draw,Göteborg,8cd1bac2-5be8-46ba-9c99-ca3abd61ea05
+1958,Poules,Brazil ,Austria ,1958-01-01,3,0,home_team,Uddevalla,97bf5547-068c-47a5-be3c-4fa48e49df5a
+1958,Poules,Sweden ,Wales ,1958-01-01,0,0,draw,Stockholm,52bcecb5-0e53-4b49-aa01-6e74286b6d28
+1958,Poules,Argentina,Northern Ireland ,1958-01-01,3,1,home_team,Halmstad,737e5c11-dd85-4f10-893a-60783af54127
+1958,Poules,Paraguay,Scotland,1958-01-01,3,2,home_team,Norrköping,338f67cd-1706-4d14-8e04-247a700d5835
+1958,Poules,Yugoslavia ,France,1958-01-01,3,2,home_team,Västerås,11aaddc5-8746-4723-aab1-f30e3c37afe1
+1958,Poules,Wales ,Mexico ,1958-01-01,1,1,draw,Stockholm,bdcd7d2b-cb62-4922-8524-b5ec5a47ce0d
+1958,Poules,Brazil ,England,1958-01-01,0,0,draw,Göteborg,c84d1264-99e4-4939-9dea-26a182dacf28
+1958,Poules,Soviet Union ,Austria ,1958-01-01,2,0,home_team,Borås,a402236b-4c46-42da-a9a9-9be659086fb8
+1958,Poules,FRG ,Czechoslovakia ,1958-01-01,2,2,draw,Helsingborg,2d83209e-c10e-439e-8b50-657cd8493f18
+1962,Poules,Brazil ,Spain ,1962-01-01,2,1,home_team,Viña Del Mar,11288531-6298-41a9-9268-67bfbaf426a1
+1962,Poules,Yugoslavia ,Colombia,1962-01-01,5,0,home_team,Arica,c6d52d7b-ab9e-4502-bcc3-dcfb197ef1ee
+1962,Poules,Italy ,Switzerland ,1962-01-01,3,0,home_team,Santiago,0f7484e8-3081-4cd8-898d-5bd75d982bdd
+1962,Poules,Mexico ,Czechoslovakia ,1962-01-01,3,1,home_team,Viña Del Mar,75e676e0-b69b-4ad3-b8b3-a6d25ac0cbd6
+1962,Poules,England,Bulgaria ,1962-01-01,0,0,draw,Rancagua,57870ff7-bef6-463b-a24d-3f94c913553b
+1962,Quarts de finale,Chile,Soviet Union ,1962-01-01,2,1,home_team,Arica,5db9692e-63fb-4b1e-b85e-3914b4c066dc
+1962,Quarts de finale,Czechoslovakia ,Hungary ,1962-01-01,1,0,home_team,Rancagua,342c9ad5-47bf-4c70-b19f-f4c094acfb2d
+1962,Quarts de finale,Brazil ,England,1962-01-01,3,1,home_team,Viña Del Mar,4eb4b4a0-ef0a-47f8-ba88-68fca473aac6
+1962,Poules,FRG ,Chile,1962-01-01,2,0,home_team,Santiago,67e12868-78ec-492e-ae7b-4ca767a238bd
+1962,Demi-finales,Brazil ,Chile,1962-01-01,4,2,home_team,Santiago,1edec1d4-9588-41fc-a7ca-53f24ffd25d0
+1962,Demi-finales,Czechoslovakia ,Yugoslavia ,1962-01-01,3,1,home_team,Viña Del Mar,e75d1626-f107-4584-a99a-22bf1ac63b17
+1962,Troisième place,Chile,Yugoslavia ,1962-01-01,1,0,home_team,Santiago,e5518ef7-b75d-4f19-90c3-2ff7c073b687
+1962,Finale,Brazil ,Czechoslovakia ,1962-01-01,3,1,home_team,Santiago,8992280c-0626-4682-889e-ad768f381598
+1962,Quarts de finale,Yugoslavia ,FRG ,1962-01-01,1,0,home_team,Santiago,dfa3bad2-b792-4e8e-ac98-a0d9e59c3f5e
+1962,Poules,Soviet Union ,Uruguay,1962-01-01,2,1,home_team,Arica,f0a5ea9a-e02a-4bfa-b2e5-9f8d04f7648c
+1962,Poules,Hungary ,Argentina,1962-01-01,0,0,draw,Rancagua,ecf951b2-7d05-49b3-8cfa-77c0cc257a2e
+1962,Poules,Spain ,Mexico ,1962-01-01,1,0,home_team,Viña Del Mar,2b218332-df6c-42d9-a1a3-3a6acd8b798d
+1962,Poules,Hungary ,Bulgaria ,1962-01-01,6,1,home_team,Rancagua,50127ddb-dad9-4f4f-b275-ee2ee22209c8
+1962,Poules,Uruguay,Colombia,1962-01-01,2,1,home_team,Arica,88eace9e-6b5d-489e-8ea1-4f165bce564d
+1962,Poules,Chile,Switzerland ,1962-01-01,3,1,home_team,Santiago,85177930-1e4b-4e6f-98b8-7962da0452c4
+1962,Poules,Brazil ,Mexico ,1962-01-01,2,0,home_team,Viña Del Mar,ac95eee8-40c2-4d92-94c6-7bb85d4ac284
+1962,Poules,Argentina,Bulgaria ,1962-01-01,1,0,home_team,Rancagua,6e4d0805-4a2c-4913-9a54-08da3c26d595
+1962,Poules,FRG ,Italy ,1962-01-01,0,0,draw,Santiago,0060d772-f37c-4a86-bf1c-c97ae0a8366b
+1962,Poules,Czechoslovakia ,Spain ,1962-01-01,1,0,home_team,Viña Del Mar,b45f0f42-0b4b-4642-bb4b-07baf6d23c07
+1962,Poules,Soviet Union ,Yugoslavia ,1962-01-01,2,0,home_team,Arica,2d14885d-0967-4d31-a419-40bb08e740fd
+1962,Poules,Yugoslavia ,Uruguay,1962-01-01,3,1,home_team,Santiago,0a59e7ed-8010-4b8b-9221-9d5b144d9012
+1962,Poules,Chile,Italy ,1962-01-01,2,0,home_team,Viña Del Mar,efa6584e-0404-4d10-a11d-3cae3461ffff
+1962,Poules,Brazil ,Czechoslovakia ,1962-01-01,0,0,draw,Rancagua,ff674b61-bf9d-4f10-9c33-130379756cbf
+1962,Poules,England,Argentina,1962-01-01,3,1,home_team,Arica,a1975572-95ef-4d8a-b05c-931ec4c3d455
+1962,Poules,Soviet Union ,Colombia,1962-01-01,4,4,draw,Arica,60e25b9c-a33e-4b7f-a9a6-bcbb60b7254c
+1962,Poules,FRG ,Switzerland ,1962-01-01,2,1,home_team,Santiago,3abe7f27-b41a-4427-9743-07ce62c6bd53
+1962,Poules,Hungary ,England,1962-01-01,2,1,home_team,Rancagua,6841172d-0886-408d-b013-88c15ec071ab
+1966,Poules,Hungary ,Bulgaria ,1966-01-01,3,1,home_team,Manchester,737d69db-e280-4b68-966a-f89f1cfc2ea3
+1966,Poules,Portugal,Brazil ,1966-01-01,3,1,home_team,Liverpool,6cfe36f6-a3d1-496f-8910-f1f547b052c0
+1966,Poules,North Korea ,Italy ,1966-01-01,1,0,home_team,Middlesbrough,04dd55fc-2643-4ca5-b38b-87bac76e6bb2
+1966,Poules,England,France,1966-01-01,2,0,home_team,London,7acf7ec1-c3f2-4246-a480-b792025735c1
+1966,Poules,FRG ,Spain ,1966-01-01,2,1,home_team,Birmingham,76492bf5-9e52-4a0e-82d7-8b9dca644469
+1966,Poules,Soviet Union ,Chile,1966-01-01,2,1,home_team,Sunderland,58a18e16-d96c-4fe5-b426-e5151d358e73
+1966,Poules,Argentina,Switzerland ,1966-01-01,2,0,home_team,Sheffield,7054f21a-1cb5-462b-832c-907c199f7f9f
+1966,Quarts de finale,Portugal,North Korea ,1966-01-01,5,3,home_team,Liverpool,321f03ea-67f9-4515-a440-0e2673593109
+1966,Quarts de finale,Soviet Union ,Hungary ,1966-01-01,2,1,home_team,Sunderland,4b372989-dd02-44d7-a094-967e99a3d878
+1966,Quarts de finale,England,Argentina,1966-01-01,1,0,home_team,London,63f597ee-9cba-4766-848c-4ce6a87b2dd9
+1966,Demi-finales,FRG ,Soviet Union ,1966-01-01,2,1,home_team,Liverpool,dee2a487-2519-4ada-9e8d-fd7297d47be3
+1966,Demi-finales,England,Portugal,1966-01-01,2,1,home_team,London,4e3a635b-8092-4bbf-8bd0-f2a237908678
+1966,Troisième place,Portugal,Soviet Union ,1966-01-01,2,1,home_team,London,3ac1e3aa-5294-4887-a7f8-01ed728b587a
+1966,Quarts de finale,FRG ,Uruguay,1966-01-01,4,0,home_team,Sheffield,e54e7e02-0665-47d3-ba13-9ff7ab287390
+1966,Finale,England,FRG ,1966-01-01,4,2,home_team,London,d3cad201-4821-4879-8951-803474488ed2
+1966,Poules,Mexico ,Uruguay,1966-01-01,0,0,draw,London,d7790613-3db8-45d1-b03c-675454084956
+1966,Poules,Soviet Union ,Italy ,1966-01-01,1,0,home_team,Sunderland,e41f525c-3f04-438f-9287-2f1cb08b641c
+1966,Poules,England,Mexico ,1966-01-01,2,0,home_team,London,e6b3cb08-19da-47a3-a7b7-cf6265ca1f9f
+1966,Poules,England,Uruguay,1966-01-01,0,0,draw,London,8feb881b-eb99-4e8a-b18d-576af20327da
+1966,Poules,FRG ,Switzerland ,1966-01-01,5,0,home_team,Sheffield,c7f99c6c-e7ac-4749-a6ea-1b23155d0fb9
+1966,Poules,Brazil ,Bulgaria ,1966-01-01,2,0,home_team,Liverpool,aa581556-f202-4b82-a999-9a912ff7c710
+1966,Poules,Soviet Union ,North Korea ,1966-01-01,3,0,home_team,Middlesbrough,63570046-e901-4ba0-8f99-8c5ae94d2fd8
+1966,Poules,Argentina,Spain ,1966-01-01,2,1,home_team,Birmingham,12d356e3-1552-414a-ba7b-0d073f1d1b88
+1966,Poules,Portugal,Hungary ,1966-01-01,3,1,home_team,Manchester,21d2768e-de61-49be-8259-b4b92fe360da
+1966,Poules,France,Mexico ,1966-01-01,1,1,draw,London,a0317703-a448-49ff-95c5-fd18076aefdb
+1966,Poules,Uruguay,France,1966-01-01,2,1,home_team,London,114f5eb6-113d-44a8-bba6-c7d1505f7f16
+1966,Poules,Spain ,Switzerland ,1966-01-01,2,1,home_team,Sheffield,cf2959d8-609c-44c4-a366-091f0ca347f7
+1966,Poules,Hungary ,Brazil ,1966-01-01,3,1,home_team,Liverpool,72f5b2ab-a1db-43cf-8dd8-ce94328b722b
+1966,Poules,North Korea ,Chile,1966-01-01,1,1,draw,Middlesbrough,43de220a-bacf-404e-8317-2d28e05b99b2
+1966,Poules,FRG ,Argentina,1966-01-01,0,0,draw,Birmingham,65ecc27b-0119-462a-bf8f-7e9f04a6e3ff
+1966,Poules,Portugal,Bulgaria ,1966-01-01,3,0,home_team,Manchester,d0a13e90-69d0-4eca-8635-da7e2469ea16
+1966,Poules,Italy ,Chile,1966-01-01,2,0,home_team,Sunderland,09e3e2ab-c483-4338-83e8-db08906646f2
+1970,Poules,England,Czechoslovakia ,1970-01-01,1,0,home_team,Guadalajara,ca2a3c25-bc1e-4311-a510-5c9bf04392db
+1970,Poules,Brazil ,Romania ,1970-01-01,3,2,home_team,Guadalajara,151ad704-82ba-4a29-92fe-d1dbfec99fde
+1970,Poules,FRG ,Peru ,1970-01-01,3,1,home_team,León,463c50c7-0f7c-4a9c-b772-d9e608ddac28
+1970,Poules,Mexico ,Belgium ,1970-01-01,1,0,home_team,México Df,d0740095-8303-4f8c-a6f1-34143c97bc5c
+1970,Poules,Italy ,Israel ,1970-01-01,0,0,draw,Toluca,462d47cc-5d30-4663-af48-2f3ae108aaf0
+1970,Poules,Bulgaria ,Morocco ,1970-01-01,1,1,draw,León,f46bdf18-641e-42a0-8b27-1fee171b655c
+1970,Finale,Brazil ,Italy ,1970-01-01,4,1,home_team,México Df,f2e54bd3-56b8-473b-ba51-91d9b03a0907
+1970,Quarts de finale,Italy ,Mexico ,1970-01-01,4,1,home_team,Toluca,4172ea00-ccee-4067-ad08-20f1757de626
+1970,Quarts de finale,Brazil ,Peru ,1970-01-01,4,2,home_team,Guadalajara,a38f3f72-902e-48af-8515-30a4650880fc
+1970,Quarts de finale,FRG ,England,1970-01-01,3,2,home_team,León,612e99a2-ca0c-4e46-bac1-9573be3f27aa
+1970,Demi-finales,Brazil ,Uruguay,1970-01-01,3,1,home_team,Guadalajara,2e4811bd-fd16-4be9-b0fe-b27c680f72a3
+1970,Demi-finales,Italy ,FRG ,1970-01-01,4,3,home_team,México Df,808a01de-bc85-4879-8da4-54a0f48c2779
+1970,Troisième place,FRG ,Uruguay,1970-01-01,1,0,home_team,México Df,7c466244-c648-4352-aba8-de88c907afe8
+1970,Quarts de finale,Uruguay,Soviet Union ,1970-01-01,1,0,home_team,México Df,249ef7a1-b04c-4e82-bc9e-7921165ff3aa
+1970,Poules,Soviet Union ,El Salvador,1970-01-01,2,0,home_team,México Df,40099d9b-8cb9-4cdb-8b5d-40fc1d535e6f
+1970,Poules,Sweden ,Uruguay,1970-01-01,1,0,home_team,Puebla,17c336c8-67c9-47a4-aeff-1d5fec3b8c39
+1970,Poules,Brazil ,England,1970-01-01,1,0,home_team,Guadalajara,3a676783-0f1a-4152-b3d7-0c4d490f0b6b
+1970,Poules,FRG ,Bulgaria ,1970-01-01,5,2,home_team,León,50896dc5-c4bb-4177-bd54-5631ae7c4546
+1970,Poules,Soviet Union ,Mexico ,1970-01-01,0,0,draw,México Df,ad18e524-522d-4bcd-8dcf-9f047c2a50c2
+1970,Poules,Uruguay,Israel ,1970-01-01,2,0,home_team,Puebla,9d89e60c-209f-4903-a0c9-ee15a7dd8e3f
+1970,Poules,England,Romania ,1970-01-01,1,0,home_team,Guadalajara,2886853f-0afe-47e7-a175-e0795a779d94
+1970,Poules,Belgium ,El Salvador,1970-01-01,3,0,home_team,México Df,72096732-7c18-4c7b-8b87-f642479c4586
+1970,Poules,Italy ,Sweden ,1970-01-01,1,0,home_team,Toluca,f82d762c-799c-4129-9503-1cb9dcdb1f2a
+1970,Poules,Brazil ,Czechoslovakia ,1970-01-01,4,1,home_team,Guadalajara,4c229c74-df45-4654-bced-d98ec903a97c
+1970,Poules,Peru ,Bulgaria ,1970-01-01,3,2,home_team,León,17e399ec-152b-4cde-a964-ee954cc96969
+1970,Poules,Soviet Union ,Belgium ,1970-01-01,4,1,home_team,México Df,faa1b6fb-c5cf-4799-8526-dc21e1a66c5b
+1970,Poules,Italy ,Uruguay,1970-01-01,0,0,draw,Puebla,4c5b1c3e-0543-49f9-aba9-02ada4ca0ad1
+1970,Poules,Romania ,Czechoslovakia ,1970-01-01,2,1,home_team,Guadalajara,4907f136-dc91-45ba-8dc8-4826b802f9bb
+1970,Poules,Peru ,Morocco ,1970-01-01,3,0,home_team,León,cb3d3150-32b3-45ea-9a8d-2d199e9380eb
+1970,Poules,Mexico ,El Salvador,1970-01-01,4,0,home_team,México Df,a72ca5d6-dcb4-4845-9c30-a91d2cae8b26
+1970,Poules,Sweden ,Israel ,1970-01-01,1,1,draw,Toluca,89d74677-3731-4504-84e0-8c44c63df366
+1970,Poules,FRG ,Morocco ,1970-01-01,2,1,home_team,León,6cd74fdb-5218-4d33-9c51-c8cf1cdbaf4d
+1974,Demi-finales,Sweden ,Poland ,1974-01-01,0,1,away_home,Stuttgart,0336c958-53ed-4279-bc97-2f0de18dd218
+1974,Poules,Sweden ,Uruguay,1974-01-01,3,0,home_team,Düsseldorf,80f0a388-9558-48f7-b80a-d0420e91559f
+1974,Poules,Argentina,Haiti ,1974-01-01,4,1,home_team,München,8fe7144f-3e84-40c4-a612-bf841e07e9b2
+1974,Poules,Poland ,Italy ,1974-01-01,2,1,home_team,Stuttgart,9f99b331-6a59-475d-aa31-4b0f4cfe219d
+1974,Demi-finales,Yugoslavia ,FRG ,1974-01-01,0,2,away_home,Düsseldorf,62bcac80-8c57-4e66-94cf-cb04c1e562f8
+1974,Demi-finales,Netherlands ,Argentina,1974-01-01,4,0,home_team,Gelsenkirchen,57362b81-487b-4555-acd9-b48f4e271144
+1974,Demi-finales,Brazil ,GDR ,1974-01-01,1,0,home_team,Hannover,18e6bec4-dfc0-4926-ae3d-2c75939818f8
+1974,Demi-finales,GDR ,Netherlands ,1974-01-01,0,2,away_home,Gelsenkirchen,670a3afa-0652-4dc2-abf1-9f188a7b39c5
+1974,Troisième place,Poland ,Brazil ,1974-01-01,1,0,home_team,München,57c77475-ae29-43d9-91f9-3dadc255923f
+1974,Demi-finales,Poland ,Yugoslavia ,1974-01-01,2,1,home_team,Frankfurt Am Main,d4205965-bb6a-471e-9bdc-280519762d41
+1974,Demi-finales,FRG ,Sweden ,1974-01-01,4,2,home_team,Düsseldorf,96dd5d66-0490-465a-b202-d07f0eb72f08
+1974,Demi-finales,Poland ,FRG ,1974-01-01,0,1,away_home,Frankfurt Am Main,fb958e90-184b-42ef-b8ca-a212cd79e20a
+1974,Demi-finales,Netherlands ,Brazil ,1974-01-01,2,0,home_team,Dortmund,3691a106-f077-4a7a-9e3f-834a032c4abd
+1974,Demi-finales,Argentina,GDR ,1974-01-01,1,1,draw,Gelsenkirchen,c99f9e23-2674-472d-973e-eeacebf25c03
+1974,Demi-finales,Sweden ,Yugoslavia ,1974-01-01,2,1,home_team,Düsseldorf,b3a3ea9c-7f3c-4410-97f0-332bcd492f50
+1974,Finale,FRG ,Netherlands ,1974-01-01,2,1,home_team,München,554c5493-a41b-44b0-a767-121df18cc490
+1974,Poules,Bulgaria ,Netherlands ,1974-01-01,1,4,away_home,Dortmund,f946e82c-b0ce-47e5-a26b-9ae78dc322a8
+1974,Demi-finales,Argentina,Brazil ,1974-01-01,1,2,away_home,Hannover,88207e0a-5440-48e7-8060-e6d6cc4bcd96
+1974,Poules,GDR ,FRG ,1974-01-01,1,0,home_team,Hamburg,31c51cfb-dccb-47aa-b53b-3883f1dc8c37
+1974,Poules,Netherlands ,Sweden ,1974-01-01,0,0,draw,Dortmund,2561f71a-f3f0-4d2e-b80d-43b811251a70
+1974,Poules,Zaire ,Brazil ,1974-01-01,0,3,away_home,Gelsenkirchen,9b771a71-367d-4809-8624-4c746c4d17c3
+1974,Poules,FRG ,Chile,1974-01-01,1,0,home_team,West-Berlin,ab1e536e-c56a-4793-b740-dd31dcf956e4
+1974,Poules,GDR ,Australia,1974-01-01,2,0,home_team,Hamburg,03cffa60-8684-4faa-aa0d-ec8f3f39dd58
+1974,Poules,Zaire ,Scotland,1974-01-01,0,2,away_home,Dortmund,f7599e93-8d5d-4a28-981b-389b49edfda5
+1974,Poules,Sweden ,Bulgaria ,1974-01-01,0,0,draw,Düsseldorf,a6bd7176-c044-4f6b-8805-bee3f8651623
+1974,Poules,Uruguay,Netherlands ,1974-01-01,0,2,away_home,Hannover,58b3199b-c2e4-4404-bcba-4af05f392c11
+1974,Poules,Italy ,Haiti ,1974-01-01,3,1,home_team,München,88da4d52-f31c-4c49-b8aa-71e5134d7a20
+1974,Poules,Poland ,Argentina,1974-01-01,3,2,home_team,Stuttgart,a0b9c1fa-d27c-4b7d-b2e9-b4e902bf85b7
+1974,Poules,Australia,FRG ,1974-01-01,0,3,away_home,Hamburg,2cd93a04-cf51-4628-8497-9cc138f6e3f7
+1974,Poules,Brazil ,Yugoslavia ,1974-01-01,0,0,draw,Frankfurt Am Main,0906f9a1-48dd-46d7-b632-51115b9e178c
+1974,Poules,Yugoslavia ,Zaire ,1974-01-01,9,0,home_team,Gelsenkirchen,b8359503-da96-4a0b-97b3-882fe84a11ce
+1974,Poules,Scotland,Brazil ,1974-01-01,0,0,draw,Frankfurt Am Main,fee5d172-a67a-4d97-9091-b677a3f29c20
+1974,Poules,Scotland,Yugoslavia ,1974-01-01,1,1,draw,Frankfurt Am Main,65eb20fb-529a-4dce-94a0-47274baa67d7
+1974,Poules,Bulgaria ,Uruguay,1974-01-01,1,1,draw,Hannover,dad9add7-f0e8-4e18-876c-d27abc1f950e
+1974,Poules,Haiti ,Poland ,1974-01-01,0,7,away_home,München,51d3be40-8a32-4f14-bdd9-d46324eb222b
+1974,Poules,Argentina,Italy ,1974-01-01,1,1,draw,Stuttgart,afee50ff-ede6-452e-a2a9-985db5be659c
+1974,Poules,Australia,Chile,1974-01-01,0,0,draw,West-Berlin,818bbfaf-1ac8-44e2-bfc1-07e8762f9bc4
+1974,Poules,Chile,GDR ,1974-01-01,1,1,draw,West-Berlin,a9675830-1c80-4a0d-bc34-401094ecaa87
+1978,Poules,Brazil ,Austria ,1978-01-01,1,0,home_team,Mar_Del_Plata,2bbcbec7-a60a-43db-b3ae-28e1c27424c4
+1978,Poules,Scotland,Netherlands ,1978-01-01,3,2,home_team,Mendoza,e58647c8-b582-4bc8-b26b-745514f95bcd
+1978,Demi-finales,Netherlands ,Austria ,1978-01-01,5,1,home_team,Córdoba,f52957b0-3514-4b7d-992c-30a448a4d8ca
+1978,Demi-finales,FRG ,Italy ,1978-01-01,0,0,draw,Buenos Aires,5a268ce2-a48b-4ffc-abb0-175624ad31f1
+1978,Demi-finales,Brazil ,Peru ,1978-01-01,3,0,home_team,Mendoza,e1157b5a-f5ca-49be-bfc6-6c3f4fbf5668
+1978,Demi-finales,Argentina,Poland ,1978-01-01,2,0,home_team,Rosario,31e515e0-4f2f-4382-b9be-34d54e5b5e6b
+1978,Demi-finales,Poland ,Peru ,1978-01-01,1,0,home_team,Mendoza,6463765f-6733-4de2-bbc6-174945367608
+1978,Demi-finales,FRG ,Netherlands ,1978-01-01,2,2,draw,Córdoba,49811392-bfaa-466e-890c-196250e0a973
+1978,Demi-finales,Netherlands ,Italy ,1978-01-01,2,1,home_team,Buenos Aires,1662fc05-e9f3-4466-988a-971b618505e4
+1978,Demi-finales,Argentina,Brazil ,1978-01-01,0,0,draw,Rosario,6085d0d1-3d61-4727-80ac-564ccb75b77d
+1978,Demi-finales,Austria ,FRG ,1978-01-01,3,2,home_team,Córdoba,b349d27d-82de-43ee-8184-cd2c4edae507
+1978,Demi-finales,Brazil ,Poland ,1978-01-01,3,1,home_team,Mendoza,a3bf8fa4-e910-486d-81a6-fcee3a13ffc1
+1978,Demi-finales,Argentina,Peru ,1978-01-01,6,0,home_team,Rosario,a7300564-611e-4423-89fd-cea3e95df74c
+1978,Troisième place,Brazil ,Italy ,1978-01-01,2,1,home_team,Buenos Aires,c730948a-97ae-4dad-bc2e-cbacfb449fa4
+1978,Finale,Argentina,Netherlands ,1978-01-01,3,1,home_team,Buenos Aires,a59867ea-f259-4a7b-b127-cfa4d969c495
+1978,Poules,Spain ,Sweden ,1978-01-01,1,0,home_team,Buenos Aires,9855a72e-a445-4b24-952d-b107b47a515b
+1978,Demi-finales,Italy ,Austria ,1978-01-01,1,0,home_team,Buenos Aires,7c6292c6-72f5-4a12-ad33-7a3f69213138
+1978,Poules,Italy ,Argentina,1978-01-01,1,0,home_team,Buenos Aires,ecf9b479-6b27-472a-a40a-fba1dfb8f9ee
+1978,Poules,Peru ,Iran ,1978-01-01,4,1,home_team,Córdoba,3c6ce984-873f-4842-b5c7-3094ace7fa76
+1978,Poules,FRG ,Tunisia ,1978-01-01,0,0,draw,Córdoba,05b48ec2-ba78-4c96-9000-fd49751b720b
+1978,Poules,Poland ,Mexico ,1978-01-01,3,1,home_team,Rosario,8afc00fe-6842-41d1-9002-05c7657bbc7f
+1978,Poules,FRG ,Poland ,1978-01-01,0,0,draw,Buenos Aires,e7427c3d-47ed-4f1f-a01e-0b14fcb04adf
+1978,Poules,Italy ,France,1978-01-01,2,1,home_team,Mar_Del_Plata,bb3a91f7-aaf9-426d-9a79-78f7500d6d1d
+1978,Poules,Tunisia ,Mexico ,1978-01-01,3,1,home_team,Rosario,61248c38-eb7f-4fd4-bfa8-5e320f45419b
+1978,Poules,Austria ,Spain ,1978-01-01,2,1,home_team,Buenos Aires,ca576dc5-e81d-414c-914d-5c113e5aa1be
+1978,Poules,Sweden ,Brazil ,1978-01-01,1,1,draw,Mar_Del_Plata,f413cdb4-3d6c-44d4-a65e-fdd79d3a9417
+1978,Poules,Peru ,Scotland,1978-01-01,3,1,home_team,Córdoba,57fae737-1bf1-4c35-87e5-cc78a2ab825e
+1978,Poules,Netherlands ,Iran ,1978-01-01,3,0,home_team,Mendoza,d3372bfe-63e0-4781-9ccf-fcb6c9b29eed
+1978,Poules,Italy ,Hungary ,1978-01-01,3,1,home_team,Mar_Del_Plata,e654db6c-85af-4dbf-ab28-90c179572055
+1978,Poules,Argentina,Hungary ,1978-01-01,2,1,home_team,Buenos Aires,55097541-8cef-49dc-922e-f5b1f4af1588
+1978,Poules,Poland ,Tunisia ,1978-01-01,1,0,home_team,Rosario,af7695e5-4cd1-4c50-8810-3c10f054ab56
+1978,Poules,Argentina,France,1978-01-01,2,1,home_team,Buenos Aires,f6f60a30-0fe8-4eea-a5c9-4c6de02b092c
+1978,Poules,Austria ,Sweden ,1978-01-01,1,0,home_team,Buenos Aires,ac42d31f-0f30-44d5-be23-080c67ce20ef
+1978,Poules,Brazil ,Spain ,1978-01-01,0,0,draw,Mar_Del_Plata,494cc070-f0b5-4111-848f-f67ac338a098
+1978,Poules,Scotland,Iran ,1978-01-01,1,1,draw,Córdoba,6303296c-76ec-4f70-9c7e-8ab2ccc6d401
+1978,Poules,Netherlands ,Peru ,1978-01-01,0,0,draw,Mendoza,3480278c-7fa8-4e73-a421-c9f4fd9b4a6f
+1978,Poules,FRG ,Mexico ,1978-01-01,6,0,home_team,Córdoba,1f8dac56-d617-4de4-b029-3d9c9ac5acfe
+1978,Poules,France,Hungary ,1978-01-01,3,1,home_team,Mar_Del_Plata,678e5414-3cdd-4e9e-8290-f59414f3d344
+1982,Quarts de finale,Poland ,Belgium ,1982-01-01,3,0,home_team,Barcelona,2df4a061-2510-4253-809e-dc24edfdc17a
+1982,Quarts de finale,Austria ,France,1982-01-01,0,1,away_home,Madrid,b8d7ac06-f065-4d29-b409-d64d2ec95df1
+1982,Poules,Northern Ireland ,Spain ,1982-01-01,1,0,home_team,Valencia,b4bdbbbe-9186-4384-9ef1-0a9fbfdf798b
+1982,Poules,England,Kuwait ,1982-01-01,1,0,home_team,Bilbao,da937928-0c69-4619-b967-4d8b86ead4f8
+1982,Poules,FRG ,Austria ,1982-01-01,1,0,home_team,Gijón,27096469-49ec-4856-acd8-67b305e6cb8f
+1982,Poules,Algeria ,Chile,1982-01-01,3,2,home_team,Oviedo,f0471e17-8918-4c70-b4e4-c9ff8aca6bfe
+1982,Poules,France,Czechoslovakia ,1982-01-01,1,1,draw,Valladolid,d25b7105-165a-4f2b-ace6-68c05266e9cf
+1982,Poules,Brazil ,New Zealand ,1982-01-01,4,0,home_team,Sevilla,9cb92479-2d07-4b09-9190-f4edf2afd03f
+1982,Poules,Argentina,El Salvador,1982-01-01,2,0,home_team,Alicante,1a24e0ed-7c7d-41c3-a0c3-628f994ed887
+1982,Quarts de finale,Italy ,Argentina,1982-01-01,2,1,home_team,Barcelona,49242fdf-d045-4d13-ad00-a34c687083cb
+1982,Poules,Honduras,Yugoslavia ,1982-01-01,0,1,away_home,Zaragoza,0025f321-70f0-4b91-8493-309fcc1060cf
+1982,Quarts de finale,FRG ,England,1982-01-01,0,0,draw,Madrid,357a8100-2147-47c8-9d60-5b83484c39b0
+1982,Demi-finales,Poland ,Italy ,1982-01-01,0,2,away_home,Barcelona,2ff93682-5110-416a-adac-d1c1dc04e0ff
+1982,Quarts de finale,Belgium ,Soviet Union ,1982-01-01,0,1,away_home,Barcelona,4c8ae94c-8ab6-4f15-9d3c-a697b586bb19
+1982,Quarts de finale,Argentina,Brazil ,1982-01-01,1,3,away_home,Barcelona,93c5fb12-8a6a-45c7-ae8b-10660dc1ba88
+1982,Quarts de finale,FRG ,Spain ,1982-01-01,2,1,home_team,Madrid,20277b84-b80f-4573-82df-91c259f874c3
+1982,Quarts de finale,France,Northern Ireland ,1982-01-01,4,1,home_team,Madrid,ebd4788f-ff1f-45d8-bea9-83e40fcd40e9
+1982,Quarts de finale,Poland ,Soviet Union ,1982-01-01,0,0,draw,Barcelona,02a87bdd-8626-4a66-b9de-79da77fc5eae
+1982,Quarts de finale,Italy ,Brazil ,1982-01-01,3,2,home_team,Barcelona,99898f73-2ab9-4318-8bf8-f2a22b2f0570
+1982,Quarts de finale,Spain ,England,1982-01-01,0,0,draw,Madrid,c1318480-d4da-4047-b359-f5a8c24e374d
+1982,Demi-finales,FRG ,France,1982-01-01,3,3,draw,Sevilla,7f9a04ed-d0c6-4883-bfa0-d343226ace01
+1982,Troisième place,Poland ,France,1982-01-01,3,2,home_team,Alicante,0e17e1c1-3c14-400a-871c-6b6ac44bdd15
+1982,Finale,Italy ,FRG ,1982-01-01,3,1,home_team,Madrid,fe8467e1-6b4f-412d-83f1-e968aa4d1ee8
+1982,Poules,Italy ,Cameroon ,1982-01-01,1,1,draw,Vigo,537934a7-0cff-44f7-947c-f2df6289d679
+1982,Quarts de finale,Austria ,Northern Ireland ,1982-01-01,2,2,draw,Madrid,33bc51f9-6c2d-4d34-bf13-eb7fccf98c66
+1982,Poules,Soviet Union ,Scotland,1982-01-01,2,2,draw,Málaga,c7d7b16d-abd6-47eb-8c6a-a5b919017d48
+1982,Poules,Czechoslovakia ,Kuwait ,1982-01-01,1,1,draw,Valladolid,5ce6d319-2dd0-4037-86f1-5b1ae9d9bf1d
+1982,Poules,Poland ,Peru ,1982-01-01,5,1,home_team,La_Coruña,015ecf81-2fe6-4e91-878f-788fead65f69
+1982,Poules,Belgium ,Hungary ,1982-01-01,1,1,draw,Elche,8a76443b-9299-448e-8984-407fb506504a
+1982,Poules,Argentina,Belgium ,1982-01-01,0,1,away_home,Barcelona,0845d810-0da7-4834-8b82-2dab14473da5
+1982,Poules,Italy ,Poland ,1982-01-01,0,0,draw,Vigo,339230a0-0181-47b5-86bf-ed6fab69a70d
+1982,Poules,Brazil ,Soviet Union ,1982-01-01,2,1,home_team,Sevilla,69fc3889-914a-41e9-970c-e02fa7b26987
+1982,Poules,Peru ,Cameroon ,1982-01-01,0,0,draw,La_Coruña,7c53ff9f-0dbf-4833-acd9-70211ee4d014
+1982,Poules,Hungary ,El Salvador,1982-01-01,10,1,home_team,Elche,ca39df8f-6cc6-4212-8ea0-29f592020cb4
+1982,Poules,Scotland,New Zealand ,1982-01-01,5,2,home_team,Málaga,be5a8348-3e54-4979-b7ae-0233d34b727d
+1982,Poules,England,France,1982-01-01,3,1,home_team,Bilbao,1220313b-fa29-4348-b4a9-26e1db6ab56e
+1982,Poules,Spain ,Honduras,1982-01-01,1,1,draw,Valencia,03c7a54b-6c1e-4b83-be6c-d9844a969e6a
+1982,Poules,Chile,Austria ,1982-01-01,0,1,away_home,Oviedo,39734485-5ca3-40b8-9c8b-cda5c41c3e11
+1982,Poules,Yugoslavia ,Northern Ireland ,1982-01-01,0,0,draw,Zaragoza,50640d13-c498-4baa-8bdb-1aa1c210be70
+1982,Poules,FRG ,Algeria ,1982-01-01,1,2,away_home,Gijón,38d3f253-5e5b-4a96-9045-3484ee2f5331
+1982,Poules,Argentina,Hungary ,1982-01-01,4,1,home_team,Alicante,810d6ada-9c84-43ed-b996-abb29355b9dc
+1982,Poules,Honduras,Northern Ireland ,1982-01-01,1,1,draw,Zaragoza,e1b842cd-c55d-4266-926e-30b2fcb90928
+1982,Poules,Italy ,Peru ,1982-01-01,1,1,draw,Vigo,4b9d0296-b1d0-4196-8e06-20bda3dd8d46
+1982,Poules,Algeria ,Austria ,1982-01-01,0,2,away_home,Oviedo,41f76ad6-5f13-4644-9461-001230a0bb69
+1982,Poules,Spain ,Yugoslavia ,1982-01-01,2,1,home_team,Valencia,f8a247f6-ba92-4610-b81e-ea24ebdac3a7
+1982,Poules,England,Czechoslovakia ,1982-01-01,2,0,home_team,Bilbao,28f33e7a-e087-4672-b5e6-d7bbe58e76a0
+1982,Poules,FRG ,Chile,1982-01-01,4,1,home_team,Gijón,266472fb-8705-4dc4-942f-d519b4390046
+1982,Poules,France,Kuwait ,1982-01-01,4,1,home_team,Valladolid,726074dc-0b08-43e4-8843-e8e09ebefa73
+1982,Poules,Belgium ,El Salvador,1982-01-01,1,0,home_team,Elche,edb4ec9a-828c-4ff6-a0c8-b38a8df4f08c
+1982,Poules,Poland ,Cameroon ,1982-01-01,0,0,draw,La_Coruña,b2216519-56ce-4335-8f88-62e2acf10346
+1982,Poules,Brazil ,Scotland,1982-01-01,4,1,home_team,Sevilla,d5efb9e0-bbfb-41f3-96be-8d529bb8fdc3
+1982,Poules,Soviet Union ,New Zealand ,1982-01-01,3,0,home_team,Málaga,c45118f1-f429-4463-8037-d65d0d0fdefb
+1986,Huitièmes de finale,Brazil ,Poland ,1986-01-01,4,0,home_team,Guadalajara,14a5dba6-e3fd-4b4c-87a9-59bd2031d572
+1986,Poules,Paraguay,Belgium ,1986-01-01,2,2,draw,Toluca,dbc930b1-c963-4bed-a031-b0d5d943c674
+1986,Poules,Iraq ,Mexico ,1986-01-01,0,1,away_home,México Df,833bd910-3892-47b2-bc22-b4ff91ab1eca
+1986,Poules,England,Poland ,1986-01-01,3,0,home_team,Monterrey,844a6f0a-693e-4c04-a661-9ef6026cf4aa
+1986,Poules,Portugal,Morocco ,1986-01-01,1,3,away_home,Guadalajara,c5f4b394-ea87-4c25-8560-7b7a81a9ac7e
+1986,Poules,Northern Ireland ,Brazil ,1986-01-01,0,3,away_home,Guadalajara,9121d32f-724d-44ea-82ea-b16ff6594d89
+1986,Poules,Algeria ,Spain ,1986-01-01,0,3,away_home,Monterrey,ba68a425-03d0-424d-98ac-49e26f76e6c9
+1986,Poules,Denmark ,FRG ,1986-01-01,2,0,home_team,Querétaro,9c2852a0-05bb-472d-9730-c8747e53c52c
+1986,Poules,Scotland,Uruguay,1986-01-01,0,0,draw,Nezahualcóyotl,1337b9e0-2e3b-4ddd-84ce-f69399d85dbd
+1986,Huitièmes de finale,Mexico ,Bulgaria ,1986-01-01,2,0,home_team,México Df,d8349ed0-040d-461c-a654-02f292ba8e62
+1986,Huitièmes de finale,Soviet Union ,Belgium ,1986-01-01,3,4,away_home,León,d20deb3c-6df8-4992-bbe4-e8dfdaeba675
+1986,Huitièmes de finale,Argentina,Uruguay,1986-01-01,1,0,home_team,Puebla,c2e454ce-cb67-41fd-8278-4f0e9239337c
+1986,Troisième place,France,Belgium ,1986-01-01,4,2,home_team,Puebla,20ed04dd-7b40-4bfc-8f83-2acc01d21e38
+1986,Finale,Argentina,FRG ,1986-01-01,3,2,home_team,México Df,b866d46d-824e-4a77-9eeb-87931d5518d8
+1986,Huitièmes de finale,Morocco ,FRG ,1986-01-01,0,1,away_home,Monterrey,00cef7e4-0ded-4d30-9253-8c3e6b0d7638
+1986,Huitièmes de finale,England,Paraguay,1986-01-01,3,0,home_team,México Df,834695ea-5584-490e-9ca4-466d13e3ea02
+1986,Huitièmes de finale,Denmark ,Spain ,1986-01-01,1,5,away_home,Querétaro,b162bb94-639f-4dc2-9d5d-716d340a7ccf
+1986,Quarts de finale,Brazil ,France,1986-01-01,1,1,draw,Guadalajara,67307978-200b-4db0-b0b1-f58b584f9a6d
+1986,Quarts de finale,FRG ,Mexico ,1986-01-01,0,0,draw,Monterrey,384b5f06-b35c-47ba-8a5b-f51363552f14
+1986,Quarts de finale,Argentina,England,1986-01-01,2,1,home_team,México Df,2f7cf7ff-bcad-4fde-814b-f2451764299b
+1986,Quarts de finale,Spain ,Belgium ,1986-01-01,1,1,draw,Puebla,af4e8b52-1474-4f74-bda4-ab3bcd08c300
+1986,Demi-finales,France,FRG ,1986-01-01,0,2,away_home,Guadalajara,017c9b0c-aff8-4c4d-ad53-e51c116554b2
+1986,Demi-finales,Argentina,Belgium ,1986-01-01,2,0,home_team,México Df,f4d3f238-95c8-4311-b7db-c90af5012f99
+1986,Poules,Argentina,Bulgaria ,1986-01-01,2,0,home_team,México Df,f5021d2d-dcab-4045-a3d7-24cb35b9e1fc
+1986,Huitièmes de finale,Italy ,France,1986-01-01,0,2,away_home,México Df,d99c4b04-9149-4d6e-9f89-f71bfa913ce4
+1986,Poules,South Korea ,Italy ,1986-01-01,2,3,away_home,Puebla,8eda4da1-c4d6-45c7-8c44-5c53ae922797
+1986,Poules,Uruguay,FRG ,1986-01-01,1,1,draw,Querétaro,49bd7f21-19ac-4180-9b32-4523c1011353
+1986,Poules,Hungary ,France,1986-01-01,0,3,away_home,León,211fdaa7-a77e-4948-a967-7200c5b64bb4
+1986,Poules,Bulgaria ,Italy ,1986-01-01,1,1,draw,México Df,193b1b76-4299-4d5c-bae0-5aa8f193fd28
+1986,Poules,Spain ,Brazil ,1986-01-01,0,1,away_home,Guadalajara,42c5e6f1-72fc-4555-9acf-5a1f979c5606
+1986,Poules,Canada,France,1986-01-01,0,1,away_home,León,95d969fd-909b-4b0f-a324-c85669f873c1
+1986,Poules,Argentina,South Korea ,1986-01-01,3,1,home_team,México Df,c2982ddb-3aa4-481a-815a-4122b3988ff6
+1986,Poules,Soviet Union ,Hungary ,1986-01-01,6,0,home_team,Irapuato,d082b70e-62be-4e2a-9bb7-00a54823180b
+1986,Poules,Morocco ,Poland ,1986-01-01,0,0,draw,Monterrey,48d3029a-35c1-4162-a808-b4c52bd7475a
+1986,Poules,Belgium ,Mexico ,1986-01-01,1,2,away_home,México Df,b8771fff-c5d2-4cee-b2e2-aff6c9940324
+1986,Poules,Algeria ,Northern Ireland ,1986-01-01,1,1,draw,Guadalajara,0dd38ab0-5bff-4766-89db-da02f4d1eb16
+1986,Poules,Portugal,England,1986-01-01,1,0,home_team,Monterrey,e54dbccf-ccd6-469e-8b68-ebbe89100cd6
+1986,Poules,Paraguay,Iraq ,1986-01-01,1,0,home_team,Toluca,8dc9506d-6f44-4f36-8de4-5fd24a48c760
+1986,Poules,Scotland,Denmark ,1986-01-01,0,1,away_home,Nezahualcóyotl,5622d651-cbe0-47af-9a98-09ae480bcc26
+1986,Poules,Soviet Union ,Canada,1986-01-01,2,0,home_team,Irapuato,176d5ac9-99dc-4f49-ada3-41b123d816e6
+1986,Poules,France,Soviet Union ,1986-01-01,1,1,draw,León,9985966e-122f-40c2-b654-6241642d3c04
+1986,Poules,South Korea ,Bulgaria ,1986-01-01,1,1,draw,México Df,5808ec85-4d93-48a9-882c-4fc7829548d9
+1986,Poules,Hungary ,Canada,1986-01-01,2,0,home_team,Irapuato,b3bdaff0-d491-4034-b7a8-8cad1b02a9e3
+1986,Poules,Brazil ,Algeria ,1986-01-01,1,0,home_team,Guadalajara,1240d26a-99c3-4960-a3a0-e61a4863e1ac
+1986,Poules,England,Morocco ,1986-01-01,0,0,draw,Monterrey,e88ea61b-a716-447c-8761-63cd8f49cedb
+1986,Poules,Mexico ,Paraguay,1986-01-01,1,1,draw,México Df,c0dc91f7-5844-485e-87ae-13e3e07e7ca8
+1986,Poules,Northern Ireland ,Spain ,1986-01-01,1,2,away_home,Guadalajara,8d1353a9-4c9a-43dd-91e7-5406e71b57d8
+1986,Poules,Poland ,Portugal,1986-01-01,1,0,home_team,Monterrey,b7bd8432-b185-45b4-bd68-6e287c7f3afe
+1986,Poules,Iraq ,Belgium ,1986-01-01,1,2,away_home,Toluca,513bd3b0-7271-4c23-bae2-90f75835cd9d
+1986,Poules,FRG ,Scotland,1986-01-01,2,1,home_team,Querétaro,459025f8-ba8d-43a1-ba61-14ff0c0518b2
+1986,Poules,Denmark ,Uruguay,1986-01-01,6,1,home_team,Nezahualcóyotl,754c6540-6a89-4eab-9381-aca9510dec45
+1986,Poules,Italy ,Argentina,1986-01-01,1,1,draw,Puebla,0c841cd1-b2cb-4a10-a679-887e507e2b46
+1990,Huitièmes de finale,Cameroon ,Colombia,1990-01-01,2,1,home_team,Napoli,965539bb-bf90-492e-9976-1acab7fbb4d9
+1990,Poules,Ireland ,Netherlands ,1990-01-01,1,1,draw,Palermo,0ddfed30-67d0-43d5-88c2-dd2f32cd768a
+1990,Poules,England,Egypt ,1990-01-01,1,0,home_team,Cagliari,e2626847-8e55-44b6-bac4-f1d011dd8a4f
+1990,Poules,Belgium ,Spain ,1990-01-01,1,2,away_home,Verona,b9087467-904e-4560-a6d3-909c2143b591
+1990,Poules,Austria ,USA,1990-01-01,2,1,home_team,Firenze,10cde352-e720-443b-9200-553f0e09f03c
+1990,Poules,Sweden ,Costa Rica,1990-01-01,1,2,away_home,Genova,4ea01a14-1661-4185-914c-20e50f5f21bb
+1990,Poules,Brazil ,Scotland,1990-01-01,1,0,home_team,Torino,d7fa7c36-c820-4337-9635-1b290889ecc8
+1990,Poules,Italy ,Czechoslovakia ,1990-01-01,2,0,home_team,Roma,2c35debb-a8fd-43c3-b971-d86f95d8bcdf
+1990,Huitièmes de finale,Czechoslovakia ,Costa Rica,1990-01-01,4,1,home_team,Bari,4fad3b23-c188-41c6-8fa8-22e7becf537a
+1990,Poules,South Korea ,Uruguay,1990-01-01,0,1,away_home,Udine,9d179ee2-5a32-475c-9330-93efc7db98b7
+1990,Huitièmes de finale,Brazil ,Argentina,1990-01-01,0,1,away_home,Torino,dc256094-85ee-4de3-b4fd-60f07206d6fa
+1990,Quarts de finale,Yugoslavia ,Argentina,1990-01-01,0,0,draw,Firenze,15d05b53-f907-45ef-86e3-499ca06a624b
+1990,Huitièmes de finale,Ireland ,Romania ,1990-01-01,0,0,draw,Genova,c91625b8-3a74-4ce9-95a8-8cc3ba19eb8c
+1990,Huitièmes de finale,Italy ,Uruguay,1990-01-01,2,0,home_team,Roma,6bc4f837-5cd5-486c-9909-94ff2058b9dc
+1990,Huitièmes de finale,Spain ,Yugoslavia ,1990-01-01,1,2,away_home,Verona,788294aa-ce7b-4024-bb99-ee0e08021f7d
+1990,Huitièmes de finale,England,Belgium ,1990-01-01,1,0,home_team,Bologna,d59b524c-0b66-4ef8-9aa0-00457e61abb8
+1990,Quarts de finale,Italy ,Ireland ,1990-01-01,1,0,home_team,Roma,b5c7e02d-c0f2-4326-a39a-2d45fab9e41d
+1990,Quarts de finale,FRG ,Czechoslovakia ,1990-01-01,1,0,home_team,Milano,6da5471a-c9ef-4fa3-8eca-fc2dd2618b2b
+1990,Quarts de finale,England,Cameroon ,1990-01-01,3,2,home_team,Napoli,f5fcb418-783d-4807-955b-debb5b923967
+1990,Demi-finales,Italy ,Argentina,1990-01-01,1,1,draw,Napoli,f5924774-6ea3-454b-a0d0-2646734c3aa0
+1990,Demi-finales,FRG ,England,1990-01-01,1,1,draw,Torino,47bd9aa8-154a-46a3-b3b4-6eb97d75667b
+1990,Troisième place,Italy ,England,1990-01-01,2,1,home_team,Bari,e361195e-ce5f-4f50-95b4-c1eb7f4a5526
+1990,Poules,Yugoslavia ,United Arab Emirates ,1990-01-01,4,1,home_team,Bologna,fa9b4e91-9864-48a0-a652-81b500fd405b
+1990,Huitièmes de finale,FRG ,Netherlands ,1990-01-01,2,1,home_team,Milano,dcf338b1-eded-4a7d-88e7-062bd0a0125e
+1990,Finale,FRG ,Argentina,1990-01-01,1,0,home_team,Roma,8a9a9102-3f21-4759-97d6-1a653995041b
+1990,Poules,FRG ,Colombia,1990-01-01,1,1,draw,Milano,a23b1b47-1acb-42fe-ab6f-ff0fa83de3fd
+1990,Poules,Cameroon ,Soviet Union ,1990-01-01,0,4,away_home,Bari,12b12e41-72bf-4726-b0e0-f9fa81533a41
+1990,Poules,Argentina,Romania ,1990-01-01,1,1,draw,Napoli,c68dcb4f-0f8e-4e2f-8a81-4771a99d41b7
+1990,Poules,Argentina,Cameroon ,1990-01-01,0,1,away_home,Milano,6123a10d-648a-481a-af2b-02d8fc0ee146
+1990,Poules,Soviet Union ,Romania ,1990-01-01,0,2,away_home,Bari,89945391-7e28-4698-baad-fb7e049d4f24
+1990,Poules,United Arab Emirates ,Colombia,1990-01-01,0,2,away_home,Bologna,2d0e76b5-843e-4aaf-b3bc-ff686e9601e2
+1990,Poules,Italy ,Austria ,1990-01-01,1,0,home_team,Roma,f377e78f-bd38-465d-885e-e634edf62b25
+1990,Poules,USA,Czechoslovakia ,1990-01-01,1,5,away_home,Firenze,bcbfe8f2-0e6e-4a3d-a770-170e149d712b
+1990,Poules,Brazil ,Sweden ,1990-01-01,2,1,home_team,Torino,35ea9873-1c0e-4d98-99f1-4a099a109a48
+1990,Poules,Costa Rica,Scotland,1990-01-01,1,0,home_team,Genova,9feceedb-1a2a-4096-8f16-ce7d25074e5a
+1990,Poules,England,Ireland ,1990-01-01,1,1,draw,Cagliari,84f50971-2958-428f-bde7-6112846e31d4
+1990,Poules,Belgium ,South Korea ,1990-01-01,2,0,home_team,Verona,b6683de9-9e70-4a84-909a-1ef6c6258727
+1990,Poules,Netherlands ,Egypt ,1990-01-01,1,1,draw,Palermo,95858179-b144-4491-87af-4ee64fbe2656
+1990,Poules,Uruguay,Spain ,1990-01-01,0,0,draw,Udine,6730249f-3c18-4f9f-9579-4fee68e6fc48
+1990,Poules,FRG ,Yugoslavia ,1990-01-01,4,1,home_team,Milano,f649e7b2-4254-46bc-8f19-bde9614aaf43
+1990,Poules,Cameroon ,Romania ,1990-01-01,2,1,home_team,Bari,f260d2ea-6da3-4a8f-b771-42fd864110d6
+1990,Poules,Argentina,Soviet Union ,1990-01-01,2,0,home_team,Napoli,d642cf3b-8127-4ac5-89b4-9830e526d88a
+1990,Poules,Belgium ,Uruguay,1990-01-01,3,1,home_team,Verona,738a6460-83d6-459b-94d0-dd346849784b
+1990,Poules,South Korea ,Spain ,1990-01-01,1,3,away_home,Udine,c47e9525-d01c-41ba-81c0-eebd7b7bee95
+1990,Poules,Sweden ,Scotland,1990-01-01,1,2,away_home,Genova,c8b4d814-a9db-43a8-a23b-4cdea120d910
+1990,Poules,England,Netherlands ,1990-01-01,0,0,draw,Cagliari,be7c00b0-c593-4e53-98d1-2c38210d0724
+1990,Poules,Ireland ,Egypt ,1990-01-01,0,0,draw,Palermo,4f69823c-693d-4962-8d52-5dc610980228
+1990,Poules,FRG ,United Arab Emirates ,1990-01-01,5,1,home_team,Milano,2d4f8d20-813f-4a86-a90c-e1efbfff99b9
+1990,Poules,Austria ,Czechoslovakia ,1990-01-01,0,1,away_home,Firenze,2f5ae7f2-3a50-4921-a7c9-2e0ce43d3353
+1990,Poules,Italy ,USA,1990-01-01,1,0,home_team,Roma,de3a6b62-df10-42d0-a5e8-e0cf452ef9a0
+1990,Poules,Yugoslavia ,Colombia,1990-01-01,1,0,home_team,Bologna,de71d9d8-8ab6-4bbe-a776-82a58fdc75a1
+1990,Poules,Brazil ,Costa Rica,1990-01-01,1,0,home_team,Torino,f1793f5b-f5d7-48c6-a430-6c17c5b7b8e7
+1994,Huitièmes de finale,Spain ,Switzerland ,1994-01-01,3,0,home_team,Washington,15dc5c98-4d82-4df2-b11b-b55a6b890b29
+1994,Huitièmes de finale,Germany ,Belgium ,1994-01-01,3,2,home_team,Chicago,3db20669-e4af-4de8-8bc2-0aeb9ac09f16
+1994,Poules,Greece ,Nigeria,1994-01-01,0,2,away_home,Boston,fd5d0c26-34e3-4ecf-b550-8f73bb1e3b8a
+1994,Poules,Argentina,Bulgaria ,1994-01-01,0,2,away_home,Dallas,a7b93273-dbc2-4491-9f09-c5fe804a92d0
+1994,Poules,Morocco ,Netherlands ,1994-01-01,1,2,away_home,Orlando,6e3ca6a6-fe43-4b66-800c-28ce29c52ac2
+1994,Poules,Brazil ,Sweden ,1994-01-01,1,1,draw,Detroit,1f87144b-3cc9-4389-a16c-88ebe56d36c9
+1994,Poules,Russia ,Cameroon ,1994-01-01,6,1,home_team,San_Francisco,a071d749-da6b-436c-9553-b79b0aa414ac
+1994,Poules,Ireland ,Norway ,1994-01-01,0,0,draw,New_York,768ce9d3-614e-4d5d-b779-332fe53e1645
+1994,Poules,Italy ,Mexico ,1994-01-01,1,1,draw,Washington,0aa50d84-450e-448b-868a-f18adcd28a56
+1994,Huitièmes de finale,Saudi Arabia ,Sweden ,1994-01-01,1,3,away_home,Dallas,139522a1-c424-4da4-b48e-36d207ae2f3d
+1994,Poules,Belgium ,Saudi Arabia ,1994-01-01,0,1,away_home,Washington,ab542a9f-ea31-4efd-97e5-536cb52f0db2
+1994,Huitièmes de finale,Romania ,Argentina,1994-01-01,3,2,home_team,Los Angeles,914b1fc2-d838-432d-bd3c-085e946fb1b6
+1994,Poules,Germany ,South Korea ,1994-01-01,3,2,home_team,Dallas,41e332db-c938-4b35-a755-66cdeb1d6b2e
+1994,Huitièmes de finale,Brazil ,USA,1994-01-01,1,0,home_team,San_Francisco,3df5212f-cf2c-4d0a-8180-7753c60fd700
+1994,Huitièmes de finale,Nigeria,Italy ,1994-01-01,1,2,away_home,Boston,12b00674-9f07-4340-a3fa-3cd0f9cafc40
+1994,Huitièmes de finale,Mexico ,Bulgaria ,1994-01-01,1,1,draw,New_York,6096591a-08e1-49ec-8c09-75023fdaba1c
+1994,Quarts de finale,Italy ,Spain ,1994-01-01,2,1,home_team,Boston,84033e06-8c93-44f9-803c-07dd3d578aad
+1994,Quarts de finale,Netherlands ,Brazil ,1994-01-01,2,3,away_home,Dallas,3a2c0383-0fb5-48ad-85b0-de10279a5b30
+1994,Quarts de finale,Bulgaria ,Germany ,1994-01-01,2,1,home_team,New_York,5e9e5bb7-d57f-41ec-8a46-9acf648c9438
+1994,Quarts de finale,Romania ,Sweden ,1994-01-01,2,2,draw,San_Francisco,e85c3974-d808-44a6-813e-647ff4beb4d3
+1994,Demi-finales,Bulgaria ,Italy ,1994-01-01,1,2,away_home,New_York,03ba7a22-e492-4cce-af81-4eebb2fa36a9
+1994,Demi-finales,Sweden ,Brazil ,1994-01-01,0,1,away_home,Los Angeles,038e5672-5a84-4af2-9b24-bcd65304ea0e
+1994,Troisième place,Sweden ,Bulgaria ,1994-01-01,4,0,home_team,Los Angeles,5c5922dc-2eb6-402f-ba23-8c4e2c74ed82
+1994,Finale,Brazil ,Italy ,1994-01-01,0,0,draw,Los Angeles,c06b587f-c613-495a-968a-a63f23a9573f
+1994,Huitièmes de finale,Netherlands ,Ireland ,1994-01-01,2,0,home_team,Orlando,3b1c613b-e6af-4fdc-bfa0-d5e5eb6e9639
+1994,Poules,Bolivia,Spain ,1994-01-01,1,3,away_home,Chicago,9650ca1f-25c6-4d27-a3e9-b5993c083c9d
+1994,Poules,Mexico ,Ireland ,1994-01-01,2,1,home_team,Orlando,ccc79f1a-6033-491c-bd31-d2acce98f791
+1994,Poules,Switzerland ,Colombia,1994-01-01,0,2,away_home,San_Francisco,9ac0a195-eeda-48ea-87bd-5e2d06a9c3df
+1994,Poules,Germany ,Bolivia,1994-01-01,1,0,home_team,Chicago,8ac0b708-32f4-47af-9eb4-f5e1dcbe66ca
+1994,Poules,Spain ,South Korea ,1994-01-01,2,2,draw,Dallas,f98ef99d-9164-418d-88c9-2d1dd812383e
+1994,Poules,Italy ,Ireland ,1994-01-01,0,1,away_home,New_York,1466535d-58f3-48df-887d-329dec8020a9
+1994,Poules,Colombia,Romania ,1994-01-01,1,3,away_home,Los Angeles,3d1c4898-97a5-4979-88ec-9f617a6a79fa
+1994,Poules,USA,Switzerland ,1994-01-01,1,1,draw,Detroit,461fc950-5358-4a9d-aaaf-5dfc6664e529
+1994,Poules,Norway ,Mexico ,1994-01-01,1,0,home_team,Washington,9733644e-d310-414b-832e-584a174fb553
+1994,Poules,Cameroon ,Sweden ,1994-01-01,2,2,draw,Los Angeles,3f0641ce-544e-40e0-8279-8244e6ebae3d
+1994,Poules,Netherlands ,Saudi Arabia ,1994-01-01,2,1,home_team,Washington,d0a39a65-d3a2-48e9-82e0-72899e9b09c0
+1994,Poules,Brazil ,Russia ,1994-01-01,2,0,home_team,San_Francisco,18675097-e7d1-4993-944c-695dba097fe4
+1994,Poules,Argentina,Greece ,1994-01-01,4,0,home_team,Boston,cbe807f9-cf59-4db2-893b-25d7c63a0eeb
+1994,Poules,Germany ,Spain ,1994-01-01,1,1,draw,Chicago,e390dd2c-644a-4be2-8bf4-89a8882a79e1
+1994,Poules,Belgium ,Morocco ,1994-01-01,1,0,home_team,Orlando,5836cf4e-32b7-4d7e-9240-cb563438a592
+1994,Poules,Romania ,Switzerland ,1994-01-01,1,4,away_home,Detroit,1d87e0db-0af3-4332-8155-77c6fcda5238
+1994,Poules,Nigeria,Bulgaria ,1994-01-01,3,0,home_team,Dallas,faa5ae09-24cf-4921-93f1-7ed2c3d78490
+1994,Poules,Bulgaria ,Greece ,1994-01-01,4,0,home_team,Chicago,b012d947-64ec-4285-b58d-55a9e652682f
+1994,Poules,Argentina,Nigeria,1994-01-01,2,1,home_team,Boston,4238b83b-10a9-47a8-9db4-950108658f5d
+1994,Poules,Belgium ,Netherlands ,1994-01-01,1,0,home_team,Orlando,49a5fffd-6f00-4cd7-8e55-ee96670ef25f
+1994,Poules,Sweden ,Russia ,1994-01-01,3,1,home_team,Detroit,9dcc45a6-ba97-43d7-abd1-81047f67777d
+1994,Poules,Saudi Arabia ,Morocco ,1994-01-01,2,1,home_team,New_York,61407d43-a139-4869-821b-ab9376e6e882
+1994,Poules,Brazil ,Cameroon ,1994-01-01,3,0,home_team,San_Francisco,f688696d-f32b-476c-a630-0b0aefa6a446
+1994,Poules,USA,Romania ,1994-01-01,0,1,away_home,Los Angeles,433134af-c265-4363-aa82-d4503cb9a2b7
+1994,Poules,South Korea ,Bolivia,1994-01-01,0,0,draw,Boston,e77681fe-40fb-4c6c-a0b4-bd84e1aa321b
+1994,Poules,Italy ,Norway ,1994-01-01,1,0,home_team,New_York,3570dba3-10e8-4921-b13f-72d344308954
+1994,Poules,USA,Colombia,1994-01-01,2,1,home_team,Los Angeles,ca6c3c44-bb18-44d2-b1bf-1cacaf729005
+1998,Poules,USA,Yugoslavia ,1998-01-01,0,1,away_home,Nantes,4220a82f-b63f-4257-93ea-fb3b811a34e8
+1998,Poules,Japan ,Jamaica,1998-01-01,1,2,away_home,Lyon,e8e0d104-13f8-4903-b340-1d60493a0b46
+1998,Poules,Argentina,Croatia ,1998-01-01,1,0,home_team,Bordeaux,d12e638e-cdfc-458d-92e8-960bc7a86dce
+1998,Poules,Germany ,Iran ,1998-01-01,2,0,home_team,Montpellier,52521d1c-a09a-4144-a927-37b476e769df
+1998,Poules,Colombia,England,1998-01-01,0,2,away_home,Lens,879e1b80-3c28-4438-ab0c-b6b846a16c02
+1998,Poules,Belgium ,South Korea ,1998-01-01,1,1,draw,Paris,2f8f5f39-d8f8-41fe-a2f0-3a2ee9325f25
+1998,Poules,Scotland,Morocco ,1998-01-01,0,3,away_home,Saint-Étienne,e7b41048-af28-47dc-8674-61e292c49b39
+1998,Poules,Spain ,Bulgaria ,1998-01-01,6,1,home_team,Lens,4f127a76-2458-43d5-b6fc-bdd50e1fd967
+1998,Poules,Nigeria,Paraguay,1998-01-01,1,3,away_home,Toulouse,3d780e8f-2086-4e28-9ce9-854e25693bfd
+1998,Poules,South Africa ,Saudi Arabia ,1998-01-01,2,2,draw,Bordeaux,7e0c798a-5003-42d7-a6e9-f1bfd3c3cd9f
+1998,Poules,France,Denmark ,1998-01-01,2,1,home_team,Lyon,888d53b1-808b-478e-b594-ff808b49173d
+1998,Poules,Romania ,Tunisia ,1998-01-01,1,1,draw,Paris,91d71c43-7310-47c8-9fa4-b5947e0cff7d
+1998,Poules,Netherlands ,Mexico ,1998-01-01,2,2,draw,Saint-Étienne,052a825c-3956-4d3e-905a-5512dd9e780a
+1998,Huitièmes de finale,Italy ,Norway ,1998-01-01,1,0,home_team,Marseille,51a30620-9beb-4a62-94dd-63f6ac7ee940
+1998,Demi-finales,France,Croatia ,1998-01-01,2,1,home_team,Paris,e9790efc-22df-496c-a46d-8e28f55b3452
+1998,Huitièmes de finale,France,Paraguay,1998-01-01,1,0,home_team,Lens,001b0d4c-2105-4c5c-a998-448438de4d4a
+1998,Huitièmes de finale,Nigeria,Denmark ,1998-01-01,1,4,away_home,Paris,328f00cf-a5d3-4a8f-a134-3348c62c3532
+1998,Huitièmes de finale,Germany ,Mexico ,1998-01-01,2,1,home_team,Montpellier,4561eb1f-93ba-494e-9a17-5c3b117993bd
+1998,Huitièmes de finale,Netherlands ,Yugoslavia ,1998-01-01,2,1,home_team,Toulouse,20d5b551-cd69-4c0b-a559-7b8c34e42d05
+1998,Huitièmes de finale,Romania ,Croatia ,1998-01-01,0,1,away_home,Bordeaux,a896c4e5-ca7b-4d5a-b9f4-83c7a3e7d391
+1998,Huitièmes de finale,Argentina,England,1998-01-01,2,2,draw,Saint-Étienne,f89118f2-347f-483a-bab4-b58bf2504809
+1998,Quarts de finale,Italy ,France,1998-01-01,0,0,draw,Paris,2cc2a0e6-18ab-4c1c-b6ca-3ce3bf35d6ad
+1998,Quarts de finale,Brazil ,Denmark ,1998-01-01,3,2,home_team,Nantes,4f852d7e-b8ef-444e-9fa0-b179aa9751d5
+1998,Quarts de finale,Netherlands ,Argentina,1998-01-01,2,1,home_team,Marseille,1fc46f7b-8673-4f5d-9a88-bd1efd67a2d9
+1998,Quarts de finale,Germany ,Croatia ,1998-01-01,0,3,away_home,Lyon,dea4f9e9-2bb6-45ca-a5d0-a6769d0c6585
+1998,Demi-finales,Brazil ,Netherlands ,1998-01-01,1,1,draw,Marseille,21a3b056-dcab-403a-9712-8d32cb36a04c
+1998,Poules,Italy ,Austria ,1998-01-01,2,1,home_team,Paris,8c94d604-9b5b-4b58-9b5d-2ecbae948454
+1998,Troisième place,Croatia ,Netherlands ,1998-01-01,2,1,home_team,Paris,dbfe5270-e0e5-4439-a746-0ac4046cd59e
+1998,Finale,France,Brazil ,1998-01-01,3,0,home_team,Paris,2fbf5a37-04cf-4772-8d34-03f99cc2c6ec
+1998,Huitièmes de finale,Brazil ,Chile,1998-01-01,4,1,home_team,Paris,85f7a152-ca9f-45ac-8c59-3208bceb910e
+1998,Poules,Chile,Cameroon ,1998-01-01,1,1,draw,Nantes,a66efbd3-a43a-48aa-8844-22b4bef9d978
+1998,Poules,Brazil ,Norway ,1998-01-01,1,2,away_home,Marseille,59d72655-ee0d-4891-a0cf-bf7e6143c566
+1998,Poules,Colombia,Tunisia ,1998-01-01,1,0,home_team,Montpellier,5087ddba-d38a-4bab-b4d0-0d7c4789b049
+1998,Poules,Romania ,England,1998-01-01,2,1,home_team,Toulouse,3a3a9fe3-838c-4d64-b87b-d9c3bd6e0762
+1998,Poules,Morocco ,Norway ,1998-01-01,2,2,draw,Montpellier,5e919ac0-daa5-4bf7-91d7-7882a659ad5c
+1998,Poules,Italy ,Chile,1998-01-01,2,2,draw,Bordeaux,a32baed0-9aed-438f-b3ab-ff0623642389
+1998,Poules,Cameroon ,Austria ,1998-01-01,1,1,draw,Toulouse,d2293940-7792-401e-ac12-c291e1117b64
+1998,Poules,Paraguay,Bulgaria ,1998-01-01,0,0,draw,Montpellier,9c4e93c6-660e-442b-a0c9-9069d4af9d9f
+1998,Poules,Saudi Arabia ,Denmark ,1998-01-01,0,1,away_home,Lens,1636099e-2191-4072-b317-9aa553ff7959
+1998,Poules,France,South Africa ,1998-01-01,3,0,home_team,Marseille,d5f799af-f5f1-49b4-bfa1-9b90de66057f
+1998,Poules,Spain ,Nigeria,1998-01-01,2,3,away_home,Nantes,5588f014-c451-4d1c-b477-67373337cfca
+1998,Poules,South Korea ,Mexico ,1998-01-01,1,3,away_home,Lyon,d74c1cd0-2e8a-47fd-a103-0ca7bb8e31ef
+1998,Poules,Netherlands ,Belgium ,1998-01-01,0,0,draw,Paris,ed5abcc7-25a0-4fa2-a894-333593a31191
+1998,Poules,Argentina,Japan ,1998-01-01,1,0,home_team,Toulouse,7c855108-c9cc-4607-bf26-16a668d7b689
+1998,Poules,Yugoslavia ,Iran ,1998-01-01,1,0,home_team,Saint-Étienne,f122ee3a-6ef0-469b-9686-637a357f13b8
+1998,Poules,Jamaica,Croatia ,1998-01-01,1,3,away_home,Lens,81bc49a4-50a5-43f6-8728-4d88f335c56e
+1998,Poules,England,Tunisia ,1998-01-01,2,0,home_team,Marseille,459b4bf5-02fb-442f-8c3e-ab3ded4a3ee2
+1998,Poules,Romania ,Colombia,1998-01-01,1,0,home_team,Lyon,ab16fac3-8f4f-45be-b01e-cfb1f49eb623
+1998,Poules,Brazil ,Scotland,1998-01-01,2,1,home_team,Paris,67bee7a2-7771-4bb9-9562-676c0cf5f4a7
+1998,Poules,Scotland,Norway ,1998-01-01,1,1,draw,Bordeaux,212c0b42-ca7e-4ca0-8fd8-934fb3d2221f
+1998,Poules,Germany ,USA,1998-01-01,2,0,home_team,Paris,88532a32-9003-4830-b277-3433b9a0f5b3
+1998,Poules,Argentina,Jamaica,1998-01-01,5,0,home_team,Paris,f32ab8f0-67d9-4d6d-88ae-19f0e8b7ea1a
+1998,Poules,Germany ,Yugoslavia ,1998-01-01,2,2,draw,Lens,0f9abbb2-9848-4edf-bd45-ce66e6e6c196
+1998,Poules,Netherlands ,South Korea ,1998-01-01,5,0,home_team,Marseille,4c0b31c3-6c12-446f-83bd-53b96708e18c
+1998,Poules,Belgium ,Mexico ,1998-01-01,2,2,draw,Bordeaux,80c6b322-c528-4cac-9b20-ebaaa5b0b15b
+1998,Poules,Japan ,Croatia ,1998-01-01,0,1,away_home,Nantes,2be5be23-3054-4a6e-ae17-477c4d8d68fe
+1998,Poules,USA,Iran ,1998-01-01,1,2,away_home,Lyon,813eaed3-27b4-45b5-abdd-7ca58311758e
+1998,Poules,Nigeria,Bulgaria ,1998-01-01,1,0,home_team,Paris,bee45376-b6a0-4a13-87d1-31e9656e2700
+1998,Poules,France,Saudi Arabia ,1998-01-01,4,0,home_team,Paris,805b4a30-7e56-470c-8e51-258c16759662
+1998,Poules,South Africa ,Denmark ,1998-01-01,1,1,draw,Toulouse,5dc41c63-94ab-4691-86f9-9dc5c9e06f2e
+1998,Poules,Italy ,Cameroon ,1998-01-01,3,0,home_team,Montpellier,3678d3ce-a2d1-460d-8c89-cc9dc11d4803
+1998,Poules,Chile,Austria ,1998-01-01,1,1,draw,Saint-Étienne,67f5a7ae-4aee-491b-9750-6aeb0f718e34
+1998,Poules,Brazil ,Morocco ,1998-01-01,3,0,home_team,Nantes,a11aebd0-81d3-42d3-9ce3-782ca454ba52
+1998,Poules,Spain ,Paraguay,1998-01-01,0,0,draw,Saint-Étienne,0c7cc622-ea80-4999-b864-9c7f21b2d747
+2002,Poules,Poland ,USA,2002-01-01,3,1,home_team,Daejeon,099c43ce-00bf-4746-afaa-9d454214456c
+2002,Poules,Tunisia ,Japan ,2002-01-01,0,2,away_home,Osaka,70d3eae7-0f89-40f6-b608-d872dec46919
+2002,Poules,Belgium ,Russia ,2002-01-01,3,2,home_team,Shizuoka,b738fb7f-8ce4-4d66-aea2-881a37eecfa8
+2002,Poules,Mexico ,Italy ,2002-01-01,1,1,draw,Oita,ebdf4439-fa3f-4278-a582-8e3871a212d8
+2002,Poules,Ecuador,Croatia ,2002-01-01,1,0,home_team,Yokohama,91436634-2e61-49b6-b49d-2dea66016b55
+2002,Poules,Slovenia ,Paraguay,2002-01-01,1,3,away_home,Seogwipo,86194bf8-15c5-4951-a43e-330b50d94e59
+2002,Poules,Costa Rica,Brazil ,2002-01-01,2,5,away_home,Suwon,6767dc39-71a1-4c2a-a061-9c9da5cf0780
+2002,Poules,South Africa ,Spain ,2002-01-01,2,3,away_home,Daejeon,ed0538de-e423-4702-83fe-9767fa120b75
+2002,Poules,Nigeria,England,2002-01-01,0,0,draw,Osaka,6397b53f-e88c-4fc2-8fdb-3a92daf312bb
+2002,Poules,Sweden ,Argentina,2002-01-01,1,1,draw,Miyagi,975b67d6-4859-42df-bc22-3eb9f86c1875
+2002,Poules,Portugal,South Korea ,2002-01-01,0,1,away_home,Incheon,92f8331a-291f-4db5-b198-11694a4ed5f9
+2002,Poules,Cameroon ,Germany ,2002-01-01,0,2,away_home,Shizuoka,873a7d98-c62a-4bfb-b58a-6f3d260e1a89
+2002,Poules,Turkey ,China ,2002-01-01,3,0,home_team,Seoul,90598c14-1994-47d3-b8a3-9cbd2d383059
+2002,Huitièmes de finale,Germany ,Paraguay,2002-01-01,1,0,home_team,Seogwipo,37683696-92cb-4ce3-93b9-a18d95980bd8
+2002,Quarts de finale,England,Brazil ,2002-01-01,1,2,away_home,Shizuoka,cba236eb-0a0e-4ce5-a79d-c67ca5def528
+2002,Huitièmes de finale,Sweden ,Senegal ,2002-01-01,1,2,away_home,Oita,da4591c5-95ec-49d6-ab0e-cd4661d92309
+2002,Huitièmes de finale,Spain ,Ireland ,2002-01-01,1,1,draw,Suwon,a4c6b030-e59c-4d6a-8254-69e84a7e6b70
+2002,Huitièmes de finale,Mexico ,USA,2002-01-01,0,2,away_home,Jeonju,4eb03043-b438-400e-a2bd-6df79c77f9fd
+2002,Huitièmes de finale,Brazil ,Belgium ,2002-01-01,2,0,home_team,Kobe,45dc3a7b-3db6-4082-bb7c-85fdab6d1e2d
+2002,Huitièmes de finale,Japan ,Turkey ,2002-01-01,0,1,away_home,Miyagi,7e5e5733-484e-4740-b1f7-2497e1f08f10
+2002,Huitièmes de finale,South Korea ,Italy ,2002-01-01,2,1,home_team,Daejeon,f8e0a3cd-06d7-4b89-b507-5d621b682876
+2002,Quarts de finale,Germany ,USA,2002-01-01,1,0,home_team,Ulsan,dd4185d6-ba42-4610-b2ed-57e096e5843a
+2002,Quarts de finale,Spain ,South Korea ,2002-01-01,0,0,draw,Gwangju,1e9f00dd-3416-4dcd-bc2c-987dc7e12301
+2002,Quarts de finale,Senegal ,Turkey ,2002-01-01,0,1,away_home,Osaka,8c1bed64-c137-4bca-a7c5-622aeeabae29
+2002,Demi-finales,Germany ,South Korea ,2002-01-01,1,0,home_team,Seoul,b85b25f3-56dd-40d7-8e5a-b0e04018e20c
+2002,Demi-finales,Brazil ,Turkey ,2002-01-01,1,0,home_team,Saitama,4804fd7f-b767-4946-87b8-97111cda5793
+2002,Troisième place,Turkey ,South Korea ,2002-01-01,3,2,home_team,Daegu,8cd17378-14de-468d-ac45-0312e34bbb2a
+2002,Finale,Brazil ,Germany ,2002-01-01,2,0,home_team,Yokohama,07f0480a-3193-472b-8132-2b2f8fe56c46
+2002,Poules,Senegal ,Uruguay,2002-01-01,3,3,draw,Suwon,2e55c13c-9b63-4886-b88f-dee1a7aeea2e
+2002,Huitièmes de finale,Denmark ,England,2002-01-01,0,3,away_home,Niigata,4587c10a-bfa8-4b75-89ca-44822c40bc45
+2002,Poules,Denmark ,France,2002-01-01,2,0,home_team,Incheon,1e2979ad-a06a-49e1-a6ca-41cf2c66c1f4
+2002,Poules,Saudi Arabia ,Ireland ,2002-01-01,0,3,away_home,Yokohama,1f4d940b-b82d-4378-8ff7-e61df8c24515
+2002,Poules,Tunisia ,Belgium ,2002-01-01,1,1,draw,Oita,ba4f508a-fbcc-4629-875a-ed6683cc8f12
+2002,Poules,Ireland ,Cameroon ,2002-01-01,1,1,draw,Niigata,f95dfda3-df61-4463-a878-286eff83de60
+2002,Poules,Uruguay,Denmark ,2002-01-01,1,2,away_home,Ulsan,b66a5058-bab7-4379-91d1-399c9c098d61
+2002,Poules,Germany ,Saudi Arabia ,2002-01-01,8,0,home_team,Sapporo,866ba3fe-abc4-45b0-aee5-2cef238fc870
+2002,Poules,Argentina,Nigeria,2002-01-01,1,0,home_team,Ibaraki,a33ab6bf-2904-4a86-92a4-d4e7054e527c
+2002,Poules,Paraguay,South Africa ,2002-01-01,2,2,draw,Busan,c5902d13-625d-4851-aed3-914bff4acacd
+2002,Poules,England,Sweden ,2002-01-01,1,1,draw,Saitama,9889ddbc-2cfe-4202-b78a-30be5676c7e0
+2002,Poules,Spain ,Slovakia ,2002-01-01,3,1,home_team,Gwangju,a1ab8be1-dcbf-45c7-beca-addb1a510777
+2002,Poules,Croatia ,Mexico ,2002-01-01,0,1,away_home,Niigata,692c289e-3f22-4a8e-96cb-faa56a8cc5e4
+2002,Poules,Brazil ,Turkey ,2002-01-01,2,1,home_team,Ulsan,b5d7232f-ad00-44f0-92b7-da96966ada61
+2002,Poules,Italy ,Ecuador,2002-01-01,2,0,home_team,Sapporo,b23b1c90-fb9c-4e91-b557-fb36baeb7d44
+2002,Poules,China ,Costa Rica,2002-01-01,0,2,away_home,Gwangju,989b0575-cfe0-4377-8b40-231f41ac546f
+2002,Poules,Japan ,Belgium ,2002-01-01,2,2,draw,Saitama,47ad3241-6bfc-419d-9acd-ef75bdad3153
+2002,Poules,South Korea ,Poland ,2002-01-01,2,0,home_team,Busan,7ebd915e-a57e-4b34-8df4-dcd9e85d85e3
+2002,Poules,Russia ,Tunisia ,2002-01-01,2,0,home_team,Kobe,d70a34de-0ad4-418f-8634-09a5f2d60c75
+2002,Poules,USA,Portugal,2002-01-01,3,2,home_team,Suwon,38f22821-4ac5-4361-8a2f-c25ac3f347fb
+2002,Poules,France,Senegal ,2002-01-01,0,1,away_home,Seoul,0d47dc85-302c-413a-9f98-6bd796c515c3
+2002,Poules,Denmark ,Senegal ,2002-01-01,1,1,draw,Daegu,fb9a93fc-8fff-4e21-a06a-2956c6b1d920
+2002,Poules,Germany ,Ireland ,2002-01-01,1,1,draw,Ibaraki,b4ceb9b5-e170-43aa-aee2-622557fa3699
+2002,Poules,South Korea ,USA,2002-01-01,1,1,draw,Daegu,de935903-d039-493e-9ed4-9039376f4558
+2002,Poules,Japan ,Russia ,2002-01-01,1,0,home_team,Yokohama,32ef1315-775b-48d5-bda0-1c788431fce2
+2002,Poules,Costa Rica,Turkey ,2002-01-01,1,1,draw,Incheon,ad74b7a3-6cb5-48ac-93c0-296e04411bed
+2002,Poules,Mexico ,Ecuador,2002-01-01,2,1,home_team,Miyagi,fd36cc1c-94bd-432d-bc7d-28c2d066fe63
+2002,Poules,Brazil ,China ,2002-01-01,4,0,home_team,Seogwipo,e418939e-d71d-43f2-9b75-491ebbfc3056
+2002,Poules,Portugal,Poland ,2002-01-01,4,0,home_team,Jeonju,ad789116-d8a3-4406-a022-764062a860d0
+2002,Poules,South Africa ,Slovakia ,2002-01-01,1,0,home_team,Daegu,7f25cbea-0ca9-496d-81f0-27e669c23070
+2002,Poules,Argentina,England,2002-01-01,0,1,away_home,Sapporo,b930b1f9-8c4d-45e4-b043-2890ed1c4965
+2002,Poules,Spain ,Paraguay,2002-01-01,3,1,home_team,Jeonju,25f79bc1-ed27-4259-a12c-4e7c1350a73f
+2002,Poules,Italy ,Croatia ,2002-01-01,1,2,away_home,Ibaraki,a5175739-1b5c-4b30-b963-a4592ed0f770
+2002,Poules,Sweden ,Nigeria,2002-01-01,2,1,home_team,Kobe,93baaf8c-18a5-41b2-9e63-e3f3285dfef4
+2002,Poules,France,Uruguay,2002-01-01,0,0,draw,Busan,44cb2b23-d0f0-4ae1-acb7-86851d138b76
+2002,Poules,Cameroon ,Saudi Arabia ,2002-01-01,1,0,home_team,Saitama,434b6b6f-bda7-4abe-a185-ea5183928e53
+2006,Poules,Ukraine ,Tunisia ,2006-01-01,1,0,home_team,Berlin,7031bbf1-47df-426b-8df9-53e0ef3336f8
+2006,Poules,Saudi Arabia ,Spain ,2006-01-01,0,1,away_home,Kaiserslautern,67c11c49-941d-4899-90f9-c60b3570c26b
+2006,Poules,Croatia ,Australia,2006-01-01,2,2,draw,Stuttgart,495a71bc-4e30-4060-bc04-9782fb114bc7
+2006,Poules,Japan ,Brazil ,2006-01-01,1,4,away_home,Dortmund,c27a1d42-6967-430f-8c6c-627651e0627b
+2006,Poules,Ghana,USA,2006-01-01,2,1,home_team,Nürnberg,64fd7e48-463f-49df-be42-20ab80d11428
+2006,Poules,Netherlands ,Argentina,2006-01-01,0,0,draw,Frankfurt Am Main,19f0c7c5-3617-406f-bdb2-99503f97cfdd
+2006,Poules,Ivory Coast ,Serbia-Montenegro ,2006-01-01,3,2,home_team,München,5f7263d1-183a-408d-8e4b-944e7ce5bccf
+2006,Poules,Togo,France,2006-01-01,0,2,away_home,Köln,021649a3-3d1c-4f79-b1cd-a4669ba71a7c
+2006,Poules,Iran ,Angola,2006-01-01,1,1,draw,Leipzig,c6486713-bafc-418a-acb8-a43d6e0f04da
+2006,Poules,Portugal,Mexico ,2006-01-01,2,1,home_team,Gelsenkirchen,9020aac5-3b8c-4861-9cb7-34f74caf7a90
+2006,Poules,Paraguay,Trinidad and Tobago,2006-01-01,2,0,home_team,Kaiserslautern,949c0d44-e862-47cf-bb50-869620f3b1f6
+2006,Poules,Sweden ,England,2006-01-01,2,2,draw,Köln,dc69e2ba-6005-47b1-bd82-9efd2d89bba9
+2006,Poules,Costa Rica,Poland ,2006-01-01,1,2,away_home,Hannover,fa7f7dc9-f02a-4354-9ce2-e7ca9774e360
+2006,Poules,Czech Republic ,Italy ,2006-01-01,0,2,away_home,Hamburg,757e5ffa-fa20-4a49-a4fe-6e2c4e808c6e
+2006,Poules,Switzerland ,South Korea ,2006-01-01,2,0,home_team,Hannover,eb09f4a6-908e-4495-aace-b1b8d4422387
+2006,Huitièmes de finale,England,Ecuador,2006-01-01,1,0,home_team,Stuttgart,cae6bba2-de75-497a-afc5-cc1148ca3c85
+2006,Huitièmes de finale,Argentina,Mexico ,2006-01-01,2,1,home_team,Leipzig,7f71f357-761f-4e14-b8c0-72decacea5d8
+2006,Huitièmes de finale,Portugal,Netherlands ,2006-01-01,1,0,home_team,Nürnberg,1e12c7a9-36b6-4b2a-8bf2-8d3a5ffd02d3
+2006,Huitièmes de finale,Italy ,Australia,2006-01-01,1,0,home_team,Kaiserslautern,0e2b125a-43f5-4543-9c05-ac0cee17b2d1
+2006,Huitièmes de finale,Switzerland ,Ukraine ,2006-01-01,0,0,draw,Köln,96b0b886-ee74-4530-a8f2-17ed57e349ef
+2006,Huitièmes de finale,Spain ,France,2006-01-01,1,3,away_home,Hannover,f2eca86b-4ef3-4c1f-94e4-d42cc57c1cba
+2006,Quarts de finale,Germany ,Argentina,2006-01-01,1,1,draw,Berlin,b26dee31-47cc-4fa8-b936-663a611b81c8
+2006,Quarts de finale,Italy ,Ukraine ,2006-01-01,3,0,home_team,Hamburg,0f425aac-9e4e-4f3a-9cb0-c4fdb344b797
+2006,Quarts de finale,England,Portugal,2006-01-01,0,0,draw,Gelsenkirchen,23ee13c7-0bed-44fc-b018-805e801d37c5
+2006,Quarts de finale,Brazil ,France,2006-01-01,0,1,away_home,Frankfurt Am Main,1d2eaaa4-58c5-4a17-8bc8-9eb7018a3ca4
+2006,Demi-finales,Germany ,Italy ,2006-01-01,0,2,away_home,Dortmund,584676bd-af83-4ca9-95b4-f95320f46ed8
+2006,Demi-finales,Portugal,France,2006-01-01,0,1,away_home,München,f362e830-2014-403b-9556-9845dd2e7954
+2006,Troisième place,Germany ,Portugal,2006-01-01,3,1,home_team,Stuttgart,a4ea0746-13c1-49a6-81ad-747c1c13df06
+2006,Poules,Ecuador,Germany ,2006-01-01,0,3,away_home,Berlin,24e3a609-afce-4b06-b6fc-a32a46a8cb42
+2006,Finale,Italy ,France,2006-01-01,1,1,draw,Berlin,7aec7a9e-502d-4a06-acc6-83d1ecdebfb0
+2006,Huitièmes de finale,Germany ,Sweden ,2006-01-01,2,0,home_team,München,694ff3cf-81bc-4382-ab07-8747e8549f8e
+2006,Huitièmes de finale,Brazil ,Ghana,2006-01-01,3,0,home_team,Dortmund,7aee754b-9a8c-4b78-94a5-21191ae4a217
+2006,Poules,Spain ,Tunisia ,2006-01-01,3,1,home_team,Stuttgart,e4e4fc70-ff9f-4cde-add7-fe1d638e76e2
+2006,Poules,Togo,Switzerland ,2006-01-01,0,2,away_home,Dortmund,881ad5c6-8b86-46a7-82e2-facf40bc042a
+2006,Poules,Saudi Arabia ,Ukraine ,2006-01-01,0,4,away_home,Hamburg,b39cfb0c-ed33-471f-a315-c82575ffa130
+2006,Poules,Germany ,Costa Rica,2006-01-01,4,2,home_team,München,91e5d955-e51e-4512-9a15-3351ecd24c57
+2006,Poules,Poland ,Ecuador,2006-01-01,0,2,away_home,Gelsenkirchen,39863dd0-cf29-40ce-a1ac-60ba0dc523de
+2006,Poules,England,Paraguay,2006-01-01,1,0,home_team,Frankfurt Am Main,aea0b201-0347-474a-84ac-b02cf0f08dbe
+2006,Poules,Trinidad and Tobago,Sweden ,2006-01-01,0,0,draw,Dortmund,8e590f38-aba7-477c-a09d-c325de928026
+2006,Poules,Argentina,Ivory Coast ,2006-01-01,2,1,home_team,Hamburg,dbd2dbe0-2be4-4323-8fd6-643eea3f5f23
+2006,Poules,Serbia-Montenegro ,Netherlands ,2006-01-01,0,1,away_home,Leipzig,bffa1146-8cd6-42dd-8459-dd36d2a171c2
+2006,Poules,Mexico ,Iran ,2006-01-01,3,1,home_team,Nürnberg,acc4ff80-06d5-4d73-8727-5c5e4429f20d
+2006,Poules,Australia,Japan ,2006-01-01,3,1,home_team,Kaiserslautern,6f2dad6a-54fb-4a02-b318-1e632e7d824b
+2006,Poules,USA,Czech Republic ,2006-01-01,0,3,away_home,Gelsenkirchen,9bdc594b-ae6d-4962-9b32-c56d144c46d9
+2006,Poules,Italy ,Ghana,2006-01-01,2,0,home_team,Hannover,4d2da0c8-c7a3-4c89-a18d-bcfc15032c61
+2006,Poules,South Korea ,Togo,2006-01-01,2,1,home_team,Frankfurt Am Main,4be31c18-e39c-46b3-b480-4b2b97db0572
+2006,Poules,France,Switzerland ,2006-01-01,0,0,draw,Stuttgart,a1ce8bd7-2547-4852-a3ac-a3559c4a20a5
+2006,Poules,Brazil ,Croatia ,2006-01-01,1,0,home_team,Berlin,03de7fdc-7d75-4a9b-a8e6-533e4e6b8eab
+2006,Poules,Angola,Portugal,2006-01-01,0,1,away_home,Köln,e8c73b43-0315-4adf-8876-261582f8f536
+2006,Poules,Tunisia ,Saudi Arabia ,2006-01-01,2,2,draw,München,491f7963-fdac-4b99-a3aa-86bc6ba928b8
+2006,Poules,France,South Korea ,2006-01-01,1,1,draw,Leipzig,0434da0e-17be-42be-b7e3-aa306f99031f
+2006,Poules,Spain ,Ukraine ,2006-01-01,4,0,home_team,Leipzig,25bb8bd5-1180-4880-8d5b-0859c289dbf2
+2006,Poules,Brazil ,Australia,2006-01-01,2,0,home_team,München,a693d218-1d33-4db5-9a13-7430dde9de2a
+2006,Poules,Japan ,Croatia ,2006-01-01,0,0,draw,Nürnberg,39c1f961-b403-4337-b039-ea597b24b40b
+2006,Poules,Italy ,USA,2006-01-01,1,1,draw,Kaiserslautern,ece4e1b8-7055-4a22-acc1-79c54d0a963f
+2006,Poules,Portugal,Iran ,2006-01-01,2,0,home_team,Frankfurt Am Main,b462407c-9ac6-4819-9adb-f18ad708b3a9
+2006,Poules,Mexico ,Angola,2006-01-01,0,0,draw,Hannover,2451129d-068a-47e0-a357-4770410216cc
+2006,Poules,Czech Republic ,Ghana,2006-01-01,0,2,away_home,Köln,40436a1d-961e-440d-8fff-7c2587a7ef6d
+2006,Poules,Argentina,Serbia-Montenegro ,2006-01-01,6,0,home_team,Gelsenkirchen,0a9bcb8f-3dc7-4336-88a7-b80423c441ea
+2006,Poules,Sweden ,Paraguay,2006-01-01,1,0,home_team,Berlin,8dacb818-bfbb-4b9a-832f-d1de66b97061
+2006,Poules,England,Trinidad and Tobago,2006-01-01,2,0,home_team,Nürnberg,369eaa60-3993-47fd-a86c-9b504d3c2069
+2006,Poules,Ecuador,Costa Rica,2006-01-01,3,0,home_team,Hamburg,4af56d5d-386c-4a12-9fee-9ee2dc37f0bb
+2006,Poules,Germany ,Poland ,2006-01-01,1,0,home_team,Dortmund,32246ae0-c0ed-4ba8-8702-b4e213de3eb9
+2006,Poules,Netherlands ,Ivory Coast ,2006-01-01,2,1,home_team,Stuttgart,2f0a435a-e68d-4a9f-9628-10050333dc76
+2010,Poules,North Korea ,Ivory Coast ,2010-01-01,0,3,away_home,Nelspruit,db1c6d64-10a3-437d-a221-d659ffe4bdfe
+2010,Poules,Denmark ,Japan ,2010-01-01,1,3,away_home,Rustenburg,bc712dc6-3dab-4243-982a-398799df5d86
+2010,Poules,Portugal,Brazil ,2010-01-01,0,0,draw,Durban,fbeb0c37-00c9-494a-93fa-18d632e87dee
+2010,Finale,Netherlands ,Spain ,2010-01-01,0,1,away_home,Johannesburg,92bec648-0072-4bae-bc3b-eab0daf54fe9
+2010,Poules,Cameroon ,Netherlands ,2010-01-01,1,2,away_home,Cape Town,0e50e97c-ec28-4feb-87b5-16882eab4e59
+2010,Poules,Paraguay,New Zealand ,2010-01-01,0,0,draw,Polokwane,3fe4e981-75c9-4bb3-bfcb-4ab0635d6f13
+2010,Poules,Nigeria,South Korea ,2010-01-01,2,2,draw,Durban,f191099c-8266-4054-8a9b-093449910333
+2010,Poules,Australia,Serbia ,2010-01-01,2,1,home_team,Nelspruit,42f76ef4-0c90-41fe-9887-1fa3bce6fd5d
+2010,Poules,Ghana,Germany ,2010-01-01,0,1,away_home,Johannesburg,6be36c89-a466-4183-bed8-c0816c440f97
+2010,Poules,USA,Algeria ,2010-01-01,1,0,home_team,Pretoria,bb5d9768-6175-452f-865e-cccbe72e246d
+2010,Poules,Slovenia ,England,2010-01-01,0,1,away_home,Port_Elizabeth,8b3dca1b-2dbb-4df0-814e-4b221bccc9ca
+2010,Poules,Greece ,Argentina,2010-01-01,0,2,away_home,Polokwane,b175efb5-bc22-41de-a3b6-4274f5fe6edf
+2010,Poules,Chile,Spain ,2010-01-01,1,2,away_home,Pretoria,0fdddc94-2b08-49d5-b24e-7ed08387e24a
+2010,Poules,Slovakia ,Italy ,2010-01-01,3,2,home_team,Johannesburg,0ce75d5e-5d20-4046-8f69-fe8ef4c9342b
+2010,Poules,Switzerland ,Honduras,2010-01-01,0,0,draw,Bloemfontein,85df6f0b-a160-4a81-bde7-ad2b0725930d
+2010,Troisième place,Uruguay,Germany ,2010-01-01,2,3,away_home,Port_Elizabeth,9b4808a5-e784-4d7f-9ae5-3a63913a0f36
+2010,Huitièmes de finale,USA,Ghana,2010-01-01,1,2,away_home,Rustenburg,5186018a-4e69-4d3b-bf4e-24372261136a
+2010,Huitièmes de finale,Germany ,England,2010-01-01,4,1,home_team,Bloemfontein,c4ccdb0c-1219-42a0-9f40-24050bdfaa01
+2010,Huitièmes de finale,Argentina,Mexico ,2010-01-01,3,1,home_team,Johannesburg,537c4f2f-39cf-468f-9d25-9859622ad7fb
+2010,Huitièmes de finale,Netherlands ,Slovakia ,2010-01-01,2,1,home_team,Durban,a4908fba-550d-4f1a-8094-a997e1ff3d12
+2010,Huitièmes de finale,Brazil ,Chile,2010-01-01,3,0,home_team,Johannesburg,c6e00959-6cc3-4639-9eb1-fdd8e7168da9
+2010,Huitièmes de finale,Paraguay,Japan ,2010-01-01,0,0,draw,Pretoria,8c3b9f2a-bfab-4018-add7-e3725bc8727c
+2010,Huitièmes de finale,Spain ,Portugal,2010-01-01,1,0,home_team,Cape Town,89c508f3-3296-4fc4-8731-6ac4693beca1
+2010,Quarts de finale,Netherlands ,Brazil ,2010-01-01,2,1,home_team,Port_Elizabeth,c50990f5-bc95-428a-b941-07dacc19f9f7
+2010,Quarts de finale,Uruguay,Ghana,2010-01-01,1,1,draw,Johannesburg,7b0c593d-652b-443e-a82d-08244e1ef264
+2010,Quarts de finale,Argentina,Germany ,2010-01-01,0,4,away_home,Cape Town,ee14306f-3a5e-4fc2-8ef3-1d965d5bcf58
+2010,Quarts de finale,Paraguay,Spain ,2010-01-01,0,1,away_home,Johannesburg,64681e4e-52fc-4956-ab9a-a57888504800
+2010,Demi-finales,Uruguay,Netherlands ,2010-01-01,2,3,away_home,Cape Town,0828b3a2-b5b0-4ae3-b79e-5761adc33d1d
+2010,Demi-finales,Germany ,Spain ,2010-01-01,0,1,away_home,Durban,8558eb7d-2698-4253-933f-1982abb50b07
+2010,Poules,France,South Africa ,2010-01-01,1,2,away_home,Bloemfontein,2ed26244-b0e5-4c5a-a8ba-57f93804b7d1
+2010,Huitièmes de finale,Uruguay,South Korea ,2010-01-01,2,1,home_team,Port_Elizabeth,82cdeb34-1e28-4bd1-92bb-0d924f1176ad
+2010,Poules,Mexico ,Uruguay,2010-01-01,0,1,away_home,Rustenburg,5e3ff739-4656-48c3-9d3c-899b2924f926
+2010,Poules,France,Mexico ,2010-01-01,0,2,away_home,Polokwane,73d03e62-25cb-4712-85a6-5ce45abbc953
+2010,Poules,Chile,Switzerland ,2010-01-01,1,0,home_team,Port_Elizabeth,e1311674-bc16-4965-b5ec-ad7ee86d4064
+2010,Poules,Spain ,Honduras,2010-01-01,2,0,home_team,Johannesburg,477ad27c-0712-4a4a-b1e9-fcfe55aaa2a1
+2010,Poules,South Africa ,Mexico ,2010-01-01,1,1,draw,Johannesburg,017dae2f-7b2b-46b9-a99d-f876d159af1d
+2010,Poules,Uruguay,France,2010-01-01,0,0,draw,Cape Town,74dd346d-f21c-42f9-b728-0615bc766003
+2010,Poules,South Korea ,Greece ,2010-01-01,2,0,home_team,Port_Elizabeth,825699d7-cc7b-4514-bcf8-7e2e2bbdc74a
+2010,Poules,Argentina,Nigeria,2010-01-01,1,0,home_team,Johannesburg,1db3b145-d7f8-4c2f-92d7-a0cd9f59f6a2
+2010,Poules,England,USA,2010-01-01,1,1,draw,Rustenburg,993eeed0-d673-4c5f-b5d7-5515e9ff2542
+2010,Poules,Algeria ,Slovenia ,2010-01-01,0,1,away_home,Polokwane,f388bed6-c2f0-4bcf-b96b-35a215fd248f
+2010,Poules,Serbia ,Ghana,2010-01-01,0,1,away_home,Pretoria,9108004c-06f6-4181-9314-97680ce715cf
+2010,Poules,Netherlands ,Denmark ,2010-01-01,2,0,home_team,Johannesburg,de3b28d9-582f-42e7-80c2-e6198f68faf3
+2010,Poules,Japan ,Cameroon ,2010-01-01,1,0,home_team,Bloemfontein,7edaed29-da6d-4d88-a5fd-4a3525cfa71a
+2010,Poules,Italy ,Paraguay,2010-01-01,1,1,draw,Cape Town,a28dfc71-3751-43a3-9664-1cadc9af2b8d
+2010,Poules,New Zealand ,Slovakia ,2010-01-01,1,1,draw,Rustenburg,43c6252e-b314-4b52-82f3-5107b64b7ed3
+2010,Poules,Ivory Coast ,Portugal,2010-01-01,0,0,draw,Port_Elizabeth,67dd590c-2c72-4a3b-b540-92dc32366b51
+2010,Poules,Brazil ,North Korea ,2010-01-01,2,1,home_team,Johannesburg,45707c35-1726-41fd-aee0-bd97de1d4885
+2010,Poules,Germany ,Australia,2010-01-01,4,0,home_team,Durban,540747fb-64d6-4de0-bb9a-fdd18309019c
+2010,Poules,Spain ,Switzerland ,2010-01-01,0,1,away_home,Durban,ad7b68a3-0290-4e2f-95f9-34e08c696507
+2010,Poules,Honduras,Chile,2010-01-01,0,1,away_home,Nelspruit,124152ed-7cc3-46c7-91aa-69faa18b0709
+2010,Poules,Brazil ,Ivory Coast ,2010-01-01,3,1,home_team,Johannesburg,90b22b56-730b-4a97-afa2-42622e7092bf
+2010,Poules,Italy ,New Zealand ,2010-01-01,1,1,draw,Nelspruit,b5f44e3c-a72b-4354-998a-ac4527ecb872
+2010,Poules,Slovakia ,Paraguay,2010-01-01,0,2,away_home,Bloemfontein,2c888a16-c26a-43d4-9f46-9e162cb5b229
+2010,Poules,Cameroon ,Denmark ,2010-01-01,1,2,away_home,Pretoria,6728e479-f79e-4826-b483-b47f02db1593
+2010,Poules,Ghana,Australia,2010-01-01,1,1,draw,Rustenburg,8c4a1261-10ce-484e-8565-ef243374be5d
+2010,Poules,Netherlands ,Japan ,2010-01-01,1,0,home_team,Durban,b563093a-578f-4d2a-9d08-68dc64345d76
+2010,Poules,Portugal,North Korea ,2010-01-01,7,0,home_team,Cape Town,e089be54-8b9c-466d-90bd-d278c569bb60
+2010,Poules,Slovenia ,USA,2010-01-01,2,2,draw,Johannesburg,2bd596b0-f864-4c3b-82c9-793f2a92fbdd
+2010,Poules,Germany ,Serbia ,2010-01-01,0,1,away_home,Port_Elizabeth,63132517-957e-4098-adfa-256bd054d1bf
+2010,Poules,Greece ,Nigeria,2010-01-01,2,1,home_team,Bloemfontein,234335b1-3765-4218-9156-e28990739c07
+2010,Poules,Argentina,South Korea ,2010-01-01,4,1,home_team,Johannesburg,7be97ea9-37d7-45eb-8465-767f830d68c2
+2010,Poules,South Africa ,Uruguay,2010-01-01,0,3,away_home,Pretoria,250dd393-9408-41fa-84d2-1e1be5e6bffb
+2010,Poules,England,Algeria ,2010-01-01,0,0,draw,Cape Town,9e91100a-366a-407d-b8c1-b326760ab8f8
+2014,Poules,Brazil,Croatia,2014-06-12,3,1,home_team,Sao Paulo ,b0a4223a-4862-416b-9519-f5702f963673
+2014,Poules,Spain,Netherlands,2014-06-13,1,5,away_team,Salvador ,1ffaad86-f269-42f2-b653-3ff972ca6357
+2014,Poules,Mexico,Cameroon,2014-06-13,1,0,home_team,Natal ,87e2ef35-e3f5-4e99-81bd-a503e08a83b8
+2014,Poules,Chile,Australia,2014-06-13,3,1,home_team,Cuiaba ,0bf4dc7a-c722-4b14-8ffd-d7a5c5c2e27b
+2014,Poules,Côte d'Ivoire,Japan,2014-06-14,2,1,home_team,Recife ,49e32728-44d4-4cae-b6a9-067dc8ec6c5c
+2014,Poules,England,Italy,2014-06-14,1,2,away_team,Manaus ,1e22522b-53b3-4986-afe0-4663fb358220
+2014,Poules,Colombia,Greece,2014-06-14,3,0,home_team,Belo Horizonte ,7a15ee39-e2ca-41cf-9b19-b93beadbc44b
+2014,Poules,Uruguay,Costa Rica,2014-06-14,1,3,away_team,Fortaleza ,dbb136ac-1ecb-4548-b362-0f5393338bb1
+2014,Poules,Argentina,"rn"">Bosnia and Herzegovina",2014-06-15,2,1,home_team,Rio De Janeiro ,fadf480b-aab7-46b3-93ac-6785a597b92f
+2014,Poules,Switzerland,Ecuador,2014-06-15,2,1,home_team,Brasilia ,b148c44e-5750-4fda-956b-d27a9a060ddb
+2014,Poules,France,Honduras,2014-06-15,3,0,home_team,Porto Alegre ,55d92884-ff30-43e0-bf7c-f8049ff50084
+2014,Poules,IR Iran,Nigeria,2014-06-16,0,0,draw,Curitiba ,116cf370-aaec-4c91-a14c-9e2b08db5e13
+2014,Poules,Ghana,USA,2014-06-16,1,2,away_team,Natal ,0bd65b42-265b-4bfc-9810-be6d1d218978
+2014,Poules,Germany,Portugal,2014-06-16,4,0,home_team,Salvador ,3f013c9e-0585-43b5-9343-2b9c756873da
+2014,Poules,Belgium,Algeria,2014-06-17,2,1,home_team,Belo Horizonte ,5e7f7b6a-d6c3-4fd1-9d87-87db5585212d
+2014,Poules,Brazil,Mexico,2014-06-17,0,0,draw,Fortaleza ,2270534f-fb78-4e61-8b5e-8c611baeb69b
+2014,Poules,Russia,Korea Republic,2014-06-17,1,1,draw,Cuiaba ,02c74ac2-2f15-4042-8ebf-74e19a5dae5d
+2014,Poules,Australia,Netherlands,2014-06-18,2,3,away_team,Porto Alegre ,94834e9c-f3c4-416b-805a-444ba9ffd63d
+2014,Poules,Spain,Chile,2014-06-18,0,2,away_team,Rio De Janeiro ,23e4d090-821b-4afa-8a32-e3a38678237d
+2014,Poules,Cameroon,Croatia,2014-06-18,0,4,away_team,Manaus ,ca8ad258-5894-4c43-9786-f87dbad3b567
+2014,Poules,Colombia,Côte d'Ivoire,2014-06-19,2,1,home_team,Brasilia ,9c6af4a1-3627-4a22-8674-3215ab0d9452
+2014,Poules,Uruguay,England,2014-06-19,2,1,home_team,Sao Paulo ,a2d16673-f5e3-4488-9650-609dd4dacd05
+2014,Poules,Japan,Greece,2014-06-19,0,0,draw,Natal ,79ccd4ba-f11b-4f67-89e4-4ee6cf2db8ee
+2014,Poules,Italy,Costa Rica,2014-06-20,0,1,away_team,Recife ,32faddc2-6705-4a61-a79c-d84f70348ba5
+2014,Poules,Switzerland,France,2014-06-20,2,5,away_team,Salvador ,1538c61b-6bed-4ec1-961b-337f1899cefc
+2014,Poules,Honduras,Ecuador,2014-06-20,1,2,away_team,Curitiba ,4203df8d-18d1-4bcd-b33e-ea1afb45d6fe
+2014,Poules,Germany,Ghana,2014-06-21,2,2,draw,Fortaleza ,7c2c3dbb-8014-4eb3-9f7f-0523cdbc1312
+2014,Poules,Nigeria,"rn"">Bosnia and Herzegovina",2014-06-21,1,0,home_team,Cuiaba ,5ae5075f-5fa9-402c-97f3-d772294431b6
+2014,Poules,Argentina,IR Iran,2014-06-21,1,0,home_team,Belo Horizonte ,371b6cba-3478-4902-8265-547b70059c14
+2014,Poules,Korea Republic,Algeria,2014-06-22,2,4,away_team,Porto Alegre ,9ec35993-c4b6-475a-8102-241068251035
+2014,Poules,USA,Portugal,2014-06-22,2,2,draw,Manaus ,5ca517c3-b012-4a07-9d55-47374b906d8d
+2014,Poules,Belgium,Russia,2014-06-22,1,0,home_team,Rio De Janeiro ,0e1991a7-6d1d-41ff-8e17-5fdf0112ab53
+2014,Poules,Croatia,Mexico,2014-06-23,1,3,away_team,Recife ,5a2554b5-b5dd-4f44-acbc-c33d197971a6
+2014,Poules,Australia,Spain,2014-06-23,0,3,away_team,Curitiba ,c6108b5f-2f55-43b7-b270-dd8ce011eb5e
+2014,Poules,Netherlands,Chile,2014-06-23,2,0,home_team,Sao Paulo ,d79a2b1c-3bf2-4e1a-a277-5ddd270f62bc
+2014,Poules,Cameroon,Brazil,2014-06-23,1,4,away_team,Brasilia ,e29d2c5a-53a4-473f-a52a-e05077280d42
+2014,Poules,Greece,Côte d'Ivoire,2014-06-24,2,1,home_team,Fortaleza ,fe699add-5194-484d-8990-b2d86852796a
+2014,Poules,Japan,Colombia,2014-06-24,1,4,away_team,Cuiaba ,54834d46-5510-4bbc-b813-4027eeacbc6b
+2014,Poules,Italy,Uruguay,2014-06-24,0,1,away_team,Natal ,eb06dbea-8d5c-47be-9b7b-45e97f6a04db
+2014,Poules,Costa Rica,England,2014-06-24,0,0,draw,Belo Horizonte ,f2d359cd-80a4-40ad-a663-ca69714a796f
+2014,Poules,Honduras,Switzerland,2014-06-25,0,3,away_team,Manaus ,ac2c21aa-7709-4ee5-ad7a-1fbd726925f4
+2014,Poules,Nigeria,Argentina,2014-06-25,2,3,away_team,Porto Alegre ,574d4ee3-05fd-4438-a7c8-d825dd2cb720
+2014,Poules,"rn"">Bosnia and Herzegovina",IR Iran,2014-06-25,3,1,home_team,Salvador ,dc5b3a68-faa1-40b3-abab-7b1dea648031
+2014,Poules,Ecuador,France,2014-06-25,0,0,draw,Rio De Janeiro ,aa183101-de68-433c-9ec0-441015ed04e7
+2014,Poules,Korea Republic,Belgium,2014-06-26,0,1,away_team,Sao Paulo ,7baea171-0473-4b62-bf75-6c7d8fc65105
+2014,Poules,Algeria,Russia,2014-06-26,1,1,draw,Curitiba ,d49af733-82ff-439e-abd3-b43cef32ab83
+2014,Poules,USA,Germany,2014-06-26,0,1,away_team,Recife ,4fbe1d5f-1b4a-4260-bfe3-f67fcb8728b8
+2014,Poules,Portugal,Ghana,2014-06-26,2,1,home_team,Brasilia ,1245f504-8790-418e-889c-c783b16d0f55
+2014,Huitièmes de finale,Colombia,Uruguay,2014-06-28,2,0,home_team,Rio De Janeiro ,77e35e05-d8fd-42d7-8bed-31b1f508c558
+2014,Huitièmes de finale,Brazil,Chile,2014-06-28,1,1,draw,Belo Horizonte ,ae829a29-be0e-4dd2-bb74-dfe3e82827a9
+2014,Huitièmes de finale,Costa Rica,Greece,2014-06-29,1,1,draw,Recife ,dcf16b22-9c09-418c-bb65-8e9c220dfb4b
+2014,Huitièmes de finale,Netherlands,Mexico,2014-06-29,2,1,home_team,Fortaleza ,29f45d7f-a658-427c-8849-470ecb36a03f
+2014,Huitièmes de finale,France,Nigeria,2014-06-30,2,0,home_team,Brasilia ,0769c59d-9c65-4acc-a843-da122375448d
+2014,Huitièmes de finale,Germany,Algeria,2014-06-30,2,1,home_team,Porto Alegre ,75cb01ac-23dd-41b1-8922-083555c29b36
+2014,Huitièmes de finale,Argentina,Switzerland,2014-07-01,1,0,home_team,Sao Paulo ,38d0a6f9-6b9e-4b34-901b-5ad63f4d2775
+2014,Huitièmes de finale,Belgium,USA,2014-07-01,2,1,home_team,Salvador ,2df8eabb-0f74-4634-ac87-19663569f60c
+2014,Quarts de finale,France,Germany,2014-07-04,0,1,away_team,Rio De Janeiro ,f90dafb8-a039-4dc7-909f-d4190829ec44
+2014,Quarts de finale,Brazil,Colombia,2014-07-04,2,1,home_team,Fortaleza ,6d702766-33fd-4ecc-bb54-ba74a18d385a
+2014,Quarts de finale,Netherlands,Costa Rica,2014-07-05,0,0,draw,Salvador ,975aa15c-59d6-408b-90c5-47edc14c9a83
+2014,Quarts de finale,Argentina,Belgium,2014-07-05,1,0,home_team,Brasilia ,afcb935c-41d6-4208-91a9-5b11246d29ae
+2014,Demi-finales,Brazil,Germany,2014-07-08,1,7,away_team,Belo Horizonte ,aaf4fe2d-5784-4cb4-8bb9-253f6ff8ed59
+2014,Demi-finales,Netherlands,Argentina,2014-07-09,0,0,draw,Sao Paulo ,8a845abb-0f94-4d40-b515-0824cc924485
+2014,Troisième place,Brazil,Netherlands,2014-07-12,0,3,away_team,Brasilia ,732859a0-8fed-4592-b252-8d26bcb4885e
+2014,Finale,Germany,Argentina,2014-07-13,1,0,home_team,Rio De Janeiro ,76242a02-3e13-4c90-8010-4a619e39c159
+2018,Poules,Russia,Saudi Arabia,2018-06-14,5,0,home_team,Moscow,5f27ce5f-8736-47a4-949e-053f282b0fea
+2018,Poules,Morocco,Iran,2018-06-15,0,1,away_home,Saint Petersburg,88ae8998-b0c6-4d8b-a42a-94e18717b702
+2018,Poules,Portugal,Spain,2018-06-15,3,3,draw,Sochi,3e6f5e7e-b4bc-420f-bfa4-6360c33d4759
+2018,Poules,Egypt,Uruguay,2018-06-15,0,1,away_home,Yekaterinburg,596aba44-428f-4936-9201-7509def671f9
+2018,Poules,Croatia,Nigeria,2018-06-16,2,0,home_team,Kaliningrad,3476b1f1-c51b-47d5-a56a-0376e0eb48d2
+2018,Poules,Argentina,Iceland,2018-06-16,1,1,draw,Moscow,304a169c-5075-410b-8688-9aec0e211569
+2018,Poules,Peru,Denmark,2018-06-16,0,1,away_home,Saransk,b7ee0f09-516c-4b64-9709-b5949ec30412
+2018,Poules,France,Australia,2018-06-16,2,1,home_team,Kazan,d33a7992-55fa-42b4-ad5f-66dbcc410f52
+2018,Poules,Germany,Mexico,2018-06-17,0,1,away_home,Moscow,d7b751fb-0584-48b7-9a46-652e01637d84
+2018,Poules,Costa Rica,Serbia,2018-06-17,0,1,away_home,Samara,f4e40bec-1fbb-4e75-bcf1-3fec1add317c
+2018,Poules,Brazil,Switzerland,2018-06-17,1,1,draw,Rostov-on-Don,453de719-4d50-4af8-9cae-3e59883ba203
+2018,Poules,Sweden,South Korea,2018-06-18,1,0,home_team,Nizhny Novgorod,fe85cdbe-0e51-44d5-a168-ea53b4a25bc8
+2018,Poules,Tunisia,England,2018-06-18,1,2,away_home,Volgograd,508c6134-f5f9-4a25-b953-455089b075e1
+2018,Poules,Belgium,Panama,2018-06-18,3,0,home_team,Sochi,4a53389e-a0da-4cec-967a-a746775eead7
+2018,Poules,Russia,Egypt,2018-06-19,3,1,home_team,Saint Petersburg,e0dbd522-f431-4e2b-8d68-01356b9d6b77
+2018,Poules,Poland,Senegal,2018-06-19,1,2,away_home,Moscow,b15b0c61-36ac-4f6e-ac41-29bc1f630723
+2018,Poules,Colombia,Japan,2018-06-19,1,2,away_home,Saransk,a87454dd-03d5-4191-9726-e0c73c6cb1a5
+2018,Poules,Portugal,Morocco,2018-06-20,1,0,home_team,Moscow,537b1e85-b511-489a-93af-3c6e01958c27
+2018,Poules,Iran,Spain,2018-06-20,0,1,away_home,Kazan,8b30ccad-1d04-4c73-979b-1c3402b4eb8a
+2018,Poules,Uruguay,Saudi Arabia,2018-06-20,1,0,home_team,Rostov-on-Don,f806250d-6763-4499-b697-d58b11d82eb3
+2018,Poules,Denmark,Australia,2018-06-21,1,1,draw,Samara,61194d63-44d9-4ace-bdd2-11fc336e0f8b
+2018,Poules,Argentina,Croatia,2018-06-21,0,3,away_home,Nizhny Novgorod,103f6dd4-b7a1-4a7f-8d45-94fca45f8225
+2018,Poules,France,Peru,2018-06-21,1,0,home_team,Yekaterinburg,39c73b41-ee48-4065-a835-9c78e9bb1c7f
+2018,Poules,Nigeria,Iceland,2018-06-22,2,0,home_team,Volgograd,614eb440-109f-4db1-a883-e97fd58f5fbb
+2018,Poules,Serbia,Switzerland,2018-06-22,1,2,away_home,Kaliningrad,47548b4d-ddc5-40f7-bd8f-67de2b08504d
+2018,Poules,Brazil,Costa Rica,2018-06-22,2,0,home_team,Saint Petersburg,c0a0ff1e-b9a5-4470-8068-6b1c35e23798
+2018,Poules,Germany,Sweden,2018-06-23,2,1,home_team,Sochi,45da62cc-657d-44c9-9a8e-92af109ad204
+2018,Poules,South Korea,Mexico,2018-06-23,1,2,away_home,Rostov-on-Don,acb5dc18-9ce8-4175-b65a-a4cc45665eb3
+2018,Poules,Belgium,Tunisia,2018-06-23,5,2,home_team,Moscow,4304f447-1fdc-4086-ae81-59fe0b1548e0
+2018,Poules,Japan,Senegal,2018-06-24,2,2,draw,Yekaterinburg,dd4794cc-da80-49f1-b18c-81c9061811f1
+2018,Poules,Poland,Colombia,2018-06-24,0,3,away_home,Kazan,71e96f2a-0079-4633-881c-855bea211270
+2018,Poules,England,Panama,2018-06-24,6,1,home_team,Nizhny Novgorod,7365a2a9-ef3b-42c3-a371-2e71060085a8
+2018,Poules,Iran,Portugal,2018-06-25,1,1,draw,Saransk,9b8c3461-7110-43bd-a002-1b1480940d5f
+2018,Poules,Saudi Arabia,Egypt,2018-06-25,2,1,home_team,Volgograd,eecfed22-0191-4d9c-b30c-33cf0c22b2ea
+2018,Poules,Spain,Morocco,2018-06-25,2,2,draw,Kaliningrad,99156be4-276d-4131-9604-6adc0ae4ef54
+2018,Poules,Uruguay,Russia,2018-06-25,3,0,home_team,Samara,704c71cd-05ca-4650-90d8-03ea6ee29023
+2018,Poules,Nigeria,Argentina,2018-06-26,1,2,away_home,Saint Petersburg,f96d888b-fff6-431f-a4ab-119403327db6
+2018,Poules,Iceland,Croatia,2018-06-26,1,2,away_home,Rostov-on-Don,867b66e7-2a01-4ad2-b6b5-b41dc21af0b2
+2018,Poules,Denmark,France,2018-06-26,0,0,draw,Moscow,f0f94ff5-506d-4599-bb87-0f903fc26517
+2018,Poules,Australia,Peru,2018-06-26,0,2,away_home,Sochi,8b403b5a-6070-4081-9533-76d7b634d4da
+2018,Poules,Serbia,Brazil,2018-06-27,0,2,away_home,Moscow,86c0b565-d4fa-4a45-a031-93475fb00fb1
+2018,Poules,South Korea,Germany,2018-06-27,2,0,home_team,Kazan,c337787b-2ba5-4c2e-b27b-09cd239f84a6
+2018,Poules,Mexico,Sweden,2018-06-27,0,3,away_home,Yekaterinburg,1b16b1e6-add5-4571-bdd5-4462a37e2846
+2018,Poules,Switzerland,Costa Rica,2018-06-27,2,2,draw,Nizhny Novgorod,f1dc7731-7c3c-4208-b25c-cd2ba850457b
+2018,Poules,England,Belgium,2018-06-28,0,1,away_home,Kaliningrad,1c0adb04-f733-429d-a5e1-c54ada1023f0
+2018,Poules,Panama,Tunisia,2018-06-28,1,2,away_home,Saransk,269c7194-e690-48f0-8e5a-c7c90f135843
+2018,Poules,Senegal,Colombia,2018-06-28,0,1,away_home,Samara,8434254a-1d55-4f7f-a73f-6985c87785dd
+2018,Poules,Japan,Poland,2018-06-28,0,1,away_home,Volgograd,66212797-c476-4ddb-a95d-ed6f702782db
+2018,Huitième de finale,Uruguay,Portugal,2018-06-30,2,1,home_team,Sochi,03646876-f291-4f32-93ec-a2ee5658787f
+2018,Huitième de finale,France,Argentina,2018-06-30,4,3,home_team,Kazan,c695172a-4c26-4929-b8ab-65fca0866434
+2018,Huitième de finale,Croatia,Denmark,2018-07-01,1,1,draw,Nizhny Novgorod,788d8428-3e30-44e1-b162-80ccd5ba1338
+2018,Huitième de finale,Spain,Russia,2018-07-01,1,1,draw,Moscow,986acc8d-0ba0-465f-90e0-d617c7b6de97
+2018,Huitième de finale,Belgium,Japan,2018-07-02,3,2,home_team,Rostov-on-Don,b473ee95-caf3-4fa3-9286-a46c9a542cbd
+2018,Huitième de finale,Brazil,Mexico,2018-07-02,2,0,home_team,Samara,304ee17f-9a0b-4e8b-9bd1-ef43e033bd17
+2018,Huitième de finale,Colombia,England,2018-07-03,1,1,draw,Moscow,162aeb09-b694-4086-b03b-4f4e0fde25ab
+2018,Huitième de finale,Sweden,Switzerland,2018-07-03,1,0,home_team,Saint Petersburg,c432f9eb-993a-4099-9354-b5e9aeecf100
+2018,Quarts de finale,Brazil,Belgium,2018-07-06,1,2,away_home,Kazan,85529a94-d190-4f2d-841f-bb689b6eebbf
+2018,Quarts de finale,Uruguay,France,2018-07-06,0,2,away_home,Nizhny Novgorod,360192a6-00f4-4c6f-9dd8-f39721615cb5
+2018,Quarts de finale,Sweden,England,2018-07-07,0,2,away_home,Samara,2fe3340a-7f1a-43de-a1da-c3e10f0a7129
+2018,Quarts de finale,Russia,Croatia,2018-07-07,2,2,draw,Sochi,60ea401d-910e-403c-9c63-a39603bdf117
+2018,Demi-finales,France,Belgium,2018-07-10,1,0,home_team,Saint Petersburg,90cb3e55-9c04-4bd5-8204-4ffe707174e2
+2018,Demi-finales,Croatia,England,2018-07-11,2,1,home_team,Moscow,cbf5fb4d-15ae-4e03-8509-93054164e51a
+2018,Troisième place,Belgium,England,2018-07-14,2,0,home_team,Saint Petersburg,f932a2d7-5d78-4039-bbe9-2115b64ab828
+2018,Finale,France,Croatia,2018-07-15,4,2,home_team,Moscow,2f820370-e5b4-4324-b5b3-3ae473f18767
+2022,Poules,Qatar,Ecuador,2022-11-20,0,2,away_team,Al Khor,32d9a057-7874-41ee-8bec-1a56886175b0
+2022,Poules,England,Iran,2022-11-21,6,2,home_team,Ar-Rayyan,e5303959-cad1-4cd8-92d4-ecdf9971bb26
+2022,Poules,Senegal,Netherlands,2022-11-21,0,2,away_team,Doha,b459d3ca-7f24-42e5-8a72-d1f9a32718a8
+2022,Poules,United States,Wales,2022-11-21,1,1,draw,Ar-Rayyan,c6da49f0-a4ea-499d-b004-5c9be3df877d
+2022,Poules,Argentina,Saudi Arabia,2022-11-22,1,2,away_team,Al Daayen,f57ab698-c1ee-42c3-a403-327a064434f0
+2022,Poules,Denmark,Tunisia,2022-11-22,0,0,draw,Doha,7354fd0c-1598-4339-bbd0-c66dc25b65c5
+2022,Poules,Mexico,Poland,2022-11-22,0,0,draw,Doha,ec37bbca-9516-419c-852b-0892e3fdf9ca
+2022,Poules,France,Australia,2022-11-22,4,1,home_team,Al Wakrah,f2ef937b-14f4-4074-be90-ed5e6fef98b3
+2022,Poules,Belgium,Canada,2022-11-23,1,0,home_team,Ar-Rayyan,b17a2513-17c7-4353-819e-772bd475a535
+2022,Poules,Spain,Costa Rica,2022-11-23,7,0,home_team,Doha,24e43349-91ff-41f6-b320-0df490d47316
+2022,Poules,Germany,Japan,2022-11-23,1,2,away_team,Ar-Rayyan,b77c60bf-b791-4a58-965f-9fe75a5198a4
+2022,Poules,Morocco,Croatia,2022-11-23,0,0,draw,Al Khor,35024c87-45c9-4691-b42e-aa4658086058
+2022,Poules,Brazil,Serbia,2022-11-24,2,0,home_team,Al Daayen,0e0b1f7b-0a9d-47d0-9401-b617a691b498
+2022,Poules,Portugal,Ghana,2022-11-24,3,2,home_team,Doha,bf702631-8246-43bc-b0c0-0520df98067b
+2022,Poules,Switzerland,Cameroon,2022-11-24,1,0,home_team,Al Wakrah,00137e55-5336-460e-993d-ba1863f133b1
+2022,Poules,Uruguay,Korea Republic,2022-11-24,0,0,draw,Doha,b6766281-f969-4579-ac0d-7b56cf5df29e
+2022,Poules,England,United States,2022-11-25,0,0,draw,Al Khor,48831349-d758-48a8-9720-1f6348e4dc22
+2022,Poules,Netherlands,Ecuador,2022-11-25,1,1,draw,Ar-Rayyan,3710322f-a4c6-4771-a8e0-20c412c8c73b
+2022,Poules,Qatar,Senegal,2022-11-25,1,3,away_team,Doha,b686cbf7-fc14-4510-ac4d-4831b52a0ab8
+2022,Poules,Wales,Iran,2022-11-25,0,2,away_team,Ar-Rayyan,edde1010-b92d-4566-b157-3eefddb72399
+2022,Poules,Tunisia,Australia,2022-11-26,0,1,away_team,Al Wakrah,c8025b24-3757-4e39-b76c-97af7c90ed3f
+2022,Poules,Poland,Saudi Arabia,2022-11-26,2,0,home_team,Doha,a741e66a-07c6-421d-a241-a492eb1b6fb6
+2022,Poules,France,Denmark,2022-11-26,2,1,home_team,Doha,ed57d1b4-1905-4b51-92a1-988063908e32
+2022,Poules,Argentina,Mexico,2022-11-26,2,0,home_team,Al Daayen,b66d6398-923c-4807-87ae-6bcceebddbd8
+2022,Poules,Spain,Germany,2022-11-27,1,1,draw,Al Khor,3473c0fa-d5f3-44ce-9526-7da800e306b0
+2022,Poules,Japan,Costa Rica,2022-11-27,0,1,away_team,Ar-Rayyan,32334f68-248c-4d7b-95c9-81b372c0da2f
+2022,Poules,Belgium,Morocco,2022-11-27,0,2,away_team,Doha,f9ee1393-8e3a-4558-ab61-c584947aefc0
+2022,Poules,Croatia,Canada,2022-11-27,4,1,home_team,Ar-Rayyan,59f367f2-6685-497d-b856-4b9b727aa89b
+2022,Poules,Brazil,Switzerland,2022-11-28,1,0,home_team,Doha,314aefa8-51bf-48b7-8b3a-f85d6630362f
+2022,Poules,Portugal,Uruguay,2022-11-28,2,0,home_team,Al Daayen,ad3279a6-1f8c-4e7a-82fa-0fa02b343220
+2022,Poules,Cameroon,Serbia,2022-11-28,3,3,draw,Al Wakrah,6ac81cb2-84b7-4cbc-ae4c-f3a643146d2b
+2022,Poules,Korea Republic,Ghana,2022-11-28,2,3,away_team,Doha,271ac4bc-c947-48e8-8735-f00d0e0db2c8
+2022,Poules,Iran,United States,2022-11-29,0,1,away_team,Doha,97f347ec-3d3a-4246-9cc9-622583f0df1e
+2022,Poules,Wales,England,2022-11-29,0,3,away_team,Ar-Rayyan,34155290-1096-419e-9093-fd0fe8bf3cb1
+2022,Poules,Netherlands,Qatar,2022-11-29,2,0,home_team,Al Khor,4fb8a711-9507-4395-8a90-58afcd7dda3b
+2022,Poules,Ecuador,Senegal,2022-11-29,1,2,away_team,Ar-Rayyan,5ed18482-a456-4390-815f-5b05d402be43
+2022,Poules,Tunisia,France,2022-11-30,1,0,home_team,Doha,a696ad58-ee28-4743-a5d8-ef047ed2b29b
+2022,Poules,Australia,Denmark,2022-11-30,1,0,home_team,Al Wakrah,2a735dbd-953b-4328-a916-a6daa4108c25
+2022,Poules,Saudi Arabia,Mexico,2022-11-30,1,2,away_team,Al Daayen,74cc36cf-301a-4d9d-87bf-db8cd6052684
+2022,Poules,Poland,Argentina,2022-11-30,0,2,away_team,Doha,17e7346c-e83d-4126-864e-bcb870057e73
+2022,Poules,Croatia,Belgium,2022-12-01,0,0,draw,Ar-Rayyan,d691006f-3a94-4d4f-822c-3de42d148bdb
+2022,Poules,Canada,Morocco,2022-12-01,1,2,away_team,Doha,9a6cd49e-8615-4c88-9905-b938d7e35ae6
+2022,Poules,Japan,Spain,2022-12-01,2,1,home_team,Ar-Rayyan,60805096-7526-4061-b6bb-4a7e38b74438
+2022,Poules,Costa Rica,Germany,2022-12-01,2,4,away_team,Al Khor,f30b2266-468d-4869-97e1-fac54e9be3cc
+2022,Poules,Serbia,Switzerland,2022-12-02,2,3,away_team,Doha,25c18184-fd0b-4af7-be0b-ac58b58cfcc5
+2022,Poules,Cameroon,Brazil,2022-12-02,1,0,home_team,Al Daayen,7d5405bf-d571-47b7-b3fe-d61635180812
+2022,Poules,Ghana,Uruguay,2022-12-02,0,2,away_team,Al Wakrah,4816c5f1-e324-4829-b96d-42709745ed85
+2022,Poules,Korea Republic,Portugal,2022-12-02,2,1,home_team,Doha,8a5874cf-a922-4a18-a2cf-0118d38b9050
+2022,Huitièmes de finale,Argentina,Australia,2022-12-03,2,1,home_team,Ar-Rayyan,8012da2c-61f4-4c50-aa9a-86c2590d5901
+2022,Huitièmes de finale,Netherlands,United States,2022-12-03,3,1,home_team,Ar-Rayyan,9e9ea8af-36ec-49e4-af2e-1f603e721a06
+2022,Huitièmes de finale,France,Poland,2022-12-04,3,1,home_team,Doha,8dad53ac-3ef9-4fb9-810c-ab29cfaf7007
+2022,Huitièmes de finale,England,Senegal,2022-12-04,3,0,home_team,Al Khor,05470ea0-b531-49c8-9868-306ac984b589
+2022,Huitièmes de finale,Japan,Croatia,2022-12-05,1,1,away_team,Al Wakrah,5e75e51f-aaab-4fa7-b7b6-1804768c0efc
+2022,Huitièmes de finale,Brazil,Korea Republic,2022-12-05,4,1,home_team,Doha,26fd56e5-73a2-4d19-85d0-0dbe07f625e4
+2022,Huitièmes de finale,Portugal,Switzerland,2022-12-06,6,1,home_team,Al Daayen,d52c802a-b0bb-4c74-8cc5-d31581625973
+2022,Huitièmes de finale,Morocco,Spain,2022-12-06,0,0,home_team,Doha,616780da-0d52-4a31-bc95-a789f1886603
+2022,Quarts de finale,Croatia,Brazil,2022-12-09,1,1,home_team,Doha,2775d49a-c951-46eb-b62d-3d132d38abd6
+2022,Quarts de finale,Netherlands,Argentina,2022-12-09,2,2,away_team,Al Daayen,29efe998-2d00-4246-8442-96b8a0bca292
+2022,Quarts de finale,Morocco,Portugal,2022-12-10,1,0,home_team,Doha,ad42a1b2-c1f2-4578-b497-66867bb48420
+2022,Quarts de finale,England,France,2022-12-10,1,2,away_team,Al Khor,4472ad4c-1435-43f7-b8c8-2e03eb911b6f
+2022,Demi-finales,Argentina,Croatia,2022-12-13,3,0,home_team,Al Daayen,b3bb383f-f01a-44ae-804d-33adc9fbd060
+2022,Demi-finales,France,Morocco,2022-12-14,2,0,home_team,Al Khor,66910f97-206d-42da-97b1-2067d936ab0c
+2022,Troisième place,Croatia,Morocco,2022-12-17,2,1,home_team,Ar-Rayyan,1688168a-d1de-480f-8904-f7113eca4e86
+2022,Finale,Argentina,France,2022-12-18,3,3,home_team,Al Daayen,d19473d2-3b33-435a-a0db-b29ff7bd7ec1

@@ -11,7 +11,7 @@ def clean_2014(data) :
     data['Away Team Name'] = data['Away Team Name'].str.replace('C�te', 'Côte')
     
     # Normalisation de la date au format YYYYMMDD :
-    data['Datetime'] = pd.to_datetime(data['Datetime']).dt.strftime("%Y%m%d")
+    data['Datetime'] = pd.to_datetime(data['Datetime']).dt.strftime("%Y-%m-%d")
 
     # Création de la colonne résultat
     data['result'] = 'draw'
@@ -27,7 +27,6 @@ def clean_2014(data) :
     data.loc[data['Stage'] == 'Final','Stage'] = 'Finale'
 
     return pd.DataFrame({
-        'id_match':data['MatchID'],
         'home_team': data['Home Team Name'],
         'away_team': data['Away Team Name'],
         'home_result': data['Home Team Goals'],
@@ -37,4 +36,4 @@ def clean_2014(data) :
         'round': data['Stage'],
         'city': data['City'],
         'edition': data['Year']
-    }).sort_values(['date','id_match'])
+    }).sort_values('date')
