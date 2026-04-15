@@ -1,0 +1,65 @@
+home_result,away_result,date,round,home_team,away_team,city,result,edition
+2,1,2018-06-30,Huitième de finale,Uruguay,Portugal,Sochi,home_team,2018
+4,3,2018-06-30,Huitième de finale,France,Argentina,Kazan,home_team,2018
+1,1,2018-07-01,Huitième de finale,Spain,Russia,Moscow,draw,2018
+1,1,2018-07-01,Huitième de finale,Croatia,Denmark,Nizhny Novgorod,draw,2018
+2,0,2018-07-02,Huitième de finale,Brazil,Mexico,Samara,home_team,2018
+3,2,2018-07-02,Huitième de finale,Belgium,Japan,Rostov-on-Don,home_team,2018
+1,0,2018-07-03,Huitième de finale,Sweden,Switzerland,Saint Petersburg,home_team,2018
+1,1,2018-07-03,Huitième de finale,Colombia,England,Moscow,draw,2018
+0,2,2018-07-06,Quarts de finale,Uruguay,France,Nizhny Novgorod,away_home,2018
+1,2,2018-07-06,Quarts de finale,Brazil,Belgium,Kazan,away_home,2018
+2,2,2018-07-07,Quarts de finale,Russia,Croatia,Sochi,draw,2018
+0,2,2018-07-07,Quarts de finale,Sweden,England,Samara,away_home,2018
+1,0,2018-07-10,Demi-finales,France,Belgium,Saint Petersburg,home_team,2018
+2,1,2018-07-11,Demi-finales,Croatia,England,Moscow,home_team,2018
+2,0,2018-07-14,Troisième place,Belgium,England,Saint Petersburg,home_team,2018
+4,2,2018-07-15,Finale,France,Croatia,Moscow,home_team,2018
+5,0,2018-06-14,Poules,Russia,Saudi Arabia,Moscow,home_team,2018
+0,1,2018-06-15,Poules,Egypt,Uruguay,Yekaterinburg,away_home,2018
+3,1,2018-06-19,Poules,Russia,Egypt,Saint Petersburg,home_team,2018
+1,0,2018-06-20,Poules,Uruguay,Saudi Arabia,Rostov-on-Don,home_team,2018
+3,0,2018-06-25,Poules,Uruguay,Russia,Samara,home_team,2018
+2,1,2018-06-25,Poules,Saudi Arabia,Egypt,Volgograd,home_team,2018
+3,3,2018-06-15,Poules,Portugal,Spain,Sochi,draw,2018
+0,1,2018-06-15,Poules,Morocco,Iran,Saint Petersburg,away_home,2018
+1,0,2018-06-20,Poules,Portugal,Morocco,Moscow,home_team,2018
+0,1,2018-06-20,Poules,Iran,Spain,Kazan,away_home,2018
+1,1,2018-06-25,Poules,Iran,Portugal,Saransk,draw,2018
+2,2,2018-06-25,Poules,Spain,Morocco,Kaliningrad,draw,2018
+2,1,2018-06-16,Poules,France,Australia,Kazan,home_team,2018
+0,1,2018-06-16,Poules,Peru,Denmark,Saransk,away_home,2018
+1,0,2018-06-21,Poules,France,Peru,Yekaterinburg,home_team,2018
+1,1,2018-06-21,Poules,Denmark,Australia,Samara,draw,2018
+0,0,2018-06-26,Poules,Denmark,France,Moscow,draw,2018
+0,2,2018-06-26,Poules,Australia,Peru,Sochi,away_home,2018
+1,1,2018-06-16,Poules,Argentina,Iceland,Moscow,draw,2018
+2,0,2018-06-16,Poules,Croatia,Nigeria,Kaliningrad,home_team,2018
+0,3,2018-06-21,Poules,Argentina,Croatia,Nizhny Novgorod,away_home,2018
+2,0,2018-06-22,Poules,Nigeria,Iceland,Volgograd,home_team,2018
+1,2,2018-06-26,Poules,Nigeria,Argentina,Saint Petersburg,away_home,2018
+1,2,2018-06-26,Poules,Iceland,Croatia,Rostov-on-Don,away_home,2018
+1,1,2018-06-17,Poules,Brazil,Switzerland,Rostov-on-Don,draw,2018
+0,1,2018-06-17,Poules,Costa Rica,Serbia,Samara,away_home,2018
+2,0,2018-06-22,Poules,Brazil,Costa Rica,Saint Petersburg,home_team,2018
+1,2,2018-06-22,Poules,Serbia,Switzerland,Kaliningrad,away_home,2018
+0,2,2018-06-27,Poules,Serbia,Brazil,Moscow,away_home,2018
+2,2,2018-06-27,Poules,Switzerland,Costa Rica,Nizhny Novgorod,draw,2018
+0,1,2018-06-17,Poules,Germany,Mexico,Moscow,away_home,2018
+1,0,2018-06-18,Poules,Sweden,South Korea,Nizhny Novgorod,home_team,2018
+2,1,2018-06-23,Poules,Germany,Sweden,Sochi,home_team,2018
+1,2,2018-06-23,Poules,South Korea,Mexico,Rostov-on-Don,away_home,2018
+2,0,2018-06-27,Poules,South Korea,Germany,Kazan,home_team,2018
+0,3,2018-06-27,Poules,Mexico,Sweden,Yekaterinburg,away_home,2018
+3,0,2018-06-18,Poules,Belgium,Panama,Sochi,home_team,2018
+1,2,2018-06-18,Poules,Tunisia,England,Volgograd,away_home,2018
+5,2,2018-06-23,Poules,Belgium,Tunisia,Moscow,home_team,2018
+6,1,2018-06-24,Poules,England,Panama,Nizhny Novgorod,home_team,2018
+0,1,2018-06-28,Poules,England,Belgium,Kaliningrad,away_home,2018
+1,2,2018-06-28,Poules,Panama,Tunisia,Saransk,away_home,2018
+1,2,2018-06-19,Poules,Poland,Senegal,Moscow,away_home,2018
+1,2,2018-06-19,Poules,Colombia,Japan,Saransk,away_home,2018
+0,3,2018-06-24,Poules,Poland,Colombia,Kazan,away_home,2018
+2,2,2018-06-24,Poules,Japan,Senegal,Yekaterinburg,draw,2018
+0,1,2018-06-28,Poules,Japan,Poland,Volgograd,away_home,2018
+0,1,2018-06-28,Poules,Senegal,Colombia,Samara,away_home,2018
