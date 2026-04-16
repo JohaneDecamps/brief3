@@ -9,8 +9,8 @@ def clean_2014(data) :
     # Nettoyage des noms de pays :
     data['Home Team Name'] = data['Home Team Name'].str.replace('C�te', 'Côte')
     data['Away Team Name'] = data['Away Team Name'].str.replace('C�te', 'Côte')
-    data['Home Team Name'] = data['Home Team Name'].str.replace('rn">Bosnia ', 'Bosnia')
-    data['Away Team Name'] = data['Away Team Name'].str.replace('rn">Bosnia ', 'Bosnia')
+    data['Home Team Name'] = data['Home Team Name'].str.replace('rn">Bosnia ', 'Bosnia ')
+    data['Away Team Name'] = data['Away Team Name'].str.replace('rn">Bosnia ', 'Bosnia ')
     
     # Normalisation de la date au format YYYYMMDD :
     data['Datetime'] = pd.to_datetime(data['Datetime']).dt.strftime("%Y-%m-%d")
