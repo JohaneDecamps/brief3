@@ -1,12 +1,12 @@
 home_result,away_result,date,round,home_team,away_team,city,result,edition
-2,1,2018-06-30,Huitième de finale,Uruguay,Portugal,Sochi,home_team,2018
-4,3,2018-06-30,Huitième de finale,France,Argentina,Kazan,home_team,2018
-1,1,2018-07-01,Huitième de finale,Spain,Russia,Moscow,draw,2018
-1,1,2018-07-01,Huitième de finale,Croatia,Denmark,Nizhny Novgorod,draw,2018
-2,0,2018-07-02,Huitième de finale,Brazil,Mexico,Samara,home_team,2018
-3,2,2018-07-02,Huitième de finale,Belgium,Japan,Rostov-on-Don,home_team,2018
-1,0,2018-07-03,Huitième de finale,Sweden,Switzerland,Saint Petersburg,home_team,2018
-1,1,2018-07-03,Huitième de finale,Colombia,England,Moscow,draw,2018
+2,1,2018-06-30,Huitièmes de finale,Uruguay,Portugal,Sochi,home_team,2018
+4,3,2018-06-30,Huitièmes de finale,France,Argentina,Kazan,home_team,2018
+1,1,2018-07-01,Huitièmes de finale,Spain,Russia,Moscow,draw,2018
+1,1,2018-07-01,Huitièmes de finale,Croatia,Denmark,Nizhny Novgorod,draw,2018
+2,0,2018-07-02,Huitièmes de finale,Brazil,Mexico,Samara,home_team,2018
+3,2,2018-07-02,Huitièmes de finale,Belgium,Japan,Rostov-on-Don,home_team,2018
+1,0,2018-07-03,Huitièmes de finale,Sweden,Switzerland,Saint Petersburg,home_team,2018
+1,1,2018-07-03,Huitièmes de finale,Colombia,England,Moscow,draw,2018
 0,2,2018-07-06,Quarts de finale,Uruguay,France,Nizhny Novgorod,away_home,2018
 1,2,2018-07-06,Quarts de finale,Brazil,Belgium,Kazan,away_home,2018
 2,2,2018-07-07,Quarts de finale,Russia,Croatia,Sochi,draw,2018

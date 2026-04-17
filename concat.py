@@ -28,7 +28,9 @@ df_2022 = clean_2022(data_2022)
 # Concaténation des DF
 df_matchs = pd.concat([df_1930_2010, df_2014, df_2018, df_2022])
 df_matchs['date'] = pd.to_datetime(df_matchs['date']).dt.date 
-df_matchs['id_match'] = [uuid.uuid4() for index, row in df_matchs.iterrows()]
+#df_matchs['id_match'] = [uuid.uuid4() for index, row in df_matchs.iterrows()]
 df_matchs = df_matchs.sort_values('date')
-
+df_matchs = df_matchs.reset_index(drop=True)
+df_matchs['id_match'] = df_matchs.index + 1
 df_matchs.to_csv('./data/all_games.csv',index=False)
+print(df_matchs.head(5))
