@@ -34,7 +34,7 @@ except mysql.connector.Error as err:
 # Requête CREATE TABLE
 table = (
     "CREATE TABLE `matchs` ("
-    "  `id_match` CHAR(36),"
+    "  `id_match` INT,"
     "  `home_team` VARCHAR(255),"
     "  `away_team` VARCHAR(255),"
     "  `home_result` INT,"

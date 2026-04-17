@@ -68,12 +68,12 @@ edition,round,home_team,away_team,date,home_result,away_result,result,city
 1950,Poules,Uruguay,Bolivia,1950-01-01,8,0,home_team,Belo Horizonte
 1950,Poules,Switzerland ,Mexico ,1950-01-01,2,1,home_team,Porto_Alegre
 1950,Poules,Chile,USA,1950-01-01,5,2,home_team,Recife
-1950,Finale,Brazil ,Sweden ,1950-01-01,7,1,home_team,Rio De Janeiro
-1950,Finale,Uruguay,Spain ,1950-01-01,2,2,draw,São_Paulo
-1950,Finale,Uruguay,Sweden ,1950-01-01,3,2,home_team,São_Paulo
-1950,Finale,Brazil ,Spain ,1950-01-01,6,1,home_team,Rio De Janeiro
-1950,Finale,Sweden ,Spain ,1950-01-01,3,1,home_team,São_Paulo
-1950,Finale,Uruguay,Brazil ,1950-01-01,2,1,home_team,Rio De Janeiro
+1950,Poule Finale,Brazil ,Sweden ,1950-01-01,7,1,home_team,Rio De Janeiro
+1950,Poule Finale,Uruguay,Spain ,1950-01-01,2,2,draw,São_Paulo
+1950,Poule Finale,Uruguay,Sweden ,1950-01-01,3,2,home_team,São_Paulo
+1950,Poule Finale,Brazil ,Spain ,1950-01-01,6,1,home_team,Rio De Janeiro
+1950,Poule Finale,Sweden ,Spain ,1950-01-01,3,1,home_team,São_Paulo
+1950,Poule Finale,Uruguay,Brazil ,1950-01-01,2,1,home_team,Rio De Janeiro
 1954,Poules,Yugoslavia ,France,1954-01-01,1,0,home_team,Lausanne
 1954,Poules,Brazil ,Mexico ,1954-01-01,5,0,home_team,Genève
 1954,Poules,Austria ,Scotland,1954-01-01,1,0,home_team,Zürich

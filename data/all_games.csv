@@ -55,13 +55,13 @@ edition,round,home_team,away_team,date,home_result,away_result,result,city,id_ma
 1950,Poules,Uruguay,Bolivia,1950-01-01,8,0,home_team,Belo Horizonte,54
 1950,Poules,Switzerland ,Mexico ,1950-01-01,2,1,home_team,Porto_Alegre,55
 1950,Poules,Chile,USA,1950-01-01,5,2,home_team,Recife,56
-1950,Finale,Brazil ,Sweden ,1950-01-01,7,1,home_team,Rio De Janeiro,57
-1950,Finale,Uruguay,Brazil ,1950-01-01,2,1,home_team,Rio De Janeiro,58
-1950,Finale,Uruguay,Sweden ,1950-01-01,3,2,home_team,São_Paulo,59
-1950,Finale,Brazil ,Spain ,1950-01-01,6,1,home_team,Rio De Janeiro,60
-1950,Finale,Sweden ,Spain ,1950-01-01,3,1,home_team,São_Paulo,61
+1950,Poule Finale,Brazil ,Sweden ,1950-01-01,7,1,home_team,Rio De Janeiro,57
+1950,Poule Finale,Uruguay,Brazil ,1950-01-01,2,1,home_team,Rio De Janeiro,58
+1950,Poule Finale,Uruguay,Sweden ,1950-01-01,3,2,home_team,São_Paulo,59
+1950,Poule Finale,Brazil ,Spain ,1950-01-01,6,1,home_team,Rio De Janeiro,60
+1950,Poule Finale,Sweden ,Spain ,1950-01-01,3,1,home_team,São_Paulo,61
 1950,Poules,Italy ,Paraguay,1950-01-01,2,0,home_team,São_Paulo,62
-1950,Finale,Uruguay,Spain ,1950-01-01,2,2,draw,São_Paulo,63
+1950,Poule Finale,Uruguay,Spain ,1950-01-01,2,2,draw,São_Paulo,63
 1950,Poules,Spain ,England,1950-01-01,1,0,home_team,Rio De Janeiro,64
 1950,Poules,Brazil ,Switzerland ,1950-01-01,2,2,draw,São_Paulo,65
 1950,Poules,USA,England,1950-01-01,1,0,home_team,Belo Horizonte,66
